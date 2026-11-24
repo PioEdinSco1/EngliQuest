@@ -189,10 +189,26 @@ const tenseExamples=[
  ["By Friday, she ___ the report.","will have completed",["will complete","completes","will be completing"]],
  ["By June, they ___ on the project for a year.","will have been working",["will work","will be working","have worked"]]
 ];
+const tenseLearning={
+ "Present Simple":{sentence:"On pije kawę każdego ranka.",gloss:{"drinks":"pije","drink":"pić","drinking":"pijący / pijąc","drank":"pił"}},
+ "Present Continuous":{sentence:"Oni właśnie czekają na autobus.",gloss:{"are waiting":"właśnie czekają","wait":"czekać","waited":"czekali","have waited":"czekali / poczekali"}},
+ "Present Perfect":{sentence:"Przeczytałem tę książkę dwa razy.",gloss:{"have read":"przeczytałem / czytałem już","read":"czytać / przeczytał","am reading":"właśnie czytam","had read":"przeczytałem wcześniej"}},
+ "Present Perfect Continuous":{sentence:"Ona pracuje tutaj od dwóch godzin.",gloss:{"has been working":"pracuje (już od jakiegoś czasu)","is working":"właśnie pracuje","worked":"pracowała","had worked":"pracowała wcześniej"}},
+ "Past Simple":{sentence:"W zeszły weekend pojechaliśmy do Yorku.",gloss:{"travelled":"pojechaliśmy / podróżowaliśmy","travel":"podróżować","have travelled":"podróżowaliśmy / odwiedziliśmy","were travelling":"podróżowaliśmy (w trakcie)"}},
+ "Past Continuous":{sentence:"Wczoraj o ósmej gotowałem kolację.",gloss:{"was cooking":"gotowałem (wtedy, w trakcie)","cooked":"ugotowałem / gotowałem","am cooking":"właśnie gotuję","have cooked":"ugotowałem już"}},
+ "Past Perfect":{sentence:"Pociąg odjechał, zanim przyjechaliśmy.",gloss:{"had left":"odjechał wcześniej","has left":"właśnie odjechał / odjechał już","left":"odjechał","was leaving":"właśnie odjeżdżał"}},
+ "Past Perfect Continuous":{sentence:"Czekał od wielu godzin, zanim przyjechał lekarz.",gloss:{"had been waiting":"czekał już od wielu godzin","has been waiting":"czeka już od wielu godzin","waited":"czekał / poczekał","was waiting":"czekał (w danym momencie)"}},
+ "Future Simple":{sentence:"Myślę, że jutro będzie padać.",gloss:{"will rain":"będzie padać","rains":"pada / padać","is raining":"właśnie pada","has rained":"padało / już padało"}},
+ "Future Continuous":{sentence:"Jutro o tej porze będziemy lecieć nad Atlantykiem.",gloss:{"will be flying":"będziemy lecieć (w trakcie)","fly":"latamy / lecieć","will have flown":"będziemy już po locie","are flying":"właśnie lecimy / lecimy (plan)"}},
+ "Future Perfect":{sentence:"Do piątku ona ukończy raport.",gloss:{"will have completed":"będzie miała ukończony","will complete":"ukończy","completes":"kończy","will be completing":"będzie kończyć (w trakcie)"}},
+ "Future Perfect Continuous":{sentence:"W czerwcu minie rok, odkąd pracują nad tym projektem.",gloss:{"will have been working":"będą pracować już od roku","will work":"będą pracować","will be working":"będą wtedy pracować","have worked":"pracowali / pracują już"}}
+};
 function makeTenseQuestions(lv){
  return tenseExamples.map((item,i)=>{
-  const options=shuffle([item[1],...item[2]]);
-  return {tense:tenseNames[i],q:item[0],a:item[1],o:options,c:options.indexOf(item[1]),level:lv};
+  const tense=tenseNames[i],options=shuffle([item[1],...item[2]]),learning=tenseLearning[tense];
+  return {tense,q:item[0],a:item[1],o:options,c:options.indexOf(item[1]),level:lv,
+   sentenceTranslation:learning.sentence,
+   optionTranslations:options.map(option=>learning.gloss[option]||"znaczenie zależy od kontekstu")};
  });
 }
 
@@ -332,8 +348,15 @@ function check(i){
  const q=questions[index],ok=i===q.c;
  document.querySelectorAll(".answer").forEach((b,n)=>{b.disabled=true;if(n===q.c)b.classList.add("correct");if(n===i&&!ok)b.classList.add("wrong")});
  record(ok,q);
- let details=q.o.map((v,n)=>"<div>"+v+" — "+q.tr[n]+(n===q.c?" ✓":"")+"</div>").join("");
- document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b><br>"+details+"</div>";
+ if(mode==="tenses"){
+  const completed=q.q.replace("___",q.a);
+  const sentence="<div style='margin-top:12px'><b>Całe zdanie:</b><br>"+escapeHtml(completed)+"<br><span style='color:#9fc4e8'>"+escapeHtml(q.sentenceTranslation||"Tłumaczenie niedostępne")+"</span></div>";
+  const details=q.o.map((v,n)=>"<div style='padding:7px 0;border-bottom:1px solid #29425e'><b style='color:"+(n===q.c?"#25d69a":"#e8f0fb")+"'>"+escapeHtml(v)+(n===q.c?" ✓":"")+"</b><br><span style='color:#9fc4e8'>"+escapeHtml(q.optionTranslations?.[n]||"")+"</span></div>").join("");
+  document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b>"+sentence+"<div style='margin-top:14px'><b>Znaczenie wszystkich odpowiedzi:</b>"+details+"</div></div>";
+ }else{
+  let details=q.o.map((v,n)=>"<div>"+v+" — "+(q.tr?.[n]||"")+(n===q.c?" ✓":"")+"</div>").join("");
+  document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b><br>"+details+"</div>";
+ }
  document.getElementById("next").style.display="inline-block";
 }
 function record(ok,q){
