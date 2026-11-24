@@ -264,8 +264,9 @@ function spellingSimilarity(a,b){
  return 1-row[b.length]/Math.max(a.length,b.length,1);
 }
 function buildWordQuestion(entry,pool){
- const targetMeaning=entry.meanings[Math.floor(Math.random()*entry.meanings.length)]||entry.word;
- const candidates=pool.filter(x=>x.word.toLowerCase()!==entry.word.toLowerCase()&&!x.meanings.some(m=>m.toLocaleLowerCase("pl")===targetMeaning.toLocaleLowerCase("pl")));
+ const allMeanings=[...new Set(entry.meanings.map(x=>String(x).trim()).filter(Boolean))];
+ const targetMeaning=allMeanings.join("; ")||entry.word;
+ const candidates=pool.filter(x=>x.word.toLowerCase()!==entry.word.toLowerCase()&&!x.meanings.some(m=>allMeanings.some(target=>m.toLocaleLowerCase("pl")===target.toLocaleLowerCase("pl"))));
  const samePos=candidates.filter(x=>entry.pos.length&&x.pos.some(p=>entry.pos.includes(p)));
  const target={A1:.28,A2:.36,B1:.44,B2:.52,C1:.60,C2:.68}[level]||.28;
  const ranked=list=>list.map(x=>({item:x,similarity:spellingSimilarity(entry.word,x.word)})).sort((a,b)=>b.similarity-a.similarity);
@@ -277,7 +278,7 @@ function buildWordQuestion(entry,pool){
  }
  if(distractors.length<3)return null;
  const options=shuffle([entry,...distractors]);
- return {q:targetMeaning,a:entry.word,o:options.map(x=>x.word),tr:options.map(x=>x===entry?targetMeaning:x.meanings[0]),c:options.findIndex(x=>x===entry)};
+ return {q:targetMeaning,a:entry.word,o:options.map(x=>x.word),tr:options.map(x=>x===entry?targetMeaning:x.meanings.join("; ")),c:options.findIndex(x=>x===entry)};
 }
 function buildTopicQuestion(entry,pool){const distractors=shuffle(pool.filter(x=>x.en!==entry.en)).slice(0,3);if(distractors.length<3)return null;const options=shuffle([entry,...distractors]);return {q:entry.en,a:entry.en,o:options.map(x=>x.en),tr:options.map(x=>x.pl),c:options.findIndex(x=>x===entry)};}
 function startGame(){
