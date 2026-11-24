@@ -182,6 +182,23 @@ const bank={
 };
 
 const sentenceBank=window.sentenceBank;
+
+const topicPronunciations={};
+function buildPronunciationIndex(){
+ const all=[...(window.topicAlphabet||[]).map(x=>({en:x[0].split(" — ")[1],read:x[2]})),...Object.values(window.topicBanks||{}).flat()];
+ all.forEach(x=>{if(x.en&&x.read)topicPronunciations[x.en.toLowerCase()]=x.read;});
+}
+buildPronunciationIndex();
+function approximateEnglish(word){
+ const w=word.toLowerCase(),known={the:"ze",this:"dhis",that:"dhat",these:"dhiz",those:"dhołz",you:"ju",your:"jor",are:"a",was:"łoz",were:"łer",have:"haw",has:"haz",had:"had",what:"łot",where:"łea",when:"łen",which:"łicz",who:"hu",why:"łaj",how:"hał",can:"ken",could:"kud",would:"łud",should:"szud",one:"łan",two:"tu",three:"thri",year:"jier",saturday:"saterdej",than:"dhen",seem:"sim"};
+ if(known[w])return known[w];
+ return w.replace(/tion$/g,"szyn").replace(/ture$/g,"czer").replace(/ough/g,"af").replace(/igh/g,"aj").replace(/ee|ea/g,"i").replace(/oo/g,"u").replace(/ph/g,"f").replace(/sh/g,"sz").replace(/ch/g,"cz").replace(/th/g,"th").replace(/ng/g,"ng").replace(/qu/g,"kł").replace(/ck/g,"k").replace(/wh/g,"ł").replace(/wr/g,"r").replace(/kn/g,"n").replace(/c(?=[eiy])/g,"s").replace(/g(?=[eiy])/g,"dż").replace(/x/g,"ks").replace(/y$/g,"i").replace(/e$/g,"")||w;
+}
+function withPronunciation(value,enabled=true){
+ if(!enabled||typeof value!=="string")return value;
+ return value.replace(/[A-Za-z]+(?:[’'][A-Za-z]+)*/g,word=>word+" ("+(topicPronunciations[word.toLowerCase()]||approximateEnglish(word))+")");
+}
+
 const tenseNames=["Present Simple","Present Continuous","Present Perfect","Present Perfect Continuous","Past Simple","Past Continuous","Past Perfect","Past Perfect Continuous","Future Simple","Future Continuous","Future Perfect","Future Perfect Continuous"];
 function makeTenseQuestions(lv){
  const rank={A1:1,A2:2,B1:3,B2:4,C1:5,C2:6},source=window.tenseQuestionBank||{};
@@ -202,7 +219,7 @@ let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
 let levelTotals=JSON.parse(localStorage.getItem("eqLevelTotals")||"{}");
 const letters="abcdefghijklmnopqrstuvwxyz".split("");
 function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-function refreshAmountOptions(){if(mode==="sentences"){const max=sentenceBank[level].length;const old=Number(amount.value)||50;amount.innerHTML="";const choices=[];for(let n=50;n<=max;n+=50)choices.push(n);if(max>0&&(!choices.length||choices[choices.length-1]!==max))choices.push(max);choices.forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(choices.includes(old)?old:(choices.find(n=>n>=old)||max));return;}if(mode==="tenses"){const old=Number(amount.value)||12;amount.innerHTML="";[5,10,12,20,30,36,50,60,80,96].forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);});amount.value=String([5,10,12,20,30,36,50,60,80,96].includes(old)?old:12);return;}if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
+function refreshAmountOptions(){if(mode.startsWith("topic-")){const key=mode.slice(6),rows=key==="alphabet"?(window.topicAlphabet||[]):((window.topicBanks||{})[key]||[]),max=rows.length,old=Number(amount.value)||20;amount.innerHTML="";[10,20,30,50,75,100].filter(n=>n<=max).concat(max&&![10,20,30,50,75,100].includes(max)?[max]:[]).forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(Math.min(max,Math.max(1,old)));return;}if(mode==="sentences"){const max=sentenceBank[level].length;const old=Number(amount.value)||50;amount.innerHTML="";const choices=[];for(let n=50;n<=max;n+=50)choices.push(n);if(max>0&&(!choices.length||choices[choices.length-1]!==max))choices.push(max);choices.forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(choices.includes(old)?old:(choices.find(n=>n>=old)||max));return;}if(mode==="tenses"){const old=Number(amount.value)||12;amount.innerHTML="";[5,10,12,20,30,36,50,60,80,96].forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);});amount.value=String([5,10,12,20,30,36,50,60,80,96].includes(old)?old:12);return;}if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
  const seen=new Set();
