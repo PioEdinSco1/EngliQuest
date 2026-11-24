@@ -224,7 +224,7 @@ function refreshAmountOptions(){if(mode.startsWith("topic-")){const key=mode.sli
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
  const seen=new Set();
- loaded.flat().forEach(entry=>{const lv=entry.level;if(!vocabularyByLevel[lv]||!entry.word||!Array.isArray(entry.meaning)||!entry.meaning.length)return;const word=String(entry.word).trim();const key=lv+"|"+word.toLocaleLowerCase("en");if(seen.has(key))return;seen.add(key);const meanings=entry.meaning.map(x=>String(x).trim()).filter(Boolean);if(!meanings.length)return;vocabularyByLevel[lv].push({word,meanings,pos:Array.isArray(entry.partOfSpeech)?entry.partOfSpeech:[]});});
+ loaded.flat().forEach(entry=>{const lv=entry.level;if(!vocabularyByLevel[lv]||!entry.word||!Array.isArray(entry.meaning)||!entry.meaning.length)return;const word=String(entry.word).trim();if(/\.$/.test(word))return;const key=lv+"|"+word.toLocaleLowerCase("en");if(seen.has(key))return;seen.add(key);const meanings=entry.meaning.map(x=>String(x).trim()).filter(Boolean);if(!meanings.length)return;vocabularyByLevel[lv].push({word,meanings,pos:Array.isArray(entry.partOfSpeech)?entry.partOfSpeech:[]});});
  Object.keys(vocabularyByLevel).forEach(lv=>vocabularyByLevel[lv].sort((a,b)=>a.word.localeCompare(b.word)));
  document.getElementById("vocabStatus").textContent="Baza słówek załadowana. Dostępne hasła: "+Object.entries(vocabularyByLevel).map(([lv,list])=>lv+": "+list.length).join(" • ");
  refreshAmountOptions();updateStats();
