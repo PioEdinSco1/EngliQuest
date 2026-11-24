@@ -196,15 +196,10 @@ const tenseExamples=[
  ["By June, they ___ on the project for a year.","will have been working",["will work","will be working","have worked"]]
 ];
 function makeTenseQuestions(lv){
- const substitutions={
- A1:["My brother","They","I","She","We","I","The bus","He","It","My parents","Anna","You"],
- A2:["Our teacher","They","I","She","We","My sister","The plane","He","It","My friends","The team","You"],
- B1:["The manager","They","I","She","We","My colleague","The company","He","It","Our neighbours","The researchers","You"],
- B2:["The committee","They","I","She","We","The department","The agreement","He","It","The analysts","The organisation","You"],
- C1:["The board","They","I","She","We","The institution","The proposal","He","It","The investigators","The administration","You"],
- C2:["The delegation","They","I","She","We","The commission","The framework","He","It","The scholars","The consortium","You"]
- };
- return tenseExamples.map((item,i)=>{const options=shuffle([item[1],...item[2]]);return {tense:tenseNames[i],q:item[0],a:item[1],o:options,c:options.indexOf(item[1]),level:lv,subject:substitutions[lv][i]};}).map(item=>({...item,q:item.q.replace(/^(He|They|I|She|We|The train|At eight yesterday, I|This time tomorrow, we|By Friday, she|By June, they)/,item.subject)}));
+ return tenseExamples.map((item,i)=>{
+  const options=shuffle([item[1],...item[2]]);
+  return {tense:tenseNames[i],q:item[0],a:item[1],o:options,c:options.indexOf(item[1]),level:lv};
+ });
 }
 
 let level="A1",mode="words",questions=[],index=0,right=0,wrong=0,answered=false,timer=null,timeLeft=0,missed=[];
