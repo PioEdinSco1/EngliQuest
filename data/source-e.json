@@ -30,7 +30,9 @@
       "chętny",
       "gorąco pragnący"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -38,7 +40,9 @@
     "meaning": [
       "orzeł"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -48,7 +52,9 @@
       "słuch",
       "kłos"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -57,7 +63,9 @@
       "bębenek uszny",
       "bębenek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -65,7 +73,9 @@
     "meaning": [
       "hrabia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -84,7 +94,9 @@
     "meaning": [
       "płatek ucha"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -108,7 +120,9 @@
       "przynosić",
       "zasłużyć na"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -117,7 +131,9 @@
       "poważny",
       "zasadniczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -125,7 +141,9 @@
     "meaning": [
       "zarobki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -133,7 +151,9 @@
     "meaning": [
       "słuchawka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -141,7 +161,9 @@
     "meaning": [
       "zatyczka do ucha"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -149,7 +171,9 @@
     "meaning": [
       "kolczyk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -157,7 +181,9 @@
     "meaning": [
       "rozdzierający uszy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -166,7 +192,9 @@
       "gliniany",
       "ziemny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -186,7 +214,9 @@
     "meaning": [
       "ziemski"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -194,7 +224,9 @@
     "meaning": [
       "trzęsienie ziemi"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -202,7 +234,9 @@
     "meaning": [
       "dżdżownica"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -212,7 +246,9 @@
       "rubaszny",
       "ziemisty"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -240,7 +276,9 @@
     "meaning": [
       "sztalugi"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -249,7 +287,9 @@
       "łatwo",
       "z pewnością"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A1",
@@ -272,7 +312,9 @@
       "Wielkanoc",
       "jajko wielkanocne"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -292,7 +334,9 @@
     "meaning": [
       "wschodni"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -328,7 +372,9 @@
       "spokojny",
       "łagodny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -343,7 +389,9 @@
       "wyjadać do końca",
       "wyjadać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -351,7 +399,9 @@
     "meaning": [
       "jadalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -360,7 +410,9 @@
       "okap domu",
       "okap"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -368,7 +420,9 @@
     "meaning": [
       "podsłuchiwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -402,7 +456,9 @@
     "meaning": [
       "entuzjastyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -410,7 +466,9 @@
     "meaning": [
       "Wspólnota Europejska"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -431,7 +489,9 @@
       "eklezjastyczny",
       "kościelny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -454,7 +514,9 @@
     "meaning": [
       "eklerka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -462,7 +524,9 @@
     "meaning": [
       "eklektyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -485,7 +549,9 @@
     "meaning": [
       "ekolog"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -493,7 +559,9 @@
     "meaning": [
       "ekologia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -504,7 +572,9 @@
       "zyskowny",
       "ekonomia"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -512,7 +582,9 @@
     "meaning": [
       "oszczędny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -520,7 +592,9 @@
     "meaning": [
       "ekonomista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -528,7 +602,9 @@
     "meaning": [
       "oszczędzać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -552,7 +628,9 @@
       "ekstaza",
       "zachwyt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -560,7 +638,9 @@
     "meaning": [
       "ekstatyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -568,7 +648,9 @@
     "meaning": [
       "ekumeniczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -576,7 +658,9 @@
     "meaning": [
       "ekumenizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -584,7 +668,9 @@
     "meaning": [
       "egzema"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -626,7 +712,9 @@
     "meaning": [
       "ku krawędzi"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -635,7 +723,9 @@
       "obramowanie",
       "obszycie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -643,7 +733,9 @@
     "meaning": [
       "drażliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -651,7 +743,9 @@
     "meaning": [
       "jadalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -660,7 +754,9 @@
       "edykt",
       "rozporządzenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -670,7 +766,9 @@
       "gmach",
       "struktura"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -679,7 +777,9 @@
       "pouczać",
       "działać budująco"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -687,7 +787,9 @@
     "meaning": [
       "Edynburg"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -696,7 +798,9 @@
       "redagować",
       "montować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -718,7 +822,9 @@
     "meaning": [
       "wydanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -728,7 +834,9 @@
       "redaktor",
       "montażysta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -750,7 +858,9 @@
       "redakcja",
       "redagowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -758,7 +868,9 @@
     "meaning": [
       "elektroniczne opracowanie danych"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -766,7 +878,9 @@
     "meaning": [
       "wykształcenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -776,7 +890,9 @@
       "pouczać",
       "informować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -785,7 +901,9 @@
       "szkolnictwo",
       "wykształcenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -793,7 +911,9 @@
     "meaning": [
       "edukacyjny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -801,7 +921,9 @@
     "meaning": [
       "metodyk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -810,7 +932,9 @@
       "wychowawca",
       "nauczyciel"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -819,7 +943,9 @@
       "EWG Europejska Wspólnota Gospodarcza",
       "EWG"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -827,7 +953,9 @@
     "meaning": [
       "węgorz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -836,7 +964,9 @@
       "niesamowity",
       "dziwny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -845,7 +975,9 @@
       "wymazywać",
       "ścierać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -873,7 +1005,9 @@
       "obowiązujący",
       "ważny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -881,7 +1015,9 @@
     "meaning": [
       "zniewieściały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -890,7 +1026,9 @@
       "wydajny",
       "efektywny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -899,7 +1037,9 @@
       "wizerunek",
       "statua"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -907,7 +1047,9 @@
     "meaning": [
       "ściek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -917,7 +1059,9 @@
       "dokonanie",
       "wyczyn"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -925,7 +1069,9 @@
     "meaning": [
       "bez wysiłku"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "C1",
@@ -934,7 +1080,9 @@
       "bezczelność",
       "grubiaństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -942,7 +1090,9 @@
     "meaning": [
       "angielski jako język obcy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -950,7 +1100,9 @@
     "meaning": [
       "Europejskie Stowarzyszenie Wolnego Handlu"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -958,7 +1110,9 @@
     "meaning": [
       "egalitarny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -979,7 +1133,9 @@
     "meaning": [
       "kieliszek do jajek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -987,7 +1143,9 @@
     "meaning": [
       "jajogłowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -995,7 +1153,9 @@
     "meaning": [
       "bakłażan"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1004,7 +1164,9 @@
       "skorupka jajka",
       "skorupka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1012,7 +1174,9 @@
     "meaning": [
       "egoistyczny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1020,7 +1184,9 @@
     "meaning": [
       "egoistyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1028,7 +1194,9 @@
     "meaning": [
       "Egipt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1051,7 +1219,9 @@
       "e?",
       "jak?"
     ],
-    "partOfSpeech": "pronoun"
+    "partOfSpeech": [
+      "pronoun"
+    ]
   },
   {
     "level": "B1",
@@ -1059,7 +1229,9 @@
     "meaning": [
       "pierzyna"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -1134,7 +1306,9 @@
       "Irlandia Republika Irlandzka",
       "Irlandia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1163,7 +1337,9 @@
       "wyrzucać",
       "usuwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1173,7 +1349,9 @@
       "uzupełniać",
       "ledwo zarabiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1196,7 +1374,9 @@
     "meaning": [
       "upływać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -1216,7 +1396,9 @@
     "meaning": [
       "podniecony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1225,7 +1407,9 @@
       "podniecenie",
       "uniesienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -1233,7 +1417,9 @@
     "meaning": [
       "łokieć"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1270,7 +1456,9 @@
     "meaning": [
       "najstarszy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1279,7 +1467,9 @@
       "wybierać",
       "chcieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1288,7 +1478,9 @@
       "wybory",
       "wybór"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1296,7 +1488,9 @@
     "meaning": [
       "wyborca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1304,7 +1498,9 @@
     "meaning": [
       "wyborczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -1312,7 +1508,9 @@
     "meaning": [
       "elektorat"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1336,7 +1534,9 @@
       "elektryczny",
       "energetyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1344,7 +1544,9 @@
     "meaning": [
       "elektryk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1352,7 +1554,9 @@
     "meaning": [
       "elektryczność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1361,7 +1565,9 @@
       "elektryzować",
       "elektryfikować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1369,7 +1575,9 @@
     "meaning": [
       "śmiertelnie porazić prądem"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1377,7 +1585,9 @@
     "meaning": [
       "elektroda"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1385,7 +1595,9 @@
     "meaning": [
       "elektron"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1394,7 +1606,9 @@
       "elektroniczny",
       "poczta elektroniczna"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1403,7 +1617,9 @@
       "elektronika",
       "sprzęt elektroniczny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1412,7 +1628,9 @@
       "elegancki",
       "wytworny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -1420,7 +1638,9 @@
     "meaning": [
       "elegia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1439,7 +1659,9 @@
       "żywioł",
       "niepogoda"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1448,7 +1670,9 @@
       "żywiołowy",
       "niepohamowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1457,7 +1681,9 @@
       "elementarny",
       "podstawowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -1465,7 +1691,9 @@
     "meaning": [
       "słoń"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1476,7 +1704,9 @@
       "wznosić",
       "podnosić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1487,7 +1717,9 @@
       "podwyższony",
       "wyniosły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1497,7 +1729,9 @@
       "wzniesienie",
       "wysokość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1505,7 +1739,9 @@
     "meaning": [
       "winda"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -1536,7 +1772,9 @@
       "elf",
       "krasnoludek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1545,7 +1783,9 @@
       "wywoływać",
       "wydobywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1554,7 +1794,9 @@
       "kwalifikujący się",
       "nadający się do małżeństwa"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1563,7 +1805,9 @@
       "eliminować",
       "usuwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1583,7 +1827,9 @@
     "meaning": [
       "elitarność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1591,7 +1837,9 @@
     "meaning": [
       "eliksir"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1600,7 +1848,9 @@
       "łoś",
       "wapiti"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1608,7 +1858,9 @@
     "meaning": [
       "elipsa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1616,7 +1868,9 @@
     "meaning": [
       "eliptyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1624,7 +1878,9 @@
     "meaning": [
       "wiąz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1632,7 +1888,9 @@
     "meaning": [
       "dobra wymowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1640,7 +1898,9 @@
     "meaning": [
       "wydłużony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1649,7 +1909,9 @@
       "uciekać, by wziąć ślub",
       "uciekać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1658,7 +1920,9 @@
       "wymowny",
       "elokwentny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -1667,7 +1931,9 @@
       "inny",
       "jeszcze"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A2",
@@ -1676,7 +1942,9 @@
       "gdzie indziej",
       "gdziekolwiek"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "C1",
@@ -1684,7 +1952,9 @@
     "meaning": [
       "wyjaśniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1693,7 +1963,9 @@
       "umykać",
       "unikać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1702,7 +1974,9 @@
       "nieuchwytny",
       "trudny do uchwycenia"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1711,7 +1985,9 @@
       "wychudzony",
       "wyniszczony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1732,7 +2008,9 @@
       "wypływać",
       "pochodzić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -1740,7 +2018,9 @@
     "meaning": [
       "emancypować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -1748,7 +2028,9 @@
     "meaning": [
       "emancypacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1756,7 +2038,9 @@
     "meaning": [
       "balsamować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1765,7 +2049,9 @@
       "nasyp",
       "nabrzeże"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1788,7 +2074,9 @@
       "wsiadać",
       "wchodzić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1799,7 +2087,9 @@
       "stwarzać problemy",
       "stwarzać kłopoty"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -1807,7 +2097,9 @@
     "meaning": [
       "zakłopotany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1816,7 +2108,9 @@
       "kłopotliwy",
       "krępujący"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1827,7 +2121,9 @@
       "kłopot",
       "powód skrępowania"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1835,7 +2131,9 @@
     "meaning": [
       "ambasada"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1843,7 +2141,9 @@
     "meaning": [
       "osaczony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1852,7 +2152,9 @@
       "uwięzły",
       "zakorzeniony"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1861,7 +2163,9 @@
       "upiększać",
       "przystrajać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1870,7 +2174,9 @@
       "żar",
       "tlący się węgielek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1879,7 +2185,9 @@
       "sprzeniewierzać",
       "przywłaszczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1887,7 +2195,9 @@
     "meaning": [
       "gorzknieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1896,7 +2206,9 @@
       "ozdobiony",
       "uwidoczniony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1905,7 +2217,9 @@
       "godło",
       "oznaka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1913,7 +2227,9 @@
     "meaning": [
       "uosobienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1923,7 +2239,9 @@
       "włączać",
       "uwzględniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1931,7 +2249,9 @@
     "meaning": [
       "ośmielony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1939,7 +2259,9 @@
     "meaning": [
       "tłoczony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1963,7 +2285,9 @@
       "wyszywać",
       "haftować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1974,7 +2298,9 @@
       "haft",
       "ornament"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1982,7 +2308,9 @@
     "meaning": [
       "wdawać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1991,7 +2319,9 @@
       "embrion",
       "zarodek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2000,7 +2330,9 @@
       "zarodkowy",
       "embrionalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2022,7 +2354,9 @@
       "wychodzić",
       "pojawiać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2046,7 +2380,9 @@
       "pojawiający się",
       "wyłaniający się"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2054,7 +2390,9 @@
     "meaning": [
       "emigrować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2062,7 +2400,9 @@
     "meaning": [
       "emigracja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2072,7 +2412,9 @@
       "emigrant",
       "uchodźca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2081,7 +2423,9 @@
       "znakomitość",
       "eminencja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2089,7 +2433,9 @@
     "meaning": [
       "wybitny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -2098,7 +2444,9 @@
       "w większości",
       "przeważnie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -2106,7 +2454,9 @@
     "meaning": [
       "emisariusz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2115,7 +2465,9 @@
       "emisja",
       "wydzielanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2124,7 +2476,9 @@
       "wydzielać",
       "emitować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2133,7 +2487,9 @@
       "emocja",
       "uczucie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2142,7 +2498,9 @@
       "emocjonalny",
       "uczuciowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2150,7 +2508,9 @@
     "meaning": [
       "odwołujący się do uczuć"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2160,7 +2520,9 @@
       "cesarstwo",
       "cesarzowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2169,7 +2531,9 @@
       "wczucie się",
       "empatia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2178,7 +2542,9 @@
       "cesarz",
       "imperator"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2189,7 +2555,9 @@
       "akcent",
       "przycisk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2198,7 +2566,9 @@
       "podkreślać",
       "kłaść nacisk"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2209,7 +2579,9 @@
       "emfatyczny",
       "wyrazisty"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2218,7 +2590,9 @@
       "imperium",
       "cesarstwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2226,7 +2600,9 @@
     "meaning": [
       "empiryczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -2234,7 +2610,9 @@
     "meaning": [
       "empiria"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2244,7 +2622,9 @@
       "używać",
       "posługiwać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2252,7 +2632,9 @@
     "meaning": [
       "pracownik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2260,7 +2642,9 @@
     "meaning": [
       "pracodawca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2269,7 +2653,9 @@
       "zatrudnienie",
       "praca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2278,7 +2664,9 @@
       "upoważniać",
       "przyznawać prawo"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2286,7 +2674,9 @@
     "meaning": [
       "cesarzowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2294,7 +2684,9 @@
     "meaning": [
       "pustka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2328,7 +2720,9 @@
     "meaning": [
       "naśladować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2337,7 +2731,9 @@
       "pozwalać",
       "umożliwiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2346,7 +2742,9 @@
       "nadawać moc prawną",
       "odgrywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2367,7 +2765,9 @@
     "meaning": [
       "rozmiłowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2377,7 +2777,9 @@
       "załączony",
       "załącznik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2385,7 +2787,9 @@
     "meaning": [
       "zwięźle obejmować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2394,7 +2798,9 @@
       "okrywać",
       "zamykać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2403,7 +2809,9 @@
       "oczarowany",
       "zaczarowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2412,7 +2820,9 @@
       "otaczać",
       "okrążać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2422,7 +2832,9 @@
       "załączony",
       "załącznik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2430,7 +2842,9 @@
     "meaning": [
       "enklawa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2440,7 +2854,9 @@
       "otaczać",
       "załączać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2449,7 +2865,9 @@
       "ogrodzony teren",
       "załącznik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2458,7 +2876,9 @@
       "kodować",
       "szyfrować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -2466,7 +2886,9 @@
     "meaning": [
       "obejmować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2474,7 +2896,9 @@
     "meaning": [
       "bis"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2498,7 +2922,9 @@
       "ośmielać",
       "popierać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2507,7 +2933,9 @@
       "ośmielający",
       "zachęcający"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -2517,7 +2945,9 @@
       "wedrzeć się",
       "wtargnąć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -2525,7 +2955,9 @@
     "meaning": [
       "inkrustowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -2534,7 +2966,9 @@
       "obarczać",
       "krępować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -2543,7 +2977,9 @@
       "obciążenie",
       "skrępowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2551,7 +2987,9 @@
     "meaning": [
       "encyklopedia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2575,7 +3013,9 @@
     "meaning": [
       "zagrażać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2583,7 +3023,9 @@
     "meaning": [
       "czynić miłym"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2606,7 +3048,9 @@
     "meaning": [
       "endemiczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -2614,7 +3058,9 @@
     "meaning": [
       "zakończenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2623,7 +3069,9 @@
       "bezustanny",
       "nieskończony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2632,7 +3080,9 @@
       "popierać",
       "żyrować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2641,7 +3091,9 @@
       "obdarzać",
       "obdarowywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2649,7 +3101,9 @@
     "meaning": [
       "wytrzymały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2657,7 +3111,9 @@
     "meaning": [
       "wytrzymałość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2666,7 +3122,9 @@
       "wytrzymywać",
       "trwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2674,7 +3132,9 @@
     "meaning": [
       "wróg"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2683,7 +3143,9 @@
       "energiczny",
       "dynamiczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -2691,7 +3153,9 @@
     "meaning": [
       "energia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2699,7 +3163,9 @@
     "meaning": [
       "otaczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2708,24 +3174,16 @@
       "wprowadzać w życie",
       "wymuszać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
     "word": "Eng.",
     "meaning": [
       "Anglia",
-      "angielski"
-    ],
-    "partOfSpeech": [
-      "noun",
-      "adjective"
-    ]
-  },
-  {
-    "level": "A2",
-    "word": "eng.",
-    "meaning": [
+      "angielski",
       "inż.",
       "inżynier"
     ],
@@ -2743,7 +3201,9 @@
       "zajmować",
       "zatrudniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2752,7 +3212,9 @@
       "zaręczony",
       "zajęty"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2762,7 +3224,9 @@
       "engagement",
       "zaręczyny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2771,7 +3235,9 @@
       "powodować",
       "rodzić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2780,7 +3246,9 @@
       "silnik",
       "lokomotywa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2788,7 +3256,9 @@
     "meaning": [
       "inżynieria"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2796,7 +3266,9 @@
     "meaning": [
       "Anglia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2804,7 +3276,9 @@
     "meaning": [
       "Anglik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2825,7 +3299,9 @@
     "meaning": [
       "Anglik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2833,7 +3309,9 @@
     "meaning": [
       "Angielka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2842,7 +3320,9 @@
       "grawerować",
       "wryć się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2851,7 +3331,9 @@
       "rycina",
       "grafika"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2860,7 +3342,9 @@
       "pogrążony",
       "zatopiony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2869,7 +3353,9 @@
       "ogarniać",
       "pochłaniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2878,7 +3364,9 @@
       "polepszać",
       "zwiększać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -2886,7 +3374,9 @@
     "meaning": [
       "zagadka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2894,7 +3384,9 @@
     "meaning": [
       "enigmatyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -2905,7 +3397,9 @@
       "cieszyć się",
       "mieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2914,7 +3408,9 @@
       "przyjemny",
       "miły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -2923,7 +3419,9 @@
       "radość",
       "przyjemność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2931,7 +3429,9 @@
     "meaning": [
       "powiększenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2939,7 +3439,9 @@
     "meaning": [
       "oświecać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2947,7 +3449,9 @@
     "meaning": [
       "oświecenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2957,7 +3461,9 @@
       "zaciągać",
       "zdobywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2965,7 +3471,9 @@
     "meaning": [
       "ożywiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2973,7 +3481,9 @@
     "meaning": [
       "wrogość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2981,7 +3491,9 @@
     "meaning": [
       "uszlachetniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2989,7 +3501,9 @@
     "meaning": [
       "ogrom"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2998,7 +3512,9 @@
       "gigantyczny",
       "ogromny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -3007,7 +3523,9 @@
       "wystarczająco",
       "dość"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -3015,7 +3533,9 @@
     "meaning": [
       "rozwścieczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3023,7 +3543,9 @@
     "meaning": [
       "wzbogacać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3032,7 +3554,9 @@
       "zapisywać się",
       "zapisywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3041,7 +3565,9 @@
       "po drodze",
       "w drodze"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -3051,7 +3577,9 @@
       "bandera",
       "chorąży"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3060,7 +3588,9 @@
       "czynić niewolnikiem",
       "zniewalać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3068,7 +3598,9 @@
     "meaning": [
       "następować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3077,7 +3609,9 @@
       "zapewniać",
       "gwarantować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3085,7 +3619,9 @@
     "meaning": [
       "pociągać za sobą"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3094,7 +3630,9 @@
       "zaplątywać się",
       "wplątywać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -3102,7 +3640,9 @@
     "meaning": [
       "poplątanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -3118,7 +3658,9 @@
       "uczestniczyć",
       "mieć rolę"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3132,7 +3674,9 @@
       "gospodarka",
       "przedsiębiorczość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3140,7 +3684,9 @@
     "meaning": [
       "przedsiębiorczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -3152,7 +3698,9 @@
       "żywić",
       "mieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3160,7 +3708,9 @@
     "meaning": [
       "artysta kabaretowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3169,7 +3719,9 @@
       "rozrywka",
       "występ"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3177,7 +3729,9 @@
     "meaning": [
       "entuzjazmować się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3186,7 +3740,9 @@
       "entuzjazm",
       "zainteresowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3194,7 +3750,9 @@
     "meaning": [
       "entuzjasta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3202,7 +3760,9 @@
     "meaning": [
       "entuzjastyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3211,7 +3771,9 @@
       "wabić",
       "nęcić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3220,7 +3782,9 @@
       "cały",
       "całkowity"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3229,7 +3793,9 @@
       "tytułować",
       "upoważniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3237,7 +3803,9 @@
     "meaning": [
       "zatytułowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3245,7 +3813,9 @@
     "meaning": [
       "prawo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3254,7 +3824,9 @@
       "jednostka",
       "całostka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3262,7 +3834,9 @@
     "meaning": [
       "świta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3270,7 +3844,9 @@
     "meaning": [
       "wnętrzności"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3294,7 +3870,9 @@
       "nowoprzyjęty",
       "uczestnik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3303,7 +3881,9 @@
       "zakorzeniony",
       "wpojony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3311,7 +3891,9 @@
     "meaning": [
       "przedsiębiorca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3319,7 +3901,9 @@
     "meaning": [
       "powierzać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3333,7 +3917,9 @@
       "wjazdu",
       "hasło"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3341,7 +3927,9 @@
     "meaning": [
       "splatać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3349,7 +3937,9 @@
     "meaning": [
       "wyliczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3358,7 +3948,9 @@
       "starannie wymawiać",
       "wyłuszczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3367,7 +3959,9 @@
       "otulać",
       "spowijać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3375,7 +3969,9 @@
     "meaning": [
       "koperta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3383,7 +3979,9 @@
     "meaning": [
       "godny zazdrości"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3391,7 +3989,9 @@
     "meaning": [
       "zazdrosny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3402,7 +4002,9 @@
       "przyroda",
       "środowisko naturalne"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3411,7 +4013,9 @@
       "przyrodniczy",
       "dotyczący środowiska"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3421,7 +4025,9 @@
       "ochroniarz",
       "ekolog"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3430,7 +4036,9 @@
       "przewidywać",
       "wyobrażać sobie"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3440,7 +4048,9 @@
       "wysłannik",
       "poseł"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3460,7 +4070,9 @@
     "meaning": [
       "efemeryczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3481,7 +4093,9 @@
     "meaning": [
       "epidemia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3490,7 +4104,9 @@
       "epilepsja",
       "padaczka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3512,25 +4128,21 @@
     "meaning": [
       "epilog"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
     "word": "Episcopal",
     "meaning": [
       "Episkopalny Kościół",
-      "Episkopalny"
+      "Episkopalny",
+      "biskupi"
     ],
-    "partOfSpeech": "adjective"
-  },
-  {
-    "level": "B2",
-    "word": "episcopal",
-    "meaning": [
-      "biskupi",
-      "episkopalny"
-    ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -3551,7 +4163,9 @@
       "zdarzenie",
       "odcinek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3560,7 +4174,9 @@
       "epitafium",
       "napis nagrobny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3569,7 +4185,9 @@
       "epitet",
       "określenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3578,7 +4196,9 @@
       "wzór",
       "uosobienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3587,7 +4207,9 @@
       "obrazować",
       "przedstawiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3595,7 +4217,9 @@
     "meaning": [
       "epoka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3604,7 +4228,9 @@
       "zrównoważony",
       "spokojny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3631,7 +4257,9 @@
     "meaning": [
       "równość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3641,7 +4269,9 @@
       "zrównywać",
       "dorównywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3653,7 +4283,9 @@
       "równie",
       "w tym samym stopniu"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "C1",
@@ -3662,7 +4294,9 @@
       "pogoda ducha",
       "opanowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3670,7 +4304,9 @@
     "meaning": [
       "zrównywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3678,7 +4314,9 @@
     "meaning": [
       "równanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3686,7 +4324,9 @@
     "meaning": [
       "równik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3694,7 +4334,9 @@
     "meaning": [
       "równikowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3715,7 +4357,9 @@
     "meaning": [
       "odległy równo"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3723,7 +4367,9 @@
     "meaning": [
       "równowaga"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3732,7 +4378,9 @@
       "zrównanie dnia z nocą",
       "równonoc"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3746,7 +4394,9 @@
       "dawać",
       "przygotowywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3756,7 +4406,9 @@
       "ekwipunek",
       "sprzęt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3765,7 +4417,9 @@
       "sprawiedliwy",
       "słuszny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3774,7 +4428,9 @@
       "sprawiedliwość",
       "słuszność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3783,7 +4439,9 @@
       "równoważność",
       "ekwiwalencja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3806,7 +4464,9 @@
       "dwuznaczny",
       "niejednoznaczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -3815,7 +4475,9 @@
       "wyrażać się dwuznacznie",
       "niejasno"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A1",
@@ -3823,7 +4485,9 @@
     "meaning": [
       "Królowa Elżbieta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3832,7 +4496,9 @@
       "era",
       "okres"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3840,7 +4506,9 @@
     "meaning": [
       "wykorzeniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3849,7 +4517,9 @@
       "usuwać",
       "wymazywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3858,7 +4528,9 @@
       "gumka do wymazywania",
       "gumka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3882,7 +4554,9 @@
       "erekcja",
       "wzwód"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3893,7 +4567,9 @@
       "poddawać erozji",
       "wydrążać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3902,7 +4578,9 @@
       "erozja",
       "stopniowe zanikanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3910,7 +4588,9 @@
     "meaning": [
       "erotyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -3919,7 +4599,9 @@
       "erotyzm",
       "erotyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3928,7 +4610,9 @@
       "błądzić",
       "popełniać błędy"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3936,7 +4620,9 @@
     "meaning": [
       "sprawunek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3945,7 +4631,9 @@
       "zmienny",
       "kapryśny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3953,7 +4641,9 @@
     "meaning": [
       "błędny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3961,7 +4651,9 @@
     "meaning": [
       "błąd"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3969,7 +4661,9 @@
     "meaning": [
       "erudycyjny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -3979,7 +4673,9 @@
       "wrzeć",
       "eksplodować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3987,7 +4683,9 @@
     "meaning": [
       "wybuch"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3997,7 +4695,9 @@
       "wzmagać",
       "wzrastać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -4005,7 +4705,9 @@
     "meaning": [
       "ruchome schody"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4013,7 +4715,9 @@
     "meaning": [
       "eskapada"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4039,7 +4743,9 @@
     "meaning": [
       "eskapizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4060,7 +4766,9 @@
     "meaning": [
       "angielski jako drugi język"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4068,7 +4776,9 @@
     "meaning": [
       "ezoteryczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4076,7 +4786,9 @@
     "meaning": [
       "szczególnie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -4085,7 +4797,9 @@
       "specjalny",
       "szczególny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4094,7 +4808,9 @@
       "w szczególności",
       "szczególnie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "C1",
@@ -4102,7 +4818,9 @@
     "meaning": [
       "szpiegostwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4110,7 +4828,9 @@
     "meaning": [
       "pan"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4118,7 +4838,9 @@
     "meaning": [
       "pan"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4127,7 +4849,9 @@
       "wypracowanie",
       "esej"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4135,7 +4859,9 @@
     "meaning": [
       "eseista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4145,7 +4871,9 @@
       "podstawa",
       "esencja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4153,7 +4881,9 @@
     "meaning": [
       "w zasadzie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A2",
@@ -4161,7 +4891,9 @@
     "meaning": [
       "założony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4172,7 +4904,9 @@
       "ustalać",
       "zyskiwać uznanie"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4184,7 +4918,9 @@
       "establishment",
       "grupa rządząca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4193,7 +4929,9 @@
       "szacunek",
       "respekt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4218,7 +4956,9 @@
       "szacunek",
       "oszacowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4226,7 +4966,9 @@
     "meaning": [
       "Estonia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4248,7 +4990,9 @@
       "odosobniony",
       "pokłócony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4256,7 +5000,9 @@
     "meaning": [
       "ujście"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4264,7 +5010,9 @@
     "meaning": [
       "szacowany czas przybycia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4273,7 +5021,9 @@
       "grawerować",
       "wytrawiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4282,7 +5032,9 @@
       "wieczny",
       "odwieczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4292,7 +5044,9 @@
       "wiek",
       "wieki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4300,7 +5054,9 @@
     "meaning": [
       "eter"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4309,7 +5065,9 @@
       "etos",
       "etyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4317,7 +5075,9 @@
     "meaning": [
       "etyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -4325,7 +5085,9 @@
     "meaning": [
       "Etiopia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4345,7 +5107,9 @@
     "meaning": [
       "etniczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4353,7 +5117,9 @@
     "meaning": [
       "etykieta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4361,7 +5127,9 @@
     "meaning": [
       "eucharystia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4369,7 +5137,9 @@
     "meaning": [
       "eucharystyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4378,7 +5148,9 @@
       "panegiryk",
       "utwór pochwalny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4386,7 +5158,9 @@
     "meaning": [
       "eunuch"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4394,7 +5168,9 @@
     "meaning": [
       "eufemizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4402,7 +5178,9 @@
     "meaning": [
       "euforia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4410,7 +5188,9 @@
     "meaning": [
       "euforyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -4418,7 +5198,9 @@
     "meaning": [
       "Europa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4438,7 +5220,9 @@
     "meaning": [
       "eutanazja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4446,7 +5230,9 @@
     "meaning": [
       "ewakuować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4457,7 +5243,9 @@
       "odchylać się",
       "umykać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4465,7 +5253,9 @@
     "meaning": [
       "oceniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4474,7 +5264,9 @@
       "ocena",
       "oszacowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4484,7 +5276,9 @@
       "ewangelicki",
       "protestancki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -4492,7 +5286,9 @@
     "meaning": [
       "ewangelista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4502,7 +5298,9 @@
       "wyparowywać",
       "odparowywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4512,7 +5310,9 @@
       "wykręt",
       "wykręcanie się"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4521,7 +5321,9 @@
       "wykrętny",
       "wymijający"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -4530,7 +5332,9 @@
       "przeddzień",
       "wigilia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4563,7 +5367,9 @@
       "strój wieczorowy",
       "suknia wieczorowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4574,7 +5380,9 @@
       "dyscyplina",
       "spotkanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4583,7 +5391,9 @@
       "pełen wydarzeń",
       "doniosły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4591,7 +5401,9 @@
     "meaning": [
       "ostateczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -4600,7 +5412,9 @@
       "możliwość",
       "ewentualność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4613,7 +5427,9 @@
       "-że",
       "-ż"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -4621,7 +5437,9 @@
     "meaning": [
       "roślina wiecznie zielona"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4630,7 +5448,9 @@
       "wieczny",
       "trwały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -4640,7 +5460,9 @@
       "co",
       "wszelki"
     ],
-    "partOfSpeech": "determiner"
+    "partOfSpeech": [
+      "determiner"
+    ]
   },
   {
     "level": "A1",
@@ -4649,7 +5471,9 @@
       "każdy",
       "wszyscy"
     ],
-    "partOfSpeech": "pronoun"
+    "partOfSpeech": [
+      "pronoun"
+    ]
   },
   {
     "level": "A2",
@@ -4658,7 +5482,9 @@
       "codzienny",
       "zwykły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -4667,7 +5493,9 @@
       "każdy",
       "wszyscy"
     ],
-    "partOfSpeech": "pronoun"
+    "partOfSpeech": [
+      "pronoun"
+    ]
   },
   {
     "level": "A2",
@@ -4675,7 +5503,9 @@
     "meaning": [
       "wszędzie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A1",
@@ -4683,7 +5513,9 @@
     "meaning": [
       "wszystko"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4691,7 +5523,9 @@
     "meaning": [
       "wszędzie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -4699,7 +5533,9 @@
     "meaning": [
       "eksmitować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4707,7 +5543,9 @@
     "meaning": [
       "eksmisja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4716,7 +5554,9 @@
       "dowód",
       "dowody"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4725,7 +5565,9 @@
       "oczywisty",
       "widoczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -4746,7 +5588,9 @@
       "ewokacja",
       "przywołąnie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4754,7 +5598,9 @@
     "meaning": [
       "przywołujący"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4762,7 +5608,9 @@
     "meaning": [
       "przywoływać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4771,7 +5619,9 @@
       "ewolucja",
       "rozwój"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4783,7 +5633,9 @@
       "rozwijać się",
       "rozwijać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -4791,7 +5643,9 @@
     "meaning": [
       "owca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4799,7 +5653,9 @@
     "meaning": [
       "pogarszać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4819,7 +5675,9 @@
     "meaning": [
       "wymagający"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -4828,7 +5686,9 @@
       "dokładnie",
       "zupełnie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -4837,7 +5697,9 @@
       "przesadzać",
       "wyolbrzymiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -4846,7 +5708,9 @@
       "podnosić",
       "pobudzać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4855,7 +5719,9 @@
       "wysoki",
       "egzaltowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -4863,7 +5729,9 @@
     "meaning": [
       "egzamin"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4875,7 +5743,9 @@
       "oględziny",
       "rozpatrzenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4886,7 +5756,9 @@
       "rozpatrywać",
       "egzaminować"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4894,7 +5766,9 @@
     "meaning": [
       "egzaminator"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4902,7 +5776,9 @@
     "meaning": [
       "przykład"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4911,7 +5787,9 @@
       "dręczyć",
       "rozjątrzać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -4919,7 +5797,9 @@
     "meaning": [
       "z wyjątkiem"
     ],
-    "partOfSpeech": "preposition"
+    "partOfSpeech": [
+      "preposition"
+    ]
   },
   {
     "level": "B2",
@@ -4928,7 +5808,9 @@
       "wykopywać",
       "przeprowadzać wykopaliska"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4936,7 +5818,9 @@
     "meaning": [
       "wykopaliska"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4944,7 +5828,9 @@
     "meaning": [
       "przekraczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -4952,7 +5838,9 @@
     "meaning": [
       "niezwykle"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -4960,7 +5848,9 @@
     "meaning": [
       "przodować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4969,7 +5859,9 @@
       "doskonałość",
       "przodowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4977,7 +5869,9 @@
     "meaning": [
       "Ekscelencja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4986,7 +5880,9 @@
       "znakomity",
       "doskonały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -5008,7 +5904,9 @@
       "z wyjątkiem",
       "wyjąwszy"
     ],
-    "partOfSpeech": "preposition"
+    "partOfSpeech": [
+      "preposition"
+    ]
   },
   {
     "level": "A2",
@@ -5018,7 +5916,9 @@
       "oprócz",
       "prócz"
     ],
-    "partOfSpeech": "preposition"
+    "partOfSpeech": [
+      "preposition"
+    ]
   },
   {
     "level": "B1",
@@ -5026,7 +5926,9 @@
     "meaning": [
       "wyjątek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5034,7 +5936,9 @@
     "meaning": [
       "wyjątkowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5043,7 +5947,9 @@
       "wyjątek",
       "fragment"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5065,7 +5971,9 @@
     "meaning": [
       "nadmierny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -5106,7 +6014,9 @@
       "ekscytujący się",
       "pobudliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -5116,7 +6026,9 @@
       "wzniecać",
       "podniecać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -5127,7 +6039,9 @@
       "atrakcja",
       "podnieta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5148,7 +6062,9 @@
       "wykrzykiwać",
       "zakrzykiwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5157,7 +6073,9 @@
       "okrzyk",
       "wykrzyknik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5167,7 +6085,9 @@
       "nie włączać",
       "wykluczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5175,7 +6095,9 @@
     "meaning": [
       "z wyjątkiem"
     ],
-    "partOfSpeech": "preposition"
+    "partOfSpeech": [
+      "preposition"
+    ]
   },
   {
     "level": "B2",
@@ -5185,7 +6107,9 @@
       "niedopuszczanie",
       "pominięcie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5194,7 +6118,9 @@
       "eksluzywny",
       "wyłączny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -5203,7 +6129,9 @@
       "wyklinać",
       "ekskomunikować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5212,7 +6140,9 @@
       "stolec",
       "ekskrementy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5220,7 +6150,9 @@
     "meaning": [
       "wydzielać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5230,7 +6162,9 @@
       "dręczący",
       "przygniatający"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5240,7 +6174,9 @@
       "wycieczka",
       "wypad"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5249,7 +6185,9 @@
       "wybaczalny",
       "do wybaczenia"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -5275,7 +6213,9 @@
       "wykonywać",
       "przeprowadzać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5284,7 +6224,9 @@
       "egzekucja",
       "wykonywanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5292,7 +6234,9 @@
     "meaning": [
       "kat"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5316,7 +6260,9 @@
     "meaning": [
       "egzekutor"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5324,7 +6270,9 @@
     "meaning": [
       "przykładowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5334,7 +6282,9 @@
       "podawać przykład",
       "podawać przykłady"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5373,7 +6323,9 @@
     "meaning": [
       "wywierać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5381,7 +6333,9 @@
     "meaning": [
       "wysiłek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5389,7 +6343,9 @@
     "meaning": [
       "wydychać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5410,7 +6366,9 @@
     "meaning": [
       "wyczerpanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5418,7 +6376,9 @@
     "meaning": [
       "wyczerpujący"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5444,7 +6404,9 @@
       "ekspozycja",
       "przedstawianie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5452,7 +6414,9 @@
     "meaning": [
       "ekshibicjonizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5460,7 +6424,9 @@
     "meaning": [
       "ekshibicjonista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5468,7 +6434,9 @@
     "meaning": [
       "wystawca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5479,7 +6447,9 @@
       "rozweselić się",
       "rozweselić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5487,7 +6457,9 @@
     "meaning": [
       "nawoływać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -5495,7 +6467,9 @@
     "meaning": [
       "ekshumować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5516,7 +6490,9 @@
     "meaning": [
       "istnieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -5525,7 +6501,9 @@
       "istnienie",
       "egzystencja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5533,7 +6511,9 @@
     "meaning": [
       "egzystencjalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -5554,7 +6534,9 @@
     "meaning": [
       "eksodus"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5563,7 +6545,9 @@
       "oczyszczać",
       "uwalniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5571,7 +6555,9 @@
     "meaning": [
       "wygórowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5579,7 +6565,9 @@
     "meaning": [
       "egzorcyzmować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5587,7 +6575,9 @@
     "meaning": [
       "egzorcyzm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5595,7 +6585,9 @@
     "meaning": [
       "egzotyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5604,7 +6596,9 @@
       "przestwór",
       "bezmiar"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5614,7 +6608,9 @@
       "ekspansja",
       "rozszerzenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5622,7 +6618,9 @@
     "meaning": [
       "ekspansjonizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5630,7 +6628,9 @@
     "meaning": [
       "ekspansywny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5638,7 +6638,9 @@
     "meaning": [
       "wylewny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5646,7 +6648,9 @@
     "meaning": [
       "emigrant"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5655,7 +6659,9 @@
       "spodziewać się",
       "oczekiwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5664,7 +6670,9 @@
       "nadzieja",
       "widoki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5674,7 +6682,9 @@
       "spodziewający się dziecka",
       "spodziewający się"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5684,7 +6694,9 @@
       "wyczekiwanie",
       "spodziewanie się"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5693,7 +6705,9 @@
       "korzyść",
       "to, co korzystne"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5714,7 +6728,9 @@
     "meaning": [
       "przyśpieszyć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5723,7 +6739,9 @@
       "ekspedycja",
       "wyprawa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5733,7 +6751,9 @@
       "usuwać",
       "wyrzucać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5742,7 +6762,9 @@
       "wydatkować",
       "zużywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5750,7 +6772,9 @@
     "meaning": [
       "zbyteczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5759,7 +6783,9 @@
       "wydatki",
       "zużycie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5770,7 +6796,9 @@
       "dieta",
       "zwrot kosztów"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5779,7 +6807,9 @@
       "kosztowny",
       "drogi"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5804,7 +6834,9 @@
     "meaning": [
       "doświadczony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5827,7 +6859,9 @@
       "doświadczalny",
       "próbny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5851,7 +6885,9 @@
       "fachowa wiedza",
       "specjalistyczne umiejętności"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5859,7 +6895,9 @@
     "meaning": [
       "odpokutowywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5867,7 +6905,9 @@
     "meaning": [
       "utrata ważności"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5876,7 +6916,9 @@
       "tracić ważność",
       "wyzionąć ducha"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5884,7 +6926,9 @@
     "meaning": [
       "data ważności"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5893,7 +6937,9 @@
       "wyjaśniać",
       "usprawiedliwiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -5902,7 +6948,9 @@
       "wyjaśnienie",
       "objaśnienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5911,7 +6959,9 @@
       "objaśniający",
       "wyjaśniający"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5919,7 +6969,9 @@
     "meaning": [
       "wytłumaczalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5929,7 +6981,9 @@
       "szczery",
       "jednoznaczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -5940,7 +6994,9 @@
       "wzrastać wybuchowo",
       "dyskredytować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5950,7 +7006,9 @@
       "wykorzystywanie",
       "eksploatacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5958,7 +7016,9 @@
     "meaning": [
       "wyzyskujący"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5966,7 +7026,9 @@
     "meaning": [
       "wyzyskiwacz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5975,7 +7037,9 @@
       "badawczy",
       "rozpoznawczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5987,7 +7051,9 @@
       "analizować",
       "przedyskutowywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5996,7 +7062,9 @@
       "badacz",
       "eksplorator"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6006,7 +7074,9 @@
       "wybuch",
       "gwałtowny przyrost"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6033,7 +7103,9 @@
       "wyraziciel",
       "wykładnik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6068,7 +7140,9 @@
     "meaning": [
       "eksporter"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6080,7 +7154,9 @@
       "narażać",
       "demaskować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -6088,7 +7164,9 @@
     "meaning": [
       "zdemaskowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6097,7 +7175,9 @@
       "przedstawienie",
       "wykład"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6112,7 +7192,9 @@
       "zdjęcie",
       "kadr"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6121,7 +7203,9 @@
       "przedstawiać",
       "objaśniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6151,7 +7235,9 @@
       "przykład",
       "ekspresja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6159,7 +7245,9 @@
     "meaning": [
       "bez wyrazu"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6168,7 +7256,9 @@
       "wyrazisty",
       "dotyczący wypowiadania się"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6177,7 +7267,9 @@
       "autostrada",
       "droga szybkiego ruchu"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -6186,7 +7278,9 @@
       "konfiskować",
       "zabierać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6194,7 +7288,9 @@
     "meaning": [
       "wydalenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6203,7 +7299,9 @@
       "przepiękny",
       "nadzwyczajny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -6233,7 +7331,9 @@
       "przedstawiać",
       "oferować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6245,7 +7345,9 @@
       "rozszerzenie",
       "numer wewnętrzny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6256,7 +7358,9 @@
       "obszerny",
       "szczegółowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6264,7 +7368,9 @@
     "meaning": [
       "rozmiar"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -6272,7 +7378,9 @@
     "meaning": [
       "łagodzić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6295,7 +7403,9 @@
       "eksterminować",
       "wybijać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6303,7 +7413,9 @@
     "meaning": [
       "eksterminacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6312,7 +7424,9 @@
       "zewnętrzny",
       "aspekty zewnętrzne"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6322,7 +7436,9 @@
       "nieczynny",
       "wygasły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6331,7 +7447,9 @@
       "wymarcie",
       "wygaśnięcie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6341,7 +7459,9 @@
       "zacierać",
       "niweczyć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6349,7 +7469,9 @@
     "meaning": [
       "gaśnica"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6358,7 +7480,9 @@
       "wychwalać",
       "wysławiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6367,7 +7491,9 @@
       "wymuszać",
       "zdzierać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6375,7 +7501,9 @@
     "meaning": [
       "nadmierny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -6417,7 +7545,9 @@
       "pochodzenie",
       "wydobywanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6426,7 +7556,9 @@
       "wentylator okienny",
       "wentylator"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6434,7 +7566,9 @@
     "meaning": [
       "nadobowiązkowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -6442,7 +7576,9 @@
     "meaning": [
       "poddawać ekstradycji"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -6450,7 +7586,9 @@
     "meaning": [
       "ekstradycja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6458,7 +7596,9 @@
     "meaning": [
       "pozamałżeński"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6466,7 +7606,9 @@
     "meaning": [
       "zaoczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6474,7 +7616,9 @@
     "meaning": [
       "poboczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6483,7 +7627,9 @@
       "nadzwyczajny",
       "niezwykły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6492,7 +7638,9 @@
       "rozrzutność",
       "luksus"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6506,7 +7654,9 @@
       "niepraktyczny",
       "ekstrawagancki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6514,7 +7664,9 @@
     "meaning": [
       "ekstrawagancja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6522,7 +7674,9 @@
     "meaning": [
       "ekstremista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6535,7 +7689,9 @@
       "ostateczność",
       "krańcowość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -6544,7 +7700,9 @@
       "wydobywać",
       "uwalniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6564,7 +7722,9 @@
     "meaning": [
       "wyciskać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6572,7 +7732,9 @@
     "meaning": [
       "pełen życia"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6581,7 +7743,9 @@
       "emanować",
       "wydzielać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -6589,7 +7753,9 @@
     "meaning": [
       "radować się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -6597,7 +7763,9 @@
     "meaning": [
       "rozradowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -6617,7 +7785,9 @@
     "meaning": [
       "gałka oczna"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6625,7 +7795,9 @@
     "meaning": [
       "brew"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6633,7 +7805,9 @@
     "meaning": [
       "przykuwający wzrok"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -6641,7 +7815,9 @@
     "meaning": [
       "rzęsa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6649,7 +7825,9 @@
     "meaning": [
       "powieka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6657,7 +7835,9 @@
     "meaning": [
       "rewelacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6665,7 +7845,9 @@
     "meaning": [
       "cień do powiek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6673,7 +7855,9 @@
     "meaning": [
       "wzrok"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6682,7 +7866,9 @@
       "okropieństwo",
       "brzydactwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6690,6 +7876,8 @@
     "meaning": [
       "naoczny świadek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
