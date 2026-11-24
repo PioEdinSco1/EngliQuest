@@ -20,7 +20,9 @@
       "magister nauk humanistycznych",
       "magister"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -28,7 +30,9 @@
     "meaning": [
       "płaszcz przeciwdeszczowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -36,7 +40,9 @@
     "meaning": [
       "makabryczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -44,7 +50,9 @@
     "meaning": [
       "makaron rurki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -52,7 +60,9 @@
     "meaning": [
       "Macedonia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -72,7 +82,9 @@
     "meaning": [
       "maczeta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -98,7 +110,9 @@
       "maszyneria",
       "mechanizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -106,7 +120,9 @@
     "meaning": [
       "płaszcz przeciwdeszczowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -114,7 +130,9 @@
     "meaning": [
       "makrela"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -122,7 +140,9 @@
     "meaning": [
       "płaszcz przeciwdeszczowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -133,7 +153,9 @@
       "wściekły",
       "opętany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -141,7 +163,9 @@
     "meaning": [
       "rozwścieczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A1",
@@ -161,7 +185,9 @@
       "zrobiony na zamówienie",
       "zrobiony na miarę"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -170,7 +196,9 @@
       "szalenie",
       "szaleńczo"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -179,7 +207,9 @@
       "szaleniec",
       "wariat"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -188,7 +218,9 @@
       "szaleństwo",
       "obłęd"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -196,7 +228,9 @@
     "meaning": [
       "Madryt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -205,7 +239,9 @@
       "magazyn",
       "miesięcznik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -213,7 +249,9 @@
     "meaning": [
       "czerw"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -237,7 +275,9 @@
       "czarodziejski",
       "magiczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -247,7 +287,9 @@
       "prestidigitator",
       "czarownik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -255,7 +297,9 @@
     "meaning": [
       "sędzia pokoju"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -263,7 +307,9 @@
     "meaning": [
       "wielkoduszny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -271,7 +317,9 @@
     "meaning": [
       "magnat"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -279,7 +327,9 @@
     "meaning": [
       "magnes"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -287,7 +337,9 @@
     "meaning": [
       "magnetyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -295,7 +347,9 @@
     "meaning": [
       "magnetyzm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -303,7 +357,9 @@
     "meaning": [
       "powiększenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -311,7 +367,9 @@
     "meaning": [
       "wspaniały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -320,7 +378,9 @@
       "powiększać",
       "wyolbrzymiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -330,7 +390,9 @@
       "duży rozmiar",
       "rozmiar"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -338,7 +400,9 @@
     "meaning": [
       "sroka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -346,7 +410,9 @@
     "meaning": [
       "mahoń"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -355,7 +421,9 @@
       "pokojówka",
       "służąca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -391,7 +459,9 @@
     "meaning": [
       "skrzynka pocztowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -399,7 +469,9 @@
     "meaning": [
       "listonosz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -407,7 +479,9 @@
     "meaning": [
       "okaleczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -415,7 +489,9 @@
     "meaning": [
       "Maine"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -424,7 +500,9 @@
       "komputer główny duży",
       "komputer główny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -445,7 +523,9 @@
       "głównie",
       "zasadniczo"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -454,7 +534,9 @@
       "główna przyczyna sprężyna",
       "główna przyczyna"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -462,7 +544,9 @@
     "meaning": [
       "podstawa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -485,7 +569,9 @@
       "konserwować",
       "dbać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -494,7 +580,9 @@
       "utrzymanie",
       "konserwacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -503,7 +591,9 @@
       "małe mieszkanie dwupoziomowe",
       "mieszkanie dwupoziomowe"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -511,7 +601,9 @@
     "meaning": [
       "kukurydza"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -531,7 +623,9 @@
     "meaning": [
       "majestatyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -558,7 +652,9 @@
       "większość",
       "pełnoletność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -578,7 +674,9 @@
     "meaning": [
       "producent"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -587,7 +685,9 @@
       "doraźny",
       "tymczasowy"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -597,7 +697,9 @@
       "charakter",
       "skład"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -606,7 +708,9 @@
       "wytwarzanie",
       "produkcja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -614,7 +718,9 @@
     "meaning": [
       "niedostosowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -622,7 +728,9 @@
     "meaning": [
       "choroba"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -630,7 +738,9 @@
     "meaning": [
       "niepokój"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -638,7 +748,9 @@
     "meaning": [
       "malaria"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -658,7 +770,9 @@
     "meaning": [
       "Malezja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -691,7 +805,9 @@
     "meaning": [
       "nieżyczliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -711,7 +827,9 @@
     "meaning": [
       "złośliwość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -719,7 +837,9 @@
     "meaning": [
       "złośliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -728,7 +848,9 @@
       "oczerniać",
       "zniesławiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -736,7 +858,9 @@
     "meaning": [
       "złośliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -744,7 +868,9 @@
     "meaning": [
       "symulować chorobę"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -752,7 +878,9 @@
     "meaning": [
       "centrum handlowe"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -760,7 +888,9 @@
     "meaning": [
       "młotek drewniany"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -768,7 +898,9 @@
     "meaning": [
       "niedożywienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -776,7 +908,9 @@
     "meaning": [
       "zaniedbanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -785,7 +919,9 @@
       "słód",
       "słodowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -794,7 +930,9 @@
       "maltretować",
       "znęcać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -802,7 +940,9 @@
     "meaning": [
       "ssak"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -825,7 +965,9 @@
       "kierować",
       "dawać sobie radę"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -833,7 +975,9 @@
     "meaning": [
       "wykonalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -844,7 +988,9 @@
       "kontrola",
       "władza"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -854,7 +1000,9 @@
       "kierownik",
       "menadżer"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -862,7 +1010,9 @@
     "meaning": [
       "kierowniczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -881,7 +1031,9 @@
     "meaning": [
       "mandarynka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -892,7 +1044,9 @@
       "mandat",
       "zadanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -900,7 +1054,9 @@
     "meaning": [
       "nakazany prawem"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -908,7 +1064,9 @@
     "meaning": [
       "grzywa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -917,7 +1075,9 @@
       "namiętnie",
       "z determinacją"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -937,7 +1097,9 @@
     "meaning": [
       "mango"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -945,7 +1107,9 @@
     "meaning": [
       "poturbować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -953,7 +1117,9 @@
     "meaning": [
       "właz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -962,7 +1128,9 @@
       "męskość",
       "dojrzałość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -970,7 +1138,9 @@
     "meaning": [
       "roboczogodzina"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -979,7 +1149,9 @@
       "pościg",
       "obława"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -987,7 +1159,9 @@
     "meaning": [
       "mania"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -995,7 +1169,9 @@
     "meaning": [
       "maniak"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1004,7 +1180,9 @@
       "maniakalny",
       "szaleńczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1041,7 +1219,9 @@
       "przejaw",
       "objaw"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1049,7 +1229,9 @@
     "meaning": [
       "manifest"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1057,7 +1239,9 @@
     "meaning": [
       "różnoraki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1065,7 +1249,9 @@
     "meaning": [
       "papier pakowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1073,7 +1259,9 @@
     "meaning": [
       "manipulować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -1081,7 +1269,9 @@
     "meaning": [
       "manipulacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1089,7 +1279,9 @@
     "meaning": [
       "ludzkość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1097,7 +1289,9 @@
     "meaning": [
       "męski"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1105,7 +1299,9 @@
     "meaning": [
       "przekształcony przez człowieka"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1116,7 +1312,9 @@
       "rodzaj",
       "maniery"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1125,7 +1323,9 @@
       "zmanierowanie",
       "dziwactwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1147,7 +1347,9 @@
       "dwór",
       "majątek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1155,7 +1357,9 @@
     "meaning": [
       "siła robocza"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1163,7 +1367,9 @@
     "meaning": [
       "rezydencja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1171,7 +1377,9 @@
     "meaning": [
       "zabójstwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1179,7 +1387,9 @@
     "meaning": [
       "półka nad kominkiem"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1187,7 +1397,9 @@
     "meaning": [
       "płaszcz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1221,7 +1433,9 @@
     "meaning": [
       "producent"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1229,7 +1443,9 @@
     "meaning": [
       "gnój"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1237,7 +1453,9 @@
     "meaning": [
       "rękopis"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -1273,7 +1491,9 @@
     "meaning": [
       "klon"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -1281,7 +1501,9 @@
     "meaning": [
       "marzec"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1289,7 +1511,9 @@
     "meaning": [
       "niszczyć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -1310,7 +1534,9 @@
       "maruder",
       "rabuś"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1319,7 +1545,9 @@
       "rabujący",
       "plądrujący"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1330,20 +1558,15 @@
       "gra w kulki",
       "kulki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
     "word": "March",
     "meaning": [
-      "marzec"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "march",
-    "meaning": [
+      "marzec",
       "marsz",
       "pochód",
       "maszerować",
@@ -1361,7 +1584,9 @@
       "kobyła",
       "klacz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1369,7 +1594,9 @@
     "meaning": [
       "margaryna"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1380,7 +1607,9 @@
       "krawędź",
       "brzeg"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1399,7 +1628,9 @@
     "meaning": [
       "nagietek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1407,7 +1638,9 @@
     "meaning": [
       "marihuana"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1415,7 +1648,9 @@
     "meaning": [
       "przystań"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1424,7 +1659,9 @@
       "marynować się",
       "marynować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1446,7 +1683,9 @@
       "małżeński",
       "stan cywilny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1454,7 +1693,9 @@
     "meaning": [
       "morski"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1462,7 +1703,9 @@
     "meaning": [
       "majeranek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1495,7 +1738,9 @@
     "meaning": [
       "wyraźny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1504,7 +1749,9 @@
       "znak",
       "znacznik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1526,7 +1773,9 @@
       "rynkowy",
       "dający się sprzedać"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1534,7 +1783,9 @@
     "meaning": [
       "marketing"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1542,7 +1793,9 @@
     "meaning": [
       "strzelec wyborowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1550,7 +1803,9 @@
     "meaning": [
       "marmolada z owoców cytrusowych"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1580,7 +1835,9 @@
     "meaning": [
       "markiz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1588,7 +1845,9 @@
     "meaning": [
       "duży namiot"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1596,7 +1855,9 @@
     "meaning": [
       "markiz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1604,7 +1865,9 @@
     "meaning": [
       "małżeństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1626,7 +1889,9 @@
       "szpik",
       "kabaczek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -1638,7 +1903,9 @@
       "udzielać ślubu",
       "żenić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1646,7 +1913,9 @@
     "meaning": [
       "bagno"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1669,7 +1938,9 @@
     "meaning": [
       "bagnisty"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1679,7 +1950,9 @@
       "militarny",
       "sztuki walki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -1687,7 +1960,9 @@
     "meaning": [
       "męczennik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1695,7 +1970,9 @@
     "meaning": [
       "męczeństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1715,7 +1992,9 @@
     "meaning": [
       "cudowny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -1723,7 +2002,9 @@
     "meaning": [
       "Maryland"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1731,7 +2012,9 @@
     "meaning": [
       "marcepan"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1750,7 +2033,9 @@
     "meaning": [
       "tusz do rzęs"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1758,7 +2043,9 @@
     "meaning": [
       "maskotka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1778,7 +2065,9 @@
     "meaning": [
       "tłuc"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -1798,7 +2087,9 @@
     "meaning": [
       "masochizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1806,7 +2097,9 @@
     "meaning": [
       "masochista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1814,7 +2107,9 @@
     "meaning": [
       "kamieniarz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1823,7 +2118,9 @@
       "kamieniarstwo",
       "murarka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1843,7 +2140,9 @@
     "meaning": [
       "Massachusetts"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1877,7 +2176,9 @@
       "wielki",
       "rozległy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1885,7 +2186,9 @@
     "meaning": [
       "produkować na masową skalę"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -1893,7 +2196,9 @@
     "meaning": [
       "maszt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -1921,7 +2226,9 @@
     "meaning": [
       "władczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1929,7 +2236,9 @@
     "meaning": [
       "mistrzowski"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -1951,7 +2260,9 @@
     "meaning": [
       "arcydzieło"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -1960,7 +2271,9 @@
       "biegłość",
       "panowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1968,7 +2281,9 @@
     "meaning": [
       "onanizować się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -1976,7 +2291,9 @@
     "meaning": [
       "masturbacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -1984,7 +2301,9 @@
     "meaning": [
       "Mazury"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -2006,7 +2325,9 @@
       "dywanik",
       "chodnik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2032,7 +2353,9 @@
     "meaning": [
       "pudełko zapałek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2052,7 +2375,9 @@
     "meaning": [
       "niedościgniony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -2086,7 +2411,9 @@
     "meaning": [
       "materializm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2094,7 +2421,9 @@
     "meaning": [
       "materialistyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2102,7 +2431,9 @@
     "meaning": [
       "materializować się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2111,7 +2442,9 @@
       "matczyny",
       "macierzyński"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2120,7 +2453,9 @@
       "macierzyński",
       "położniczy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2128,7 +2463,9 @@
     "meaning": [
       "matma"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2136,7 +2473,9 @@
     "meaning": [
       "matematyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2144,7 +2483,9 @@
     "meaning": [
       "matematyk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2152,7 +2493,9 @@
     "meaning": [
       "matematyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2161,7 +2504,9 @@
       "przedstawienie",
       "popołudniówka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2181,7 +2526,9 @@
     "meaning": [
       "immatrykulować się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -2189,7 +2536,9 @@
     "meaning": [
       "immatrykulacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2197,7 +2546,9 @@
     "meaning": [
       "matrymonialny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2205,7 +2556,9 @@
     "meaning": [
       "małżeństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2213,7 +2566,9 @@
     "meaning": [
       "matryca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2224,7 +2579,9 @@
       "pielęgniarka",
       "matrona"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2232,7 +2589,9 @@
     "meaning": [
       "matowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2269,7 +2628,9 @@
       "rzeczowy",
       "chłodny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -2277,7 +2638,9 @@
     "meaning": [
       "mata"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2285,7 +2648,9 @@
     "meaning": [
       "materac"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2306,7 +2671,9 @@
       "dojrzałość",
       "dorosłość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2315,7 +2682,9 @@
       "sentymentalny",
       "rzewny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2323,7 +2692,9 @@
     "meaning": [
       "szarpać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2331,7 +2702,9 @@
     "meaning": [
       "mauzoleum"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2387,7 +2760,9 @@
     "meaning": [
       "maksyma"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2395,7 +2770,9 @@
     "meaning": [
       "zwiększać maksymalnie"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2413,19 +2790,15 @@
     "level": "B1",
     "word": "May",
     "meaning": [
-      "maj"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "may",
-    "meaning": [
+      "maj",
       "móc",
       "wolno",
       "oby"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2434,7 +2807,9 @@
       "być może",
       "może"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A2",
@@ -2442,7 +2817,9 @@
     "meaning": [
       "majonez"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2450,7 +2827,9 @@
     "meaning": [
       "burmistrz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2459,7 +2838,9 @@
       "labirynt",
       "gmatwanina"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2472,7 +2853,9 @@
       "kongresmen",
       "Krzyż Wojenny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2480,7 +2863,9 @@
     "meaning": [
       "doktor medycyny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2490,7 +2875,9 @@
       "mi",
       "ja"
     ],
-    "partOfSpeech": "pronoun"
+    "partOfSpeech": [
+      "pronoun"
+    ]
   },
   {
     "level": "B2",
@@ -2499,7 +2886,9 @@
       "miód pitny",
       "miód"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2507,7 +2896,9 @@
     "meaning": [
       "łąka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2516,7 +2907,9 @@
       "skąpy",
       "niewielki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -2524,7 +2917,9 @@
     "meaning": [
       "posiłek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2532,7 +2927,9 @@
     "meaning": [
       "pora posiłku"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2582,7 +2979,9 @@
       "znaczenie",
       "sens"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2591,7 +2990,9 @@
       "znaczący",
       "posiadający znaczenie"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2599,7 +3000,9 @@
     "meaning": [
       "bezsensowny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2609,7 +3012,9 @@
       "środki finansowe",
       "pieniądze"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2617,7 +3022,9 @@
     "meaning": [
       "tymczasem"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A2",
@@ -2625,7 +3032,9 @@
     "meaning": [
       "odra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2633,7 +3042,9 @@
     "meaning": [
       "nędzny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2641,7 +3052,9 @@
     "meaning": [
       "dostrzegalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2678,7 +3091,9 @@
       "pomiar",
       "kroki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2686,7 +3101,9 @@
     "meaning": [
       "mięso"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -2694,7 +3111,9 @@
     "meaning": [
       "mechanik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2703,7 +3122,9 @@
       "mechaniczny",
       "techniczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2712,7 +3133,9 @@
       "mechanika",
       "technika"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2721,7 +3144,9 @@
       "mechanizm",
       "sposób"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2729,7 +3154,9 @@
     "meaning": [
       "mechanizować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2738,7 +3165,9 @@
       "medal",
       "odznaczenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2746,7 +3175,9 @@
     "meaning": [
       "medalion"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2754,7 +3185,9 @@
     "meaning": [
       "medalista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2762,7 +3195,9 @@
     "meaning": [
       "mieszać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2770,7 +3205,9 @@
     "meaning": [
       "środki masowego przekazu"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2778,7 +3215,9 @@
     "meaning": [
       "pośredniczyć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -2798,7 +3237,9 @@
     "meaning": [
       "lekarstwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2806,7 +3247,9 @@
     "meaning": [
       "leczniczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -2815,7 +3258,9 @@
       "medycyna",
       "lekarstwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2823,7 +3268,9 @@
     "meaning": [
       "średniowieczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2832,7 +3279,9 @@
       "pośledni",
       "mierny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2841,7 +3290,9 @@
       "rozmyślać",
       "oddawać się medytacji"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -2849,7 +3300,9 @@
     "meaning": [
       "medytacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2882,7 +3335,9 @@
     "meaning": [
       "potulny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -2905,7 +3360,9 @@
       "dochodzić do czegoś",
       "dochodzić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -2914,7 +3371,9 @@
       "spotkanie",
       "zebranie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -2922,7 +3381,9 @@
     "meaning": [
       "megafon"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2958,7 +3419,9 @@
     "meaning": [
       "melodyjny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -2966,7 +3429,9 @@
     "meaning": [
       "melodramat"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -2974,7 +3439,9 @@
     "meaning": [
       "melodramatyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -2982,7 +3449,9 @@
     "meaning": [
       "melodia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -2991,7 +3460,9 @@
       "melon",
       "arbuz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3004,7 +3475,9 @@
       "stapiać się",
       "znikać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3016,7 +3489,9 @@
       "członek parlamentu",
       "członkowski"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3024,7 +3499,9 @@
     "meaning": [
       "członkostwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3033,7 +3510,9 @@
       "błona śluzowa",
       "błona"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3041,7 +3520,9 @@
     "meaning": [
       "pamiątka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3050,7 +3531,9 @@
       "memorandum",
       "raport"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3059,7 +3542,9 @@
       "memuary",
       "pamiętniki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3067,7 +3552,9 @@
     "meaning": [
       "pamiętny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3075,7 +3562,9 @@
     "meaning": [
       "memorandum"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3096,7 +3585,9 @@
     "meaning": [
       "zapamiętywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3105,7 +3596,9 @@
       "pamięć",
       "wspomnienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3127,7 +3620,9 @@
     "meaning": [
       "groźny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3137,7 +3632,9 @@
       "naprawiać",
       "cerować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3156,7 +3653,9 @@
     "meaning": [
       "zapalenie opon mózgowych"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3165,7 +3664,9 @@
       "menopauza",
       "klimakterium"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3173,7 +3674,9 @@
     "meaning": [
       "menstruacyjny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3182,7 +3685,9 @@
       "miesiączkować",
       "menstruować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3190,7 +3695,9 @@
     "meaning": [
       "menstruacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3200,7 +3707,9 @@
       "pamięciowy",
       "chory umysłowo"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3209,7 +3718,9 @@
       "umysłowość",
       "mentalność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3229,7 +3740,9 @@
     "meaning": [
       "mentor"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3238,7 +3751,9 @@
       "menu",
       "lista opcji"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3259,7 +3774,9 @@
       "towary",
       "towar"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3283,7 +3800,9 @@
       "miłosierny",
       "zbawczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3291,7 +3810,9 @@
     "meaning": [
       "bezlitosny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3299,7 +3820,9 @@
     "meaning": [
       "rtęć"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3308,7 +3831,9 @@
       "litość",
       "miłosierdzie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3318,7 +3843,9 @@
       "sam",
       "ledwo"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -3327,7 +3854,9 @@
       "tylko",
       "jedynie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B2",
@@ -3336,7 +3865,9 @@
       "najmniejszy",
       "czysty"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -3348,7 +3879,9 @@
       "stapiać",
       "wtapiać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -3356,7 +3889,9 @@
     "meaning": [
       "fuzja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3364,7 +3899,9 @@
     "meaning": [
       "południk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3372,7 +3909,9 @@
     "meaning": [
       "beza"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3394,7 +3933,9 @@
     "meaning": [
       "syrena"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3402,7 +3943,9 @@
     "meaning": [
       "wesołość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3412,7 +3955,9 @@
       "zawiany",
       "podochocony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3420,7 +3965,9 @@
     "meaning": [
       "karuzela"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3441,7 +3988,9 @@
       "hipnotyzować",
       "oczarowywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3451,7 +4000,9 @@
       "przesłanie",
       "idea"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3459,7 +4010,9 @@
     "meaning": [
       "posłaniec"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3470,7 +4023,9 @@
       "niechlujny",
       "niefajny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3478,7 +4033,9 @@
     "meaning": [
       "metabolizm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -3486,7 +4043,9 @@
     "meaning": [
       "metal"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3494,7 +4053,9 @@
     "meaning": [
       "metaliczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3502,7 +4063,9 @@
     "meaning": [
       "metamorfoza"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3511,7 +4074,9 @@
       "metafora",
       "przenośnia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3519,7 +4084,9 @@
     "meaning": [
       "metafizyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3527,7 +4094,9 @@
     "meaning": [
       "meteor"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3535,7 +4104,9 @@
     "meaning": [
       "błyskawiczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3543,7 +4114,9 @@
     "meaning": [
       "meteoryt"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3551,7 +4124,9 @@
     "meaning": [
       "meteorologiczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3559,7 +4134,9 @@
     "meaning": [
       "meteorologia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3580,7 +4157,9 @@
     "meaning": [
       "metoda"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3588,7 +4167,9 @@
     "meaning": [
       "metodyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -3596,7 +4177,9 @@
     "meaning": [
       "metodysta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -3604,7 +4187,9 @@
     "meaning": [
       "metodyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3613,7 +4198,9 @@
       "drobiazgowy",
       "dokładny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3621,7 +4208,9 @@
     "meaning": [
       "metr"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3640,7 +4229,9 @@
     "meaning": [
       "metro"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3648,7 +4239,9 @@
     "meaning": [
       "metropolia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3656,7 +4249,9 @@
     "meaning": [
       "wielkomiejski"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -3666,7 +4261,9 @@
       "temperament",
       "krewkość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3674,7 +4271,9 @@
     "meaning": [
       "miauczeć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -3694,7 +4293,9 @@
     "meaning": [
       "Meksyk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C2",
@@ -3703,7 +4304,9 @@
       "Monsignore",
       "Wasza Dostojność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3711,7 +4314,9 @@
     "meaning": [
       "wywiad wojskowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -3731,7 +4336,9 @@
     "meaning": [
       "Michigan"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3740,7 +4347,9 @@
       "mikrob",
       "drobnoustrój"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3749,7 +4358,9 @@
       "płytka półprzewodnika",
       "układ scalony"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3757,7 +4368,9 @@
     "meaning": [
       "mikrofon"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3765,7 +4378,9 @@
     "meaning": [
       "mikroprocesor"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3773,7 +4388,9 @@
     "meaning": [
       "mikroskop"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3783,7 +4400,9 @@
       "mikroskopijny",
       "drobiazgowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -3791,7 +4410,9 @@
     "meaning": [
       "kuchenka mikrofalowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3800,7 +4421,9 @@
       "środkowy",
       "średni"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -3808,7 +4431,9 @@
     "meaning": [
       "południe"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -3837,7 +4462,9 @@
     "meaning": [
       "w średnim wieku"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -3845,7 +4472,9 @@
     "meaning": [
       "pośrednik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3865,7 +4494,9 @@
     "meaning": [
       "komar"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3873,7 +4504,9 @@
     "meaning": [
       "karzeł"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3881,7 +4514,9 @@
     "meaning": [
       "midi"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -3903,7 +4538,9 @@
     "meaning": [
       "talia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3912,7 +4549,9 @@
       "środek lata",
       "kanikuła"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3921,7 +4560,9 @@
       "pomiędzy",
       "w środku"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A2",
@@ -3943,7 +4584,9 @@
     "meaning": [
       "położna"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3964,7 +4607,9 @@
     "meaning": [
       "migrena"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -3972,7 +4617,9 @@
     "meaning": [
       "przybysz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -3981,7 +4628,9 @@
       "wędrować",
       "migrować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -3990,7 +4639,9 @@
       "migracja",
       "wędrówka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -3998,7 +4649,9 @@
     "meaning": [
       "mikrofon"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4007,7 +4660,9 @@
       "łagodny",
       "niewielki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4015,7 +4670,9 @@
     "meaning": [
       "pleśń"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4023,7 +4680,9 @@
     "meaning": [
       "mila"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4031,7 +4690,9 @@
     "meaning": [
       "dystans"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4039,7 +4700,9 @@
     "meaning": [
       "licznik mil"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4047,7 +4710,9 @@
     "meaning": [
       "kamień milowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4055,7 +4720,9 @@
     "meaning": [
       "otoczenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4089,7 +4756,9 @@
     "meaning": [
       "zapobiegać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4098,7 +4767,9 @@
       "milicja",
       "straż miejska"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4120,7 +4791,9 @@
     "meaning": [
       "mleczarz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4129,7 +4802,9 @@
       "koktail mleczny",
       "koktail"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4138,7 +4813,9 @@
       "mleczny",
       "z mlekiem"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -4163,7 +4840,9 @@
       "millennium",
       "tysiąclecie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4171,7 +4850,9 @@
     "meaning": [
       "młynarz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4179,7 +4860,9 @@
     "meaning": [
       "proso"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4187,7 +4870,9 @@
     "meaning": [
       "miligram"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4195,7 +4880,9 @@
     "meaning": [
       "mililitr"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4203,7 +4890,9 @@
     "meaning": [
       "milimetr"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4212,7 +4901,9 @@
       "modysta",
       "modystka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4220,7 +4911,9 @@
     "meaning": [
       "modniarstwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4228,7 +4921,9 @@
     "meaning": [
       "milion"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4236,7 +4931,9 @@
     "meaning": [
       "milioner"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4255,7 +4952,9 @@
     "meaning": [
       "kamień młyński"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4263,7 +4962,9 @@
     "meaning": [
       "licznik mil"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4311,7 +5012,9 @@
       "naśladownictwo",
       "mimikra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4322,7 +5025,9 @@
       "min.",
       "minuta"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4330,7 +5035,9 @@
     "meaning": [
       "minaret"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4351,7 +5058,9 @@
     "meaning": [
       "mięso siekane"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4359,7 +5068,9 @@
     "meaning": [
       "opiekun"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4368,7 +5079,9 @@
       "bezsensowny",
       "bezmyślny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -4393,7 +5106,9 @@
     "meaning": [
       "pole minowe"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4401,7 +5116,9 @@
     "meaning": [
       "górnik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4421,7 +5138,9 @@
     "meaning": [
       "mieszać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -4429,7 +5148,9 @@
     "meaning": [
       "mini"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4449,7 +5170,9 @@
     "meaning": [
       "mikrobus"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4457,7 +5180,9 @@
     "meaning": [
       "minimalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4465,7 +5190,9 @@
     "meaning": [
       "minimalizować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -4498,7 +5225,9 @@
       "minispódniczka",
       "mini"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4508,7 +5237,9 @@
       "duchowny",
       "pastor"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4516,7 +5247,9 @@
     "meaning": [
       "ministerialny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4525,7 +5258,9 @@
       "ministerstwo",
       "duchowieństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4534,7 +5269,9 @@
       "norka",
       "norki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4542,7 +5279,9 @@
     "meaning": [
       "Minnesota"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4566,7 +5305,9 @@
     "meaning": [
       "mniejszość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4574,7 +5315,9 @@
     "meaning": [
       "katedra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4582,7 +5325,9 @@
     "meaning": [
       "bard"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4605,7 +5350,9 @@
     "meaning": [
       "menuet"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4643,7 +5390,9 @@
       "drobiazgowo",
       "nieco"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "A2",
@@ -4652,7 +5401,9 @@
       "cud",
       "cudowny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4660,7 +5411,9 @@
     "meaning": [
       "cudowny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4669,7 +5422,9 @@
       "fata morgana",
       "miraż"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -4691,7 +5446,9 @@
       "radość",
       "wesołość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4700,7 +5457,9 @@
       "nieszczęśliwy wypadek",
       "wypadek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4709,7 +5468,9 @@
       "błędne mniemanie",
       "złudzenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4717,7 +5478,9 @@
     "meaning": [
       "przywłaszczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4725,7 +5488,9 @@
     "meaning": [
       "źle zachowywać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4733,7 +5498,9 @@
     "meaning": [
       "złe zachowanie się"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4741,7 +5508,9 @@
     "meaning": [
       "różne"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4750,7 +5519,9 @@
       "przeliczyć się",
       "przeliczyć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4758,7 +5529,9 @@
     "meaning": [
       "poronienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4768,7 +5541,9 @@
       "upadać",
       "nie wypalać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4776,7 +5551,9 @@
     "meaning": [
       "różnorodny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4788,7 +5565,9 @@
       "psota",
       "szkoda"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4798,7 +5577,9 @@
       "złośliwy",
       "dokuczliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "C1",
@@ -4819,7 +5600,9 @@
       "nieporozumienie",
       "błędne zrozumienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4828,7 +5611,9 @@
       "wykroczenie",
       "niewłaściwe postępowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -4837,7 +5622,9 @@
       "nieporozumienie",
       "błędne zrozumienie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4845,7 +5632,9 @@
     "meaning": [
       "źle zrozumieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4854,7 +5643,9 @@
       "wykroczenie",
       "występek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4862,7 +5653,9 @@
     "meaning": [
       "źle kierować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4870,7 +5663,9 @@
     "meaning": [
       "skąpiec"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -4880,7 +5675,9 @@
       "żałosny",
       "fatalny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4888,7 +5685,9 @@
     "meaning": [
       "skąpy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -4897,7 +5696,9 @@
       "nieszczęście",
       "nędza"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4905,7 +5706,9 @@
     "meaning": [
       "nie wypalać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4913,7 +5716,9 @@
     "meaning": [
       "osoba nie na miejscu"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -4921,7 +5726,9 @@
     "meaning": [
       "nieszczęście"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4929,7 +5736,9 @@
     "meaning": [
       "złe przeczucie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4938,7 +5747,9 @@
       "błędny",
       "fałszywy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -4947,7 +5758,9 @@
       "zaniedbywać",
       "zaprzepaszczać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -4956,7 +5769,9 @@
       "zły przypadek",
       "przypadek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4964,7 +5779,9 @@
     "meaning": [
       "błędnie poinformować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4972,7 +5789,9 @@
     "meaning": [
       "błędna informacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -4981,7 +5800,9 @@
       "opacznie rozumieć",
       "opacznie interpretować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4990,7 +5811,9 @@
       "mylnie osądzać",
       "mylnie oceniać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -4998,7 +5821,9 @@
     "meaning": [
       "zapodziewać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5007,7 +5832,9 @@
       "mylić",
       "wprowadzać w błąd"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5015,7 +5842,9 @@
     "meaning": [
       "niewłaściwie prowadzić"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -5023,7 +5852,9 @@
     "meaning": [
       "niewłaściwy termin"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5032,7 +5863,9 @@
       "niewłaściwy",
       "źle skierowany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5040,7 +5873,9 @@
     "meaning": [
       "omyłka druku"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5048,7 +5883,9 @@
     "meaning": [
       "niewłaściwie odczytywać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -5056,7 +5893,9 @@
     "meaning": [
       "fałszywie przedstawiać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -5064,14 +5903,7 @@
     "meaning": [
       "panna",
       "miss",
-      "pani"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "miss",
-    "meaning": [
+      "pani",
       "nietrafienie",
       "chybienie",
       "nie dostrzegać",
@@ -5094,7 +5926,9 @@
     "meaning": [
       "zniekształcony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5104,7 +5938,9 @@
       "pocisk rakietowy",
       "pocisk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5127,7 +5963,9 @@
       "delegacja",
       "posłannictwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5147,7 +5985,9 @@
     "meaning": [
       "Mississippi"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5155,7 +5995,9 @@
     "meaning": [
       "Missouri"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5163,7 +6005,9 @@
     "meaning": [
       "zrobić błąd ortograficzny"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5171,7 +6015,9 @@
     "meaning": [
       "marnować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -5206,7 +6052,9 @@
     "meaning": [
       "mylny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5214,7 +6062,9 @@
     "meaning": [
       "jemioła"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5224,7 +6074,9 @@
       "kochanka",
       "nauczycielka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5245,7 +6097,9 @@
     "meaning": [
       "zamglony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -5253,7 +6107,9 @@
     "meaning": [
       "mylnie rozumieć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5262,7 +6118,9 @@
       "nieporozumienie",
       "sprzeczka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5282,7 +6140,9 @@
     "meaning": [
       "kruszyna"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5291,7 +6151,9 @@
       "łagodzić",
       "mitygować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5299,7 +6161,9 @@
     "meaning": [
       "mitra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5308,7 +6172,9 @@
       "rękawica z jednym palcem",
       "mitenka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -5351,7 +6217,9 @@
       "mikser",
       "betoniarka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5360,7 +6228,9 @@
       "mieszanka",
       "mieszanina"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5368,7 +6238,9 @@
     "meaning": [
       "mililitr"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5376,7 +6248,9 @@
     "meaning": [
       "pani"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5384,7 +6258,9 @@
     "meaning": [
       "lekarz rejonowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -5392,7 +6268,9 @@
     "meaning": [
       "poniedziałek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5401,7 +6279,9 @@
       "przekaz pocztowy",
       "przekaz pieniężny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5422,7 +6302,9 @@
     "meaning": [
       "fosa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5458,7 +6340,9 @@
       "mobilność",
       "ruchliwość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5466,7 +6350,9 @@
     "meaning": [
       "mobilizować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5474,7 +6360,9 @@
     "meaning": [
       "mokasyn"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5499,7 +6387,9 @@
       "drwina",
       "kpina"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5508,7 +6398,9 @@
       "umiarkowany",
       "współczesny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5516,7 +6408,9 @@
     "meaning": [
       "ze wszystkimi wygodami"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5524,7 +6418,9 @@
     "meaning": [
       "rodzaj"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5553,7 +6449,9 @@
     "meaning": [
       "modem"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5577,7 +6475,9 @@
       "umiar",
       "umiarkowanie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5586,7 +6486,9 @@
       "współczesny",
       "nowoczesny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5594,7 +6496,9 @@
     "meaning": [
       "modernizować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5602,7 +6506,9 @@
     "meaning": [
       "skromny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5610,7 +6516,9 @@
     "meaning": [
       "skromność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5618,7 +6526,9 @@
     "meaning": [
       "minimum"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5626,7 +6536,9 @@
     "meaning": [
       "modyfikacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5634,7 +6546,9 @@
     "meaning": [
       "określenie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5642,7 +6556,9 @@
     "meaning": [
       "modyfikować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -5650,7 +6566,9 @@
     "meaning": [
       "modulować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5658,7 +6576,9 @@
     "meaning": [
       "moduł"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5666,7 +6586,9 @@
     "meaning": [
       "moher"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5674,7 +6596,9 @@
     "meaning": [
       "wilgotny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5682,7 +6606,9 @@
     "meaning": [
       "zwilżać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -5690,7 +6616,9 @@
     "meaning": [
       "wilgoć"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5712,7 +6640,9 @@
       "kret",
       "wtyczka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5721,7 +6651,9 @@
       "cząsteczka",
       "molekuła"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5729,7 +6661,9 @@
     "meaning": [
       "kretowisko"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5737,7 +6671,9 @@
     "meaning": [
       "napastować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -5745,7 +6681,9 @@
     "meaning": [
       "udobruchiwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -5753,7 +6691,9 @@
     "meaning": [
       "mięczak"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5761,7 +6701,9 @@
     "meaning": [
       "stopiony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -5769,7 +6711,9 @@
     "meaning": [
       "mamuśka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5778,7 +6722,9 @@
       "chwila",
       "moment"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5786,7 +6732,9 @@
     "meaning": [
       "chwilowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5794,7 +6742,9 @@
     "meaning": [
       "doniosły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5802,7 +6752,9 @@
     "meaning": [
       "rozpęd"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5810,7 +6762,9 @@
     "meaning": [
       "monarcha"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5818,7 +6772,9 @@
     "meaning": [
       "monarchista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5826,7 +6782,9 @@
     "meaning": [
       "monarchia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5834,7 +6792,9 @@
     "meaning": [
       "klasztor"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5842,7 +6802,9 @@
     "meaning": [
       "klasztorny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -5850,7 +6812,9 @@
     "meaning": [
       "poniedziałek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5859,7 +6823,9 @@
       "monetarny",
       "pieniężny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -5868,7 +6834,9 @@
       "pieniądze",
       "przekaz pocztowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5876,7 +6844,9 @@
     "meaning": [
       "Mongoł"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5884,7 +6854,9 @@
     "meaning": [
       "Mongolia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5903,7 +6875,9 @@
     "meaning": [
       "kundel"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5926,7 +6900,9 @@
       "zakonnik",
       "mnich"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -5934,7 +6910,9 @@
     "meaning": [
       "małpa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -5957,7 +6935,9 @@
       "monogamia",
       "jednożeństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5965,7 +6945,9 @@
     "meaning": [
       "monolityczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -5973,7 +6955,9 @@
     "meaning": [
       "monolog"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -5981,7 +6965,9 @@
     "meaning": [
       "monopolistyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -5989,7 +6975,9 @@
     "meaning": [
       "monopol"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -5998,7 +6986,9 @@
       "monotonny",
       "jednostajny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6006,7 +6996,9 @@
     "meaning": [
       "monsun"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6027,7 +7019,9 @@
     "meaning": [
       "monstrualność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6036,7 +7030,9 @@
       "monstrualny",
       "potworny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -6044,7 +7040,9 @@
     "meaning": [
       "Montana"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -6052,7 +7050,9 @@
     "meaning": [
       "miesiąc"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6074,7 +7074,9 @@
       "statua",
       "zabytek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6083,7 +7085,9 @@
       "monumentalny",
       "gigantyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -6107,7 +7111,9 @@
       "zły humor",
       "tryb"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6117,7 +7123,9 @@
       "mający humory",
       "w złym humorze"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -6125,7 +7133,9 @@
     "meaning": [
       "księżyc"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6133,7 +7143,9 @@
     "meaning": [
       "bezksiężycowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6154,7 +7166,9 @@
       "księżycowy",
       "rozświetlony księżycem"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6174,7 +7188,9 @@
     "meaning": [
       "stanowisko cumowania"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6182,7 +7198,9 @@
     "meaning": [
       "region wrzosowisk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6190,7 +7208,9 @@
     "meaning": [
       "łoś"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6213,7 +7233,9 @@
     "meaning": [
       "upadać na duchu"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6221,7 +7243,9 @@
     "meaning": [
       "motorower"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6242,7 +7266,9 @@
     "meaning": [
       "morale"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6250,7 +7276,9 @@
     "meaning": [
       "moralista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6258,7 +7286,9 @@
     "meaning": [
       "moralistyczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6266,7 +7296,9 @@
     "meaning": [
       "moralność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6274,7 +7306,9 @@
     "meaning": [
       "moralizować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6282,7 +7316,9 @@
     "meaning": [
       "moralnie"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "C1",
@@ -6290,7 +7326,9 @@
     "meaning": [
       "bagno"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6298,7 +7336,9 @@
     "meaning": [
       "moratorium"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6306,7 +7346,9 @@
     "meaning": [
       "Morawy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6314,7 +7356,9 @@
     "meaning": [
       "chorobliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6322,7 +7366,9 @@
     "meaning": [
       "co więcej"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -6330,7 +7376,9 @@
     "meaning": [
       "kostnica"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6338,7 +7386,9 @@
     "meaning": [
       "mormon"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -6372,7 +7422,9 @@
     "meaning": [
       "Maroko"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6380,7 +7432,9 @@
     "meaning": [
       "kretyn"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6388,7 +7442,9 @@
     "meaning": [
       "kretyński"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6396,7 +7452,9 @@
     "meaning": [
       "ponury"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6404,7 +7462,9 @@
     "meaning": [
       "morfina"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6413,7 +7473,9 @@
       "kąsek",
       "kawałek"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6433,7 +7495,9 @@
     "meaning": [
       "śmiertelność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6442,7 +7506,9 @@
       "moździerz",
       "zaprawa murarska"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6464,7 +7530,9 @@
     "meaning": [
       "upokarzać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -6472,7 +7540,9 @@
     "meaning": [
       "kostnica"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6480,7 +7550,9 @@
     "meaning": [
       "mozaika"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6488,7 +7560,9 @@
     "meaning": [
       "Moskwa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6496,7 +7570,9 @@
     "meaning": [
       "meczet"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6505,7 +7581,9 @@
       "moskit",
       "komar"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6513,7 +7591,9 @@
     "meaning": [
       "mech"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6521,7 +7601,9 @@
     "meaning": [
       "omszały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -6530,7 +7612,9 @@
       "w większości",
       "przede wszystkim"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -6538,7 +7622,9 @@
     "meaning": [
       "motel"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6547,7 +7633,9 @@
       "ćma",
       "mól"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6555,7 +7643,9 @@
     "meaning": [
       "kulka naftaliny"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6563,7 +7653,9 @@
     "meaning": [
       "zżarty przez mole"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -6586,7 +7678,9 @@
     "meaning": [
       "macierzyństwo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6594,7 +7688,9 @@
     "meaning": [
       "teściowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6603,7 +7699,9 @@
       "pozbawiony matki",
       "bez matki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6611,7 +7709,9 @@
     "meaning": [
       "matczyny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6630,7 +7730,9 @@
     "meaning": [
       "przyszła matka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6638,7 +7740,9 @@
     "meaning": [
       "motyw"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6660,7 +7764,9 @@
     "meaning": [
       "nieruchomy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6671,7 +7777,9 @@
       "motywować",
       "dawać motywację"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6679,7 +7787,9 @@
     "meaning": [
       "motywacja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6688,7 +7798,9 @@
       "motyw",
       "powód"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -6696,7 +7808,9 @@
     "meaning": [
       "różnorodny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -6706,7 +7820,9 @@
       "motor",
       "motorowy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6715,7 +7831,9 @@
       "motor",
       "motocykl"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6723,7 +7841,9 @@
     "meaning": [
       "samochód"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6731,7 +7851,9 @@
     "meaning": [
       "motocykl"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6752,7 +7874,9 @@
       "samochodziarz",
       "automobilista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6760,7 +7884,9 @@
     "meaning": [
       "autostrada"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6768,7 +7894,9 @@
     "meaning": [
       "plamisty"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6776,7 +7904,9 @@
     "meaning": [
       "motto"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6799,7 +7929,9 @@
     "meaning": [
       "spleśniały"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -6822,7 +7954,9 @@
       "kupa",
       "góra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6848,7 +7982,9 @@
     "meaning": [
       "góra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6856,7 +7992,9 @@
     "meaning": [
       "alpinista"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6864,7 +8002,9 @@
     "meaning": [
       "alpinistyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6874,7 +8014,9 @@
       "wielki",
       "zwalisty"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6882,7 +8024,9 @@
     "meaning": [
       "zbocze"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6893,7 +8037,9 @@
       "nosić żałobę",
       "opłakiwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -6901,7 +8047,9 @@
     "meaning": [
       "żałobnik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6910,7 +8058,9 @@
       "żałobny",
       "grobowy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -6918,7 +8068,9 @@
     "meaning": [
       "żałoba"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -6926,7 +8078,9 @@
     "meaning": [
       "mysz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6934,7 +8088,9 @@
     "meaning": [
       "mus"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -6943,7 +8099,9 @@
       "wąsy",
       "wąs"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6951,7 +8109,9 @@
     "meaning": [
       "mysi"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -6976,7 +8136,9 @@
       "kęs",
       "haust"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -6984,7 +8146,9 @@
     "meaning": [
       "organki"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -6994,7 +8158,9 @@
       "ustnik",
       "rzecznik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7002,7 +8168,9 @@
     "meaning": [
       "płyn do ust"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7011,7 +8179,9 @@
       "apetyczny",
       "pobudzający apetyt"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -7020,7 +8190,9 @@
       "ruchomy",
       "przenośny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -7075,7 +8247,9 @@
       "ruchomy",
       "przenośny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -7086,7 +8260,9 @@
       "posunięcia",
       "część"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7095,7 +8271,9 @@
       "film",
       "kino"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7118,7 +8296,9 @@
       "żąć",
       "ścinać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -7126,7 +8306,9 @@
     "meaning": [
       "kosiarka do trawy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7146,7 +8328,9 @@
     "meaning": [
       "Mozambik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7156,7 +8340,9 @@
       "poseł",
       "żandarmeria wojskowa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7164,7 +8350,9 @@
     "meaning": [
       "mil/godz."
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -7172,7 +8360,9 @@
     "meaning": [
       "Pan"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -7180,7 +8370,9 @@
     "meaning": [
       "Pani"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -7188,7 +8380,9 @@
     "meaning": [
       "Pani"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7197,7 +8391,9 @@
       "magister nauk przyrodniczych",
       "magister nauk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7205,7 +8401,9 @@
     "meaning": [
       "góra"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7213,7 +8411,9 @@
     "meaning": [
       "miesiąc"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -7224,7 +8424,9 @@
       "w większości",
       "wiele"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -7233,7 +8435,9 @@
       "ubabrany",
       "świński"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -7241,7 +8445,9 @@
     "meaning": [
       "śluz"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -7249,7 +8455,9 @@
     "meaning": [
       "błoto"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7292,7 +8500,9 @@
     "meaning": [
       "błotnik"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7300,7 +8510,9 @@
     "meaning": [
       "muzli"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7308,7 +8520,9 @@
     "meaning": [
       "bułka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7316,7 +8530,9 @@
     "meaning": [
       "zagłuszać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -7339,7 +8555,9 @@
       "chuligan",
       "zbój"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7348,443 +8566,19 @@
       "duszny",
       "wilgotny"
     ],
-    "partOfSpeech": "adjective"
-  },
-  {
-    "level": "A2",
-    "word": "mule",
-    "meaning": [
-      "muł"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "mull over",
-    "meaning": [
-      "przemyśliwać"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "B2",
-    "word": "multiaccess",
-    "meaning": [
-      "wielodostępność"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "C1",
-    "word": "multifarious",
-    "meaning": [
-      "różnorodny"
-    ],
-    "partOfSpeech": "adjective"
-  },
-  {
-    "level": "B2",
-    "word": "multilateral",
-    "meaning": [
-      "wielostronny"
-    ],
-    "partOfSpeech": "adjective"
-  },
-  {
-    "level": "B2",
-    "word": "multinational",
-    "meaning": [
-      "wielonarodowy",
-      "ponadnarodowy",
-      "firma ponadnarodowa"
-    ],
     "partOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "level": "A2",
-    "word": "multiple",
-    "meaning": [
-      "wielokrotny",
-      "w większej ilości",
-      "wielokrotność"
-    ],
-    "partOfSpeech": [
-      "adjective",
-      "noun"
-    ]
-  },
-  {
-    "level": "A2",
-    "word": "multiplication",
-    "meaning": [
-      "mnożenie",
-      "rozrost",
-      "rozmnażanie się"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B2",
-    "word": "multiplicity",
-    "meaning": [
-      "wielość"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "multiply",
-    "meaning": [
-      "rozmnażać się",
-      "mnożyć"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "B2",
-    "word": "multitasking",
-    "meaning": [
-      "wielozadaniowość"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B2",
-    "word": "multitude",
-    "meaning": [
-      "wielość"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A1",
-    "word": "mum",
-    "meaning": [
-      "mamusia"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "mumble",
-    "meaning": [
-      "mamrotać"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "C1",
-    "word": "mummify",
-    "meaning": [
-      "mumifikować"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "A2",
-    "word": "mummy",
-    "meaning": [
-      "mamusia",
-      "mamuśka",
-      "mumia"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "mumps",
-    "meaning": [
-      "świnka"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "munch",
-    "meaning": [
-      "przeżuwać"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "B2",
-    "word": "mundane",
-    "meaning": [
-      "przyziemny"
-    ],
-    "partOfSpeech": "adjective"
-  },
-  {
-    "level": "A2",
-    "word": "Munich",
-    "meaning": [
-      "Monachium"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "moving",
-    "meaning": [
-      "poruszający",
-      "ruchomy"
-    ],
-    "partOfSpeech": [
-      "adjective",
-      "verb"
-    ]
-  },
-  {
-    "level": "B2",
-    "word": "mow",
-    "meaning": [
-      "strzyc",
-      "kosić",
-      "żąć",
-      "ścinać"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "B2",
-    "word": "mower",
-    "meaning": [
-      "kosiarka do trawy"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B2",
-    "word": "Mozambican",
-    "meaning": [
-      "mozambikański",
-      "Mozambikańczyk"
-    ],
-    "partOfSpeech": [
-      "noun",
       "adjective"
     ]
   },
   {
-    "level": "B1",
-    "word": "Mozambique",
-    "meaning": [
-      "Mozambik"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "MP",
-    "meaning": [
-      "członek Parlamentu",
-      "poseł",
-      "żandarmeria wojskowa"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "mph",
-    "meaning": [
-      "mil/godz."
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A1",
-    "word": "Mr.",
-    "meaning": [
-      "Pan"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A1",
-    "word": "Mrs",
-    "meaning": [
-      "Pani"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A1",
-    "word": "Ms",
-    "meaning": [
-      "Pani"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B2",
-    "word": "M.Sc.",
-    "meaning": [
-      "magister nauk przyrodniczych",
-      "magister nauk"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "mt.",
-    "meaning": [
-      "góra"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "mth.",
-    "meaning": [
-      "miesiąc"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A1",
-    "word": "much",
-    "meaning": [
-      "dużo",
-      "bardzo",
-      "w większości",
-      "wiele"
-    ],
-    "partOfSpeech": "adverb"
-  },
-  {
-    "level": "B1",
-    "word": "mucky",
-    "meaning": [
-      "ubabrany",
-      "świński"
-    ],
-    "partOfSpeech": "adjective"
-  },
-  {
-    "level": "B1",
-    "word": "mucus",
-    "meaning": [
-      "śluz"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A1",
-    "word": "mud",
-    "meaning": [
-      "błoto"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "muddle",
-    "meaning": [
-      "zamieszanie",
-      "bałagan",
-      "pomieszanie",
-      "zamęt",
-      "pomieszać",
-      "mieszać",
-      "robić bałagan",
-      "dezorientować",
-      "błąkać się",
-      "iść po omacku",
-      "mylić"
-    ],
-    "partOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "level": "A2",
-    "word": "muddy",
-    "meaning": [
-      "zabłocony",
-      "błotnisty",
-      "mulisty",
-      "zaciemniać"
-    ],
-    "partOfSpeech": [
-      "adjective",
-      "verb"
-    ]
-  },
-  {
-    "level": "B1",
-    "word": "mudguard",
-    "meaning": [
-      "błotnik"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "muesli",
-    "meaning": [
-      "muzli"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "A2",
-    "word": "muffin",
-    "meaning": [
-      "bułka"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "muffle",
-    "meaning": [
-      "zagłuszać"
-    ],
-    "partOfSpeech": "verb"
-  },
-  {
-    "level": "A2",
-    "word": "mug",
-    "meaning": [
-      "kubek",
-      "głupol",
-      "napadać",
-      "łupić"
-    ],
-    "partOfSpeech": [
-      "noun",
-      "verb"
-    ]
-  },
-  {
-    "level": "B1",
-    "word": "mugger",
-    "meaning": [
-      "chuligan",
-      "zbój"
-    ],
-    "partOfSpeech": "noun"
-  },
-  {
-    "level": "B1",
-    "word": "muggy",
-    "meaning": [
-      "duszny",
-      "wilgotny"
-    ],
-    "partOfSpeech": "adjective"
-  },
-  {
     "level": "A2",
     "word": "mule",
     "meaning": [
       "muł"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7792,7 +8586,9 @@
     "meaning": [
       "przemyśliwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -7800,7 +8596,9 @@
     "meaning": [
       "wielodostępność"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -7808,7 +8606,9 @@
     "meaning": [
       "różnorodny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -7816,7 +8616,9 @@
     "meaning": [
       "wielostronny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -7852,7 +8654,9 @@
       "rozrost",
       "rozmnażanie się"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7860,7 +8664,9 @@
     "meaning": [
       "wielość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -7869,7 +8675,9 @@
       "rozmnażać się",
       "mnożyć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -7877,7 +8685,9 @@
     "meaning": [
       "wielozadaniowość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7885,7 +8695,9 @@
     "meaning": [
       "wielość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -7893,7 +8705,9 @@
     "meaning": [
       "mamusia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7901,7 +8715,9 @@
     "meaning": [
       "mamrotać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -7909,7 +8725,9 @@
     "meaning": [
       "mumifikować"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -7919,7 +8737,9 @@
       "mamuśka",
       "mumia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7927,7 +8747,9 @@
     "meaning": [
       "świnka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -7935,7 +8757,9 @@
     "meaning": [
       "przeżuwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B2",
@@ -7943,7 +8767,9 @@
     "meaning": [
       "przyziemny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -7951,7 +8777,9 @@
     "meaning": [
       "Monachium"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7959,7 +8787,9 @@
     "meaning": [
       "miejski"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -7968,7 +8798,9 @@
       "samorząd miejski",
       "samorząd"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "C1",
@@ -7976,7 +8808,9 @@
     "meaning": [
       "szczodrość"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7984,7 +8818,9 @@
     "meaning": [
       "amunicja"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -7993,7 +8829,9 @@
       "malowidło ścienne",
       "fresk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -8013,7 +8851,9 @@
     "meaning": [
       "morderca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -8022,7 +8862,9 @@
       "morderczy",
       "krwawy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -8033,7 +8875,9 @@
       "zabłocony",
       "podejrzany"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -8069,7 +8913,9 @@
       "mięśniowy",
       "muskularny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -8089,7 +8935,9 @@
     "meaning": [
       "muzeum"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8098,7 +8946,9 @@
       "papka",
       "ciapa"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -8121,7 +8971,9 @@
       "przejrzały",
       "ckliwy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A1",
@@ -8130,7 +8982,9 @@
       "muzyka",
       "nuty"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -8152,7 +9006,9 @@
     "meaning": [
       "muzyk"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8160,7 +9016,9 @@
     "meaning": [
       "piżmo"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -8180,7 +9038,9 @@
     "meaning": [
       "muślin"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A2",
@@ -8188,7 +9048,9 @@
     "meaning": [
       "małż"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -8209,7 +9071,9 @@
       "musztarda",
       "gorczyca"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8219,7 +9083,9 @@
       "zbierać się",
       "ześrodkowywać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -8227,7 +9093,9 @@
     "meaning": [
       "stęchły"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -8236,7 +9104,9 @@
       "mutować",
       "przekształcać się"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "B1",
@@ -8270,7 +9140,9 @@
       "okaleczać",
       "psuć"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -8291,7 +9163,9 @@
       "buntowniczy",
       "rebeliancki"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -8324,7 +9198,9 @@
     "meaning": [
       "baranina"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B1",
@@ -8334,7 +9210,9 @@
       "wspólny",
       "odwzajemniony"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B1",
@@ -8343,7 +9221,9 @@
       "wzajemnie",
       "nawzajem"
     ],
-    "partOfSpeech": "adverb"
+    "partOfSpeech": [
+      "adverb"
+    ]
   },
   {
     "level": "B1",
@@ -8366,7 +9246,9 @@
     "meaning": [
       "fale średnie"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "A1",
@@ -8374,7 +9256,9 @@
     "meaning": [
       "mój"
     ],
-    "partOfSpeech": "pronoun"
+    "partOfSpeech": [
+      "pronoun"
+    ]
   },
   {
     "level": "B2",
@@ -8382,7 +9266,9 @@
     "meaning": [
       "krótkowzroczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -8406,7 +9292,9 @@
       "ja sam",
       "sam"
     ],
-    "partOfSpeech": "pronoun"
+    "partOfSpeech": [
+      "pronoun"
+    ]
   },
   {
     "level": "B1",
@@ -8414,7 +9302,9 @@
     "meaning": [
       "tajemniczy"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "A2",
@@ -8423,7 +9313,9 @@
       "tajemnica",
       "tajemniczy"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8443,7 +9335,9 @@
     "meaning": [
       "mistycyzm"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8452,7 +9346,9 @@
       "wprowadzać w błąd",
       "zaskakiwać"
     ],
-    "partOfSpeech": "verb"
+    "partOfSpeech": [
+      "verb"
+    ]
   },
   {
     "level": "C1",
@@ -8460,7 +9356,9 @@
     "meaning": [
       "mistyka"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8468,7 +9366,9 @@
     "meaning": [
       "mit"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   },
   {
     "level": "B2",
@@ -8476,7 +9376,9 @@
     "meaning": [
       "mityczny"
     ],
-    "partOfSpeech": "adjective"
+    "partOfSpeech": [
+      "adjective"
+    ]
   },
   {
     "level": "B2",
@@ -8484,6 +9386,8 @@
     "meaning": [
       "mitologia"
     ],
-    "partOfSpeech": "noun"
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
