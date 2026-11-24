@@ -199,6 +199,10 @@ function withPronunciation(value,enabled=true){
  if(!enabled||typeof value!=="string")return value;
  return value.replace(/[A-Za-z]+(?:[’'][A-Za-z]+)*/g,word=>word+" ("+(topicPronunciations[word.toLowerCase()]||approximateEnglish(word))+")");
 }
+function pronunciationLine(value){
+ if(typeof value!=="string")return "";
+ return value.replace(/[A-Za-z]+(?:[’'][A-Za-z]+)*/g,word=>topicPronunciations[word.toLowerCase()]||approximateEnglish(word));
+}
 
 const tenseNames=["Present Simple","Present Continuous","Present Perfect","Present Perfect Continuous","Past Simple","Past Continuous","Past Perfect","Past Perfect Continuous","Future Simple","Future Continuous","Future Perfect","Future Perfect Continuous"];
 function makeTenseQuestions(lv){
@@ -340,11 +344,11 @@ function checkTyped(timeout=false){
  const ok=!timeout&&accepted.some(answer=>normalize(val)===normalize(answer));
  record(ok,q);
  input.disabled=true;
- const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(withPronunciation(val,mode==="spelling"||(mode==="sentences"&&q.direction==="pl-en")));
+ const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(mode==="sentences"?val:withPronunciation(val,mode==="spelling"));
  const enteredHtml=ok
   ?"<span style='color:#25d69a;font-weight:800'>"+entered+"</span>"
   :"<span style='color:#ff7185;text-decoration:underline;font-weight:800'>"+entered+"</span>";
- const sentenceReveal=mode==="sentences"?"<div style='margin-top:10px'><b>Poprawne tłumaczenie:</b><br>"+escapeHtml(q.a)+"</div>":"";
+ const sentenceReveal=mode==="sentences"?(q.direction==="pl-en"?"<div style='margin-top:12px;padding-top:10px;border-top:1px solid #29425e'><b>Po angielsku:</b><br><span style='font-size:19px;color:#25d69a;font-weight:700'>"+escapeHtml(q.a)+"</span><br><span style='color:#9fc4e8'>Wymowa: "+escapeHtml(pronunciationLine(q.a))+"</span></div>":"<div style='margin-top:12px;padding-top:10px;border-top:1px solid #29425e'><b>Po polsku:</b><br><span style='font-size:19px;color:#25d69a;font-weight:700'>"+escapeHtml(q.a)+"</span><br><span style='color:#9fc4e8'>Oryginał: "+escapeHtml(q.q)+"<br>Wymowa: "+escapeHtml(pronunciationLine(q.q))+"</span></div>"):"";
  document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(mode==="sentences"?q.a:withPronunciation(q.a,mode==="spelling"))+"</span>")+sentenceReveal+"</div>";
  document.getElementById("next").style.display="inline-block";
 }
