@@ -227,6 +227,7 @@ function startGame(){
 }
 function nextQuestion(){
  clearInterval(timer);
+ if(answered)index++;
  if(index>=questions.length){finish();return}
  answered=false;
  const q=questions[index];
