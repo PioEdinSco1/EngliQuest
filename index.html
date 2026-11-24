@@ -153,6 +153,7 @@ footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
 <footer>EngliQuest • Learn English at your own pace 🇬🇧<br><small>Dane słownikowe: English-Polish Dictionary JSON (Piotrowski+Saloni / FreeDict), GPL-3.0. <a href="./THIRD_PARTY_NOTICES.md" style="color:#a9bad3">Źródło i informacje o licencji</a> · <a href="./LICENSE-DATA" style="color:#a9bad3">Pełna licencja</a></small></footer>
 
 <script src="data/sentence-bank.js"></script>
+<script src="data/tense-bank.js"></script>
 <script>
 const bank={
  words:[
@@ -175,40 +176,16 @@ const bank={
 
 const sentenceBank=window.sentenceBank;
 const tenseNames=["Present Simple","Present Continuous","Present Perfect","Present Perfect Continuous","Past Simple","Past Continuous","Past Perfect","Past Perfect Continuous","Future Simple","Future Continuous","Future Perfect","Future Perfect Continuous"];
-const tenseExamples=[
- ["He ___ coffee every morning.","drinks",["drink","drinking","drank"]],
- ["They ___ for the bus at the moment.","are waiting",["wait","waited","have waited"]],
- ["I ___ this book twice.","have read",["read","am reading","had read"]],
- ["She ___ here for two hours.","has been working",["is working","worked","had worked"]],
- ["We ___ to York last weekend.","travelled",["travel","have travelled","were travelling"]],
- ["At eight yesterday, I ___ dinner.","was cooking",["cooked","am cooking","have cooked"]],
- ["The train ___ before we arrived.","had left",["has left","left","was leaving"]],
- ["He ___ for hours before the doctor came.","had been waiting",["has been waiting","waited","was waiting"]],
- ["I think it ___ tomorrow.","will rain",["rains","is raining","has rained"]],
- ["This time tomorrow, we ___ over the Atlantic.","will be flying",["fly","will have flown","are flying"]],
- ["By Friday, she ___ the report.","will have completed",["will complete","completes","will be completing"]],
- ["By June, they ___ on the project for a year.","will have been working",["will work","will be working","have worked"]]
-];
-const tenseLearning={
- "Present Simple":{sentence:"On pije kawę każdego ranka.",gloss:{"drinks":"pije","drink":"pić","drinking":"pijący / pijąc","drank":"pił"}},
- "Present Continuous":{sentence:"Oni właśnie czekają na autobus.",gloss:{"are waiting":"właśnie czekają","wait":"czekać","waited":"czekali","have waited":"czekali / poczekali"}},
- "Present Perfect":{sentence:"Przeczytałem tę książkę dwa razy.",gloss:{"have read":"przeczytałem / czytałem już","read":"czytać / przeczytał","am reading":"właśnie czytam","had read":"przeczytałem wcześniej"}},
- "Present Perfect Continuous":{sentence:"Ona pracuje tutaj od dwóch godzin.",gloss:{"has been working":"pracuje (już od jakiegoś czasu)","is working":"właśnie pracuje","worked":"pracowała","had worked":"pracowała wcześniej"}},
- "Past Simple":{sentence:"W zeszły weekend pojechaliśmy do Yorku.",gloss:{"travelled":"pojechaliśmy / podróżowaliśmy","travel":"podróżować","have travelled":"podróżowaliśmy / odwiedziliśmy","were travelling":"podróżowaliśmy (w trakcie)"}},
- "Past Continuous":{sentence:"Wczoraj o ósmej gotowałem kolację.",gloss:{"was cooking":"gotowałem (wtedy, w trakcie)","cooked":"ugotowałem / gotowałem","am cooking":"właśnie gotuję","have cooked":"ugotowałem już"}},
- "Past Perfect":{sentence:"Pociąg odjechał, zanim przyjechaliśmy.",gloss:{"had left":"odjechał wcześniej","has left":"właśnie odjechał / odjechał już","left":"odjechał","was leaving":"właśnie odjeżdżał"}},
- "Past Perfect Continuous":{sentence:"Czekał od wielu godzin, zanim przyjechał lekarz.",gloss:{"had been waiting":"czekał już od wielu godzin","has been waiting":"czeka już od wielu godzin","waited":"czekał / poczekał","was waiting":"czekał (w danym momencie)"}},
- "Future Simple":{sentence:"Myślę, że jutro będzie padać.",gloss:{"will rain":"będzie padać","rains":"pada / padać","is raining":"właśnie pada","has rained":"padało / już padało"}},
- "Future Continuous":{sentence:"Jutro o tej porze będziemy lecieć nad Atlantykiem.",gloss:{"will be flying":"będziemy lecieć (w trakcie)","fly":"latamy / lecieć","will have flown":"będziemy już po locie","are flying":"właśnie lecimy / lecimy (plan)"}},
- "Future Perfect":{sentence:"Do piątku ona ukończy raport.",gloss:{"will have completed":"będzie miała ukończony","will complete":"ukończy","completes":"kończy","will be completing":"będzie kończyć (w trakcie)"}},
- "Future Perfect Continuous":{sentence:"W czerwcu minie rok, odkąd pracują nad tym projektem.",gloss:{"will have been working":"będą pracować już od roku","will work":"będą pracować","will be working":"będą wtedy pracować","have worked":"pracowali / pracują już"}}
-};
 function makeTenseQuestions(lv){
- return tenseExamples.map((item,i)=>{
-  const tense=tenseNames[i],options=shuffle([item[1],...item[2]]),learning=tenseLearning[tense];
-  return {tense,q:item[0],a:item[1],o:options,c:options.indexOf(item[1]),level:lv,
-   sentenceTranslation:learning.sentence,
-   optionTranslations:options.map(option=>learning.gloss[option]||"znaczenie zależy od kontekstu")};
+ const rank={A1:1,A2:2,B1:3,B2:4,C1:5,C2:6},source=window.tenseQuestionBank||{};
+ return Object.entries(source).flatMap(([tense,rows])=>{
+  const eligible=rows.filter(row=>rank[row[0]]<=rank[lv]);
+  const chosen=eligible.length?eligible:[...rows].sort((x,y)=>Math.abs(rank[x[0]]-rank[lv])-Math.abs(rank[y[0]]-rank[lv])).slice(0,1);
+  return chosen.map(row=>{
+   const [rowLevel,q,a,wrong,pl,glossText]=row,wrongOptions=wrong.split("|"),glosses=glossText.split("|");
+   const raw=[a,...wrongOptions],options=shuffle(raw);
+   return {tense,q,a,o:options,c:options.indexOf(a),level:rowLevel,sentenceTranslation:pl,optionTranslations:options.map(option=>glosses[raw.indexOf(option)]||"")};
+  });
  });
 }
 
@@ -218,7 +195,7 @@ let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
 let levelTotals=JSON.parse(localStorage.getItem("eqLevelTotals")||"{}");
 const letters="abcdefghijklmnopqrstuvwxyz".split("");
 function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-function refreshAmountOptions(){if(mode==="sentences"){const max=sentenceBank[level].length;const old=Number(amount.value)||50;amount.innerHTML="";const choices=[];for(let n=50;n<=max;n+=50)choices.push(n);if(max>0&&(!choices.length||choices[choices.length-1]!==max))choices.push(max);choices.forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(choices.includes(old)?old:(choices.find(n=>n>=old)||max));return;}if(mode==="tenses"){const old=Number(amount.value)||12;amount.innerHTML="";[5,10,12].forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);});amount.value=String(old<=5?5:old<=10?10:12);return;}if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
+function refreshAmountOptions(){if(mode==="sentences"){const max=sentenceBank[level].length;const old=Number(amount.value)||50;amount.innerHTML="";const choices=[];for(let n=50;n<=max;n+=50)choices.push(n);if(max>0&&(!choices.length||choices[choices.length-1]!==max))choices.push(max);choices.forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(choices.includes(old)?old:(choices.find(n=>n>=old)||max));return;}if(mode==="tenses"){const old=Number(amount.value)||12;amount.innerHTML="";[5,10,12,20,30,36].forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);});amount.value=String([5,10,12,20,30,36].includes(old)?old:12);return;}if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
  const seen=new Set();
