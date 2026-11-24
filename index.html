@@ -102,6 +102,10 @@ footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
     <select id="amount"></select>
    </div>
    <div>
+    <label for="direction">Kierunek tłumaczenia (moduł zdań)</label>
+    <select id="direction"><option value="pl-en">Polski → angielski</option><option value="en-pl">Angielski → polski</option></select>
+   </div>
+   <div>
     <label for="tense">Wybierz czas (dla modułu czasów)</label>
     <select id="tense">
      <option>Present Simple</option><option>Present Continuous</option>
@@ -209,7 +213,7 @@ let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
 let levelTotals=JSON.parse(localStorage.getItem("eqLevelTotals")||"{}");
 const letters="abcdefghijklmnopqrstuvwxyz".split("");
 function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-function refreshAmountOptions(){if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
+function refreshAmountOptions(){if(mode==="sentences"||mode==="tenses"){const old=Number(amount.value)||10;amount.innerHTML="";[5,10,20,50].forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);});amount.value=String(old<=5?5:old<=10?10:old<=20?20:50);return;}if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
  const seen=new Set();
@@ -273,8 +277,14 @@ function startGame(){
   questions=shuffle(pool).slice(0,amountRequested).map(entry=>mode==="words"?buildWordQuestion(entry,pool):({q:"Napisz słowo „"+entry.meanings[0]+"” po angielsku.",a:entry.word}));
   if(!questions.length){alert("Nie udało się przygotować pytań dla tego poziomu.");return;}
  }else{
-  const source=bank[mode];
-  questions=Array.from({length:Math.min(Number(amount.value),source.length)},(_,i)=>source[i%source.length]);
+  if(mode==="sentences"){
+   const direction=document.getElementById("direction").value;
+   questions=shuffle(sentenceBank[level]).slice(0,Math.min(Number(amount.value)||10,sentenceBank[level].length)).map(item=>({q:direction==="pl-en"?item[0]:item[1],a:direction==="pl-en"?item[1]:item[0],accepted:[direction==="pl-en"?item[1]:item[0]],direction}));
+  }else{
+   const selected=document.getElementById("tense").value;
+   questions=makeTenseQuestions(level).filter(item=>item.tense===selected);
+  }
+  if(!questions.length){alert("Brak pytań dla wybranego poziomu i ustawień.");return;}
  }
  document.getElementById("game").style.display="block";
  document.getElementById("game").scrollIntoView({behavior:"smooth"});
@@ -291,19 +301,19 @@ function nextQuestion(){
  document.getElementById("bar").style.width=(index/questions.length*100)+"%";
  document.getElementById("score").textContent="Poprawne: "+right+" • Błędne: "+wrong;
  document.getElementById("question").textContent=q.q;
- document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?"Wybierz dokładne tłumaczenie po polsku":"Wybierz poprawną formę";
+ document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?(q.direction==="pl-en"?"Przetłumacz na angielski":"Przetłumacz na polski"):"Uzupełnij zdanie w czasie: "+q.tense;
  document.getElementById("feedback").innerHTML="";
  document.getElementById("next").style.display="none";
  document.getElementById("timer").textContent=" ";
  const answers=document.getElementById("answers");answers.innerHTML="";
- if(mode==="spelling"){
-  const input=document.createElement("input");input.placeholder="Wpisz po angielsku";input.id="typed";input.style.width="100%";answers.appendChild(input);
+ if(mode==="spelling"||mode==="sentences"){
+  const input=document.createElement("input");input.placeholder=mode==="spelling"?"Wpisz słowo po angielsku":"Wpisz tłumaczenie";input.id="typed";input.style.width="100%";input.autocomplete="off";answers.appendChild(input);
   const btn=document.createElement("button");btn.className="primary";btn.textContent="Sprawdź";btn.onclick=()=>checkTyped();answers.appendChild(btn);
  }else{
   q.o.forEach((v,i)=>{let b=document.createElement("button");b.className="answer";b.textContent=v;b.onclick=()=>check(i);answers.appendChild(b)});
  }
- if(mode==="sentences"||mode==="tenses"||mode==="spelling"){
-  timeLeft=mode==="sentences"?15:10;
+ if(mode==="tenses"||mode==="spelling"){
+  timeLeft=10;
   document.getElementById("timer").textContent="Czas: "+timeLeft+" s";
   timer=setInterval(()=>{timeLeft--;document.getElementById("timer").textContent="Czas: "+timeLeft+" s";if(timeLeft<=0){clearInterval(timer);if(!answered){if(mode==="spelling")checkTyped(true);else check(-1)}}},1000);
  }else document.getElementById("timer").textContent="Bez limitu czasu";
@@ -314,14 +324,16 @@ function checkTyped(timeout=false){
  const input=document.getElementById("typed");
  const val=input.value.trim();
  const q=questions[index];
- const ok=!timeout&&val.toLocaleLowerCase("en")===q.a.toLocaleLowerCase("en");
+ const normalize=value=>String(value).trim().replace(/[.!?]+$/,"").replace(/\s+/g," ").toLocaleLowerCase("pl");
+ const accepted=q.accepted||[q.a];
+ const ok=!timeout&&accepted.some(answer=>normalize(val)===normalize(answer));
  record(ok,q);
  input.disabled=true;
- const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(val.toLocaleUpperCase("en"));
+ const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(val);
  const enteredHtml=ok
   ?"<span style='color:#25d69a;font-weight:800'>"+entered+"</span>"
   :"<span style='color:#ff7185;text-decoration:underline;font-weight:800'>"+entered+"</span>";
- document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(q.a.toLocaleUpperCase("en"))+"</span>")+"</div>";
+ document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(q.a)+"</span>")+"</div>";
  document.getElementById("next").style.display="inline-block";
 }
 function check(i){
