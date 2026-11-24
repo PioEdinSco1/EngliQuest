@@ -227,8 +227,8 @@ function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j
 function refreshAmountOptions(){if(mode.startsWith("topic-")){const key=mode.slice(6),rows=key==="alphabet"?(window.topicAlphabet||[]):((window.topicBanks||{})[key]||[]),max=rows.length,old=Number(amount.value)||20,choices=[10,20,30,50,75,100].filter(n=>n<=max);if(max&&!choices.includes(max))choices.push(max);amount.innerHTML="";choices.forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(choices.find(n=>n>=old)||max);return;}if(mode==="sentences"){const max=sentenceBank[level].length;const old=Number(amount.value)||50;amount.innerHTML="";const choices=[];for(let n=50;n<=max;n+=50)choices.push(n);if(max>0&&(!choices.length||choices[choices.length-1]!==max))choices.push(max);choices.forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+(n===max?" pytań (maksimum)":" pytań");amount.appendChild(op);});amount.value=String(choices.includes(old)?old:(choices.find(n=>n>=old)||max));return;}if(mode==="tenses"){const old=Number(amount.value)||12;amount.innerHTML="";[5,10,12,20,30,36,50,60,80,96].forEach(n=>{const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);});amount.value=String([5,10,12,20,30,36,50,60,80,96].includes(old)?old:12);return;}if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
- const seen=new Set();
- loaded.flat().forEach(entry=>{const lv=entry.level;if(!vocabularyByLevel[lv]||!entry.word||!Array.isArray(entry.meaning)||!entry.meaning.length)return;const word=String(entry.word).trim();if(/\.$/.test(word))return;const key=lv+"|"+word.toLocaleLowerCase("en");if(seen.has(key))return;seen.add(key);const meanings=entry.meaning.map(x=>String(x).trim()).filter(Boolean);if(!meanings.length)return;vocabularyByLevel[lv].push({word,meanings,pos:Array.isArray(entry.partOfSpeech)?entry.partOfSpeech:[]});});
+ const mergedEntries=new Map();
+ loaded.flat().forEach(entry=>{const lv=entry.level;if(!vocabularyByLevel[lv]||!entry.word||!Array.isArray(entry.meaning)||!entry.meaning.length)return;const word=String(entry.word).trim();if(/\.$/.test(word))return;const key=lv+"|"+word.toLocaleLowerCase("en");const meanings=entry.meaning.map(x=>String(x).trim()).filter(Boolean);if(!meanings.length)return;const pos=(Array.isArray(entry.partOfSpeech)?entry.partOfSpeech:[entry.partOfSpeech]).filter(Boolean).map(x=>String(x).trim());let item=mergedEntries.get(key);if(!item){item={word,meanings:[],pos:[]};mergedEntries.set(key,item);vocabularyByLevel[lv].push(item);}meanings.forEach(value=>{if(!item.meanings.some(x=>x.toLocaleLowerCase("pl")===value.toLocaleLowerCase("pl")))item.meanings.push(value);});pos.forEach(value=>{if(!item.pos.includes(value))item.pos.push(value);});});
  Object.keys(vocabularyByLevel).forEach(lv=>vocabularyByLevel[lv].sort((a,b)=>a.word.localeCompare(b.word)));
  document.getElementById("vocabStatus").textContent="Baza słówek załadowana. Dostępne hasła: "+Object.entries(vocabularyByLevel).map(([lv,list])=>lv+": "+list.length).join(" • ");
  refreshAmountOptions();updateStats();
@@ -264,7 +264,8 @@ function spellingSimilarity(a,b){
  return 1-row[b.length]/Math.max(a.length,b.length,1);
 }
 function buildWordQuestion(entry,pool){
- const candidates=pool.filter(x=>x.word.toLowerCase()!==entry.word.toLowerCase() && x.meanings[0].toLocaleLowerCase("pl")!==entry.meanings[0].toLocaleLowerCase("pl"));
+ const targetMeaning=entry.meanings[Math.floor(Math.random()*entry.meanings.length)]||entry.word;
+ const candidates=pool.filter(x=>x.word.toLowerCase()!==entry.word.toLowerCase()&&!x.meanings.some(m=>m.toLocaleLowerCase("pl")===targetMeaning.toLocaleLowerCase("pl")));
  const samePos=candidates.filter(x=>entry.pos.length&&x.pos.some(p=>entry.pos.includes(p)));
  const target={A1:.28,A2:.36,B1:.44,B2:.52,C1:.60,C2:.68}[level]||.28;
  const ranked=list=>list.map(x=>({item:x,similarity:spellingSimilarity(entry.word,x.word)})).sort((a,b)=>b.similarity-a.similarity);
@@ -276,7 +277,7 @@ function buildWordQuestion(entry,pool){
  }
  if(distractors.length<3)return null;
  const options=shuffle([entry,...distractors]);
- return {q:entry.meanings[0],a:entry.word,o:options.map(x=>x.word),tr:options.map(x=>x.meanings[0]),c:options.findIndex(x=>x===entry)};
+ return {q:targetMeaning,a:entry.word,o:options.map(x=>x.word),tr:options.map(x=>x===entry?targetMeaning:x.meanings[0]),c:options.findIndex(x=>x===entry)};
 }
 function buildTopicQuestion(entry,pool){const distractors=shuffle(pool.filter(x=>x.en!==entry.en)).slice(0,3);if(distractors.length<3)return null;const options=shuffle([entry,...distractors]);return {q:entry.en,a:entry.en,o:options.map(x=>x.en),tr:options.map(x=>x.pl),c:options.findIndex(x=>x===entry)};}
 function startGame(){
