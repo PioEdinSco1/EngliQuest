@@ -261,7 +261,7 @@ function startGame(){
  }else{
   if(mode==="sentences"){
    const direction=document.getElementById("direction").value;
-   questions=shuffle(sentenceBank[level]).slice(0,Math.min(Number(amount.value)||10,sentenceBank[level].length)).map(item=>({q:direction==="pl-en"?item[0]:item[1],a:direction==="pl-en"?item[1]:item[0],accepted:[direction==="pl-en"?item[1]:item[0]],direction}));
+   questions=shuffle(sentenceBank[level]).slice(0,Math.min(Number(amount.value)||10,sentenceBank[level].length)).map(item=>{const target=direction==="pl-en"?item[1]:item[0],variants=direction==="pl-en"?(Array.isArray(item[3])?item[3]:[]):(Array.isArray(item[2])?item[2]:[]);return {q:direction==="pl-en"?item[0]:item[1],a:target,accepted:[target,...variants],direction};});
   }else{
    const selected=document.getElementById("tense").value;
    const tensePool=makeTenseQuestions(level).filter(item=>selected==="all"||item.tense===selected);
@@ -308,7 +308,7 @@ function checkTyped(timeout=false){
  const input=document.getElementById("typed");
  const val=input.value.trim();
  const q=questions[index];
- const normalize=value=>String(value).normalize("NFC").trim().replace(/[’‘]/g,"'").replace(/[.!?,;:]+$/,"").replace(/\s+/g," ").toLocaleLowerCase("en").replace(/\b(can not)\b/g,"cannot").replace(/\b(don’t|do not)\b/g,"do not").replace(/\b(doesn’t|does not)\b/g,"does not").replace(/\b(didn’t|did not)\b/g,"did not").replace(/\b(isn’t|is not)\b/g,"is not").replace(/\b(aren’t|are not)\b/g,"are not").replace(/\b(wasn’t|was not)\b/g,"was not").replace(/\b(weren’t|were not)\b/g,"were not").replace(/\b(hasn’t|has not)\b/g,"has not").replace(/\b(haven’t|have not)\b/g,"have not").replace(/\b(hadn’t|had not)\b/g,"had not").replace(/\b(i’m|i am)\b/g,"i am").replace(/\b(you’re|you are)\b/g,"you are").replace(/\b(we’re|we are)\b/g,"we are").replace(/\b(they’re|they are)\b/g,"they are").replace(/\b(it’s|it is)\b/g,"it is").replace(/\b(he’s|he is)\b/g,"he is").replace(/\b(she’s|she is)\b/g,"she is");
+ const normalize=value=>String(value).normalize("NFC").trim().replace(/[’‘]/g,"'").replace(/[.!?,;:]+/g," ").replace(/\s+/g," ").toLocaleLowerCase("en").replace(/\b(can not)\b/g,"cannot").replace(/\b(don’t|do not)\b/g,"do not").replace(/\b(doesn’t|does not)\b/g,"does not").replace(/\b(didn’t|did not)\b/g,"did not").replace(/\b(isn’t|is not)\b/g,"is not").replace(/\b(aren’t|are not)\b/g,"are not").replace(/\b(wasn’t|was not)\b/g,"was not").replace(/\b(weren’t|were not)\b/g,"were not").replace(/\b(hasn’t|has not)\b/g,"has not").replace(/\b(haven’t|have not)\b/g,"have not").replace(/\b(hadn’t|had not)\b/g,"had not").replace(/\b(i’m|i am)\b/g,"i am").replace(/\b(you’re|you are)\b/g,"you are").replace(/\b(we’re|we are)\b/g,"we are").replace(/\b(they’re|they are)\b/g,"they are").replace(/\b(it’s|it is)\b/g,"it is").replace(/\b(he’s|he is)\b/g,"he is").replace(/\b(she’s|she is)\b/g,"she is");
  const accepted=q.accepted||[q.a];
  const ok=!timeout&&accepted.some(answer=>normalize(val)===normalize(answer));
  record(ok,q);
