@@ -8538,17 +8538,15 @@
     "word": "Polish",
     "meaning": [
       "polski",
-      "pasta",
-      "krem",
-      "polor",
-      "pastować",
-      "kremować",
       "polerować",
-      "załatwić się",
-      "zakończyć"
+      "pasta polerska",
+      "politura",
+      "połysk"
     ],
     "partOfSpeech": [
-      "adjective"
+      "adjective",
+      "noun",
+      "verb"
     ]
   },
   {
@@ -14561,25 +14559,11 @@
     "meaning": [
       "ogół",
       "publiczność",
+      "publiczny",
       "powszechny",
       "państwowy",
-      "budżetowy",
-      "publiczny",
-      "oficjalny",
-      "otwarty dla wszystkich",
-      "otwarty",
-      "spółka akcyjna",
-      "toaleta publiczna",
-      "oprogramowanie dostępne bezpłatnie",
-      "święto państwowe",
-      "bar",
-      "pab",
-      "służba informacyjna",
-      "odbiór społeczny",
-      "rzecznik prasowy",
-      "szkoła prywatna",
-      "szkoła powszechna podstawowa",
-      "szkoła powszechna"
+      "jawny",
+      "ogólnodostępny"
     ],
     "partOfSpeech": [
       "noun",
