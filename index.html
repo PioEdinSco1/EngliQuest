@@ -173,7 +173,7 @@ let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
 let levelTotals=JSON.parse(localStorage.getItem("eqLevelTotals")||"{}");
 const letters="abcdefghijklmnopqrstuvwxyz".split("");
 function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-function refreshAmountOptions(){if(mode!=="words")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
+function refreshAmountOptions(){if(mode!=="words"&&mode!=="spelling")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0&&max%step!==0){const op=document.createElement("option");op.value=max;op.textContent=max+" pytań (maksimum)";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
  const seen=new Set();
@@ -196,7 +196,7 @@ function updateStats(){
  document.getElementById("wrong").textContent=totals.wrong;
  document.getElementById("percent").textContent=totals.total?Math.round(totals.right/totals.total*100)+"%":"0%";
  document.getElementById("history").innerHTML=history.length?history.slice(0,10).map(x=>x.date+" • "+x.level+" • "+x.mode+" • "+x.right+"/"+x.total+" poprawnych").join("<br>"):"Twoja historia nauki pojawi się tutaj po pierwszej sesji.";
- const lp=document.getElementById("levelProgress");if(lp)lp.textContent="Postęp słówek: "+["A1","A2","B1","B2","C1","C2"].map(l=>l+" "+((levelTotals[l]&&levelTotals[l].right)||0)+"/"+((levelTotals[l]&&levelTotals[l].total)||0)).join(" • ");
+ const lp=document.getElementById("levelProgress");if(lp){const spellingTotals=JSON.parse(localStorage.getItem("eqSpellingLevelTotals")||"{}");const levels=["A1","A2","B1","B2","C1","C2"];lp.textContent="Postęp słówek: "+levels.map(l=>l+" "+((levelTotals[l]&&levelTotals[l].right)||0)+"/"+((levelTotals[l]&&levelTotals[l].total)||0)).join(" • ")+" | Pisownia: "+levels.map(l=>l+" "+((spellingTotals[l]&&spellingTotals[l].right)||0)+"/"+((spellingTotals[l]&&spellingTotals[l].total)||0)).join(" • ");}
 }
 function spellingSimilarity(a,b){
  a=a.toLocaleLowerCase("en");b=b.toLocaleLowerCase("en");
@@ -229,11 +229,12 @@ function buildWordQuestion(entry,pool){
 }
 function startGame(){
  clearInterval(timer);right=0;wrong=0;index=0;missed=[];
- if(mode==="words"){
+ if(mode==="words"||mode==="spelling"){
   const pool=vocabularyByLevel[level];
-  if(pool.length<4){alert("Na tym poziomie nie ma jeszcze wystarczającej liczby słówek.");return;}
+  if(!pool.length){alert("Na tym poziomie nie ma jeszcze słówek.");return;}
+  if(mode==="words"&&pool.length<4){alert("Na tym poziomie nie ma jeszcze wystarczającej liczby słówek.");return;}
   const amountRequested=Math.min(Number(amount.value)||50,pool.length);
-  questions=shuffle(pool).slice(0,amountRequested).map(entry=>buildWordQuestion(entry,pool)).filter(Boolean);
+  questions=shuffle(pool).slice(0,amountRequested).map(entry=>mode==="words"?buildWordQuestion(entry,pool):({q:"Napisz słowo „"+entry.meanings[0]+"” po angielsku.",a:entry.word}));
   if(!questions.length){alert("Nie udało się przygotować pytań dla tego poziomu.");return;}
  }else{
   const source=bank[mode];
@@ -271,13 +272,20 @@ function nextQuestion(){
   timer=setInterval(()=>{timeLeft--;document.getElementById("timer").textContent="Czas: "+timeLeft+" s";if(timeLeft<=0){clearInterval(timer);if(!answered){if(mode==="spelling")checkTyped(true);else check(-1)}}},1000);
  }else document.getElementById("timer").textContent="Bez limitu czasu";
 }
+function escapeHtml(value){return String(value).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]));}
 function checkTyped(timeout=false){
  if(answered)return;
- let val=document.getElementById("typed").value.trim();
+ const input=document.getElementById("typed");
+ const val=input.value.trim();
  const q=questions[index];
- const ok=!timeout&&val.toLowerCase()===q.a.toLowerCase();
+ const ok=!timeout&&val.toLocaleLowerCase("en")===q.a.toLocaleLowerCase("en");
  record(ok,q);
- document.getElementById("feedback").innerHTML=(ok?"<b style='color:#25d69a'>Poprawna odpowiedź!</b>":"<b style='color:#ff7185'>Niepoprawna odpowiedź.</b>")+"<br>Poprawnie: "+q.a;
+ input.disabled=true;
+ const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(val.toLocaleUpperCase("en"));
+ const enteredHtml=ok
+  ?"<span style='color:#25d69a;font-weight:800'>"+entered+"</span>"
+  :"<span style='color:#ff7185;text-decoration:underline;font-weight:800'>"+entered+"</span>";
+ document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(q.a.toLocaleUpperCase("en"))+"</span>")+"</div>";
  document.getElementById("next").style.display="inline-block";
 }
 function check(i){
@@ -292,7 +300,14 @@ function check(i){
 function record(ok,q){
  answered=true;clearInterval(timer);
  if(ok)right++;else{wrong++;missed.push(q);mistakes.unshift({level,mode,question:q.q,answer:q.a})}
- if(mode==="words"){if(!levelTotals[level])levelTotals[level]={total:0,right:0};levelTotals[level].total++;if(ok)levelTotals[level].right++;localStorage.setItem("eqLevelTotals",JSON.stringify(levelTotals));}
+ if(mode==="words"||mode==="spelling"){
+  const key=mode==="words"?"eqLevelTotals":"eqSpellingLevelTotals";
+  const stats=mode==="words"?levelTotals:JSON.parse(localStorage.getItem(key)||"{}");
+  if(!stats[level])stats[level]={total:0,right:0};
+  stats[level].total++;if(ok)stats[level].right++;
+  localStorage.setItem(key,JSON.stringify(stats));
+  if(mode==="words")levelTotals=stats;
+ }
  totals.total++;if(ok)totals.right++;else totals.wrong++;
  localStorage.setItem("eqTotals",JSON.stringify(totals));
  localStorage.setItem("eqMistakes",JSON.stringify(mistakes));
