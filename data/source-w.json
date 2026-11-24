@@ -1,1 +1,4814 @@
-[{"level":"A1","word":"W","meaning":["zachód","zachodni"],"partOfSpeech":["noun","adjective"]},{"level":"A2","word":"w.","meaning":["tydzień","waga","szerokość","z"],"partOfSpeech":["noun","preposition"]},{"level":"B1","word":"wad","meaning":["plik","sterta","kłębek","zwitek"],"partOfSpeech":"noun"},{"level":"B1","word":"waddle","meaning":["kiwać się jak kaczka","kiwać się","telepać się"],"partOfSpeech":"verb"},{"level":"B1","word":"wade","meaning":["brodzić","przedzierać się"],"partOfSpeech":"verb"},{"level":"A2","word":"wafer","meaning":["wafel"],"partOfSpeech":"noun"},{"level":"A2","word":"waffle","meaning":["gofr","ględzenie","ględzić"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"waft","meaning":["snuć się"],"partOfSpeech":"verb"},{"level":"B1","word":"wag","meaning":["machać"],"partOfSpeech":"verb"},{"level":"A2","word":"wage","meaning":["zarobek","pensja","prowadzić"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"wager","meaning":["zakład"],"partOfSpeech":"noun"},{"level":"B2","word":"waggle","meaning":["ruszać się","ruszać"],"partOfSpeech":"verb"},{"level":"B1","word":"wail","meaning":["zawodzić","zawodzenie"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"waist","meaning":["talia","stan"],"partOfSpeech":"noun"},{"level":"B1","word":"waistband","meaning":["pasek"],"partOfSpeech":"noun"},{"level":"B1","word":"waistcoat","meaning":["kamizelka"],"partOfSpeech":"noun"},{"level":"B2","word":"waistline","meaning":["obwód pasa"],"partOfSpeech":"noun"},{"level":"A1","word":"wait","meaning":["czekać","oczekiwać","obsługiwać","oczekiwanie"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"waiter","meaning":["kelner"],"partOfSpeech":"noun"},{"level":"A2","word":"waiting","meaning":["oczekiwanie","lista oczekujących","poczekalnia"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"waitress","meaning":["kelnerka"],"partOfSpeech":"noun"},{"level":"B2","word":"waive","meaning":["uchylać","zawieszać"],"partOfSpeech":"verb"},{"level":"A2","word":"wake","meaning":["budzić się","budzić","kilwater","zbudzić się","zbudzić","uświadamiać sobie"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"waken","meaning":["budzić się"],"partOfSpeech":"verb"},{"level":"A2","word":"Wales","meaning":["Walia"],"partOfSpeech":"noun"},{"level":"A1","word":"walk","meaning":["chodzić","iść","spacerować","wyprowadzać na spacer","przechadzka","spacer","szlak","trasa","wychodzić","opuszczać","strajkować","rzucać"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"walker","meaning":["spacerowicz"],"partOfSpeech":"noun"},{"level":"B1","word":"walkie-talkie","meaning":["radiotelefon"],"partOfSpeech":"noun"},{"level":"A2","word":"walking","meaning":["chodzenie","spacer","laska"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"walkout","meaning":["strajk"],"partOfSpeech":"noun"},{"level":"B1","word":"walkover","meaning":["walkower","łatwe zwycięstwo"],"partOfSpeech":"noun"},{"level":"A2","word":"walkway","meaning":["droga dla pieszych"],"partOfSpeech":"noun"},{"level":"A1","word":"wall","meaning":["ściana","mur","ścianka"],"partOfSpeech":"noun"},{"level":"A2","word":"walled","meaning":["otoczony murem"],"partOfSpeech":"noun"},{"level":"A1","word":"wallet","meaning":["portfel"],"partOfSpeech":"noun"},{"level":"B2","word":"wallop","meaning":["łupnąć","trzasnąć"],"partOfSpeech":"verb"},{"level":"B2","word":"wallow","meaning":["oddawać się","tarzać się"],"partOfSpeech":"verb"},{"level":"A2","word":"wallpaper","meaning":["tapeta","tapetować"],"partOfSpeech":["noun","verb"]},{"level":"A1","word":"walnut","meaning":["orzech włoski"],"partOfSpeech":"noun"},{"level":"B1","word":"walrus","meaning":["mors"],"partOfSpeech":"noun"},{"level":"B1","word":"waltz","meaning":["walc","tańczyć walca"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"wan","meaning":["wybladły"],"partOfSpeech":"adjective"},{"level":"B1","word":"wand","meaning":["czarodziejska różdżka","różdżka"],"partOfSpeech":"noun"},{"level":"A2","word":"wander","meaning":["wędrować","błądzić","błąkać się"],"partOfSpeech":"verb"},{"level":"B2","word":"wane","meaning":["blednąć","przygasać"],"partOfSpeech":"verb"},{"level":"B2","word":"wangle","meaning":["kombinować"],"partOfSpeech":"verb"},{"level":"A1","word":"want","meaning":["chcieć","trzeba","potrzebować","brak","potrzeby"],"partOfSpeech":["noun","verb"]},{"level":"C1","word":"wanton","meaning":["bezmyślny","bezsensowny"],"partOfSpeech":"adjective"},{"level":"B1","word":"war","meaning":["wojna","wojować"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"warble","meaning":["śpiewać"],"partOfSpeech":"verb"},{"level":"B1","word":"ward","meaning":["oddział","sala","część okręgu wyborczego","wychowanek","dziecko pod kuratelą","odganiać","odstraszać","odsuwać"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"warden","meaning":["strażnik","dozorca","pilnujący","dyrektor","zarządca"],"partOfSpeech":"noun"},{"level":"B2","word":"warder","meaning":["strażnik więzienny"],"partOfSpeech":"noun"},{"level":"A2","word":"wardrobe","meaning":["szafa","ubiory"],"partOfSpeech":"noun"},{"level":"B1","word":"ware","meaning":["wyrób"],"partOfSpeech":"noun"},{"level":"B1","word":"warehouse","meaning":["magazyn"],"partOfSpeech":"noun"},{"level":"B1","word":"warfare","meaning":["wojna","działania wojenne"],"partOfSpeech":"noun"},{"level":"B2","word":"warhead","meaning":["głowica bojowa"],"partOfSpeech":"noun"},{"level":"B2","word":"warlike","meaning":["wojowniczy","bojowy"],"partOfSpeech":"adjective"},{"level":"B1","word":"warm-blooded","meaning":["ciepłokrwisty"],"partOfSpeech":"adjective"},{"level":"B1","word":"warm-hearted","meaning":["dobrze usposobiony"],"partOfSpeech":"adjective"},{"level":"B2","word":"warmonger","meaning":["podżegacz wojenny"],"partOfSpeech":"noun"},{"level":"A2","word":"warmth","meaning":["ciepło"],"partOfSpeech":"noun"},{"level":"A1","word":"warn","meaning":["ostrzegać","uprzedzać"],"partOfSpeech":"verb"},{"level":"A1","word":"warning","meaning":["ostrzeżenie","znak ostrzegawczy","ostrzegawczy"],"partOfSpeech":["noun","adjective"]},{"level":"B1","word":"warp","meaning":["paczyć się","krzywić","wypaczenie","skrzywienie"],"partOfSpeech":"verb"},{"level":"B2","word":"warpath","meaning":["ścieżka wojenna"],"partOfSpeech":"noun"},{"level":"B2","word":"warrant","meaning":["nakaz","gwarancja","gwarantować"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"warranty","meaning":["gwarancja"],"partOfSpeech":"noun"},{"level":"C1","word":"warren","meaning":["nora królicza","nora"],"partOfSpeech":"noun"},{"level":"B1","word":"warrior","meaning":["wojownik"],"partOfSpeech":"noun"},{"level":"A2","word":"Warsaw","meaning":["Warszawa"],"partOfSpeech":"noun"},{"level":"B2","word":"warship","meaning":["okręt wojenny"],"partOfSpeech":"noun"},{"level":"B1","word":"wart","meaning":["kurzajka","brodawka"],"partOfSpeech":"noun"},{"level":"B1","word":"wartime","meaning":["okres wojny"],"partOfSpeech":"noun"},{"level":"B1","word":"wary","meaning":["ostrożny"],"partOfSpeech":"adjective"},{"level":"A1","word":"wash","meaning":["myć","prać","obmywać","wymywać","pranie","zmywać się","zmywać","wyrzucać"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"washable","meaning":["nadający się do prania"],"partOfSpeech":"adjective"},{"level":"B1","word":"washbasin","meaning":["umywalka"],"partOfSpeech":"noun"},{"level":"B2","word":"washed-out","meaning":["wyblakły","wymęczony","wyprany"],"partOfSpeech":"adjective"},{"level":"A2","word":"washer","meaning":["praczka","pracz","podkładka","uszczelka","pralka"],"partOfSpeech":"noun"},{"level":"A2","word":"washing","meaning":["pranie","rzeczy do prania","pralka","proszek do prania"],"partOfSpeech":"noun"},{"level":"A2","word":"Washington","meaning":["Waszyngton"],"partOfSpeech":"noun"},{"level":"A2","word":"washing-up","meaning":["zmywanie","płyn do naczyń"],"partOfSpeech":"noun"},{"level":"B2","word":"washout","meaning":["dno","fiasko"],"partOfSpeech":"noun"},{"level":"A2","word":"washroom","meaning":["toaleta"],"partOfSpeech":"noun"},{"level":"A1","word":"WASP","meaning":["biały anglosaski protestant"],"partOfSpeech":"noun"},{"level":"A1","word":"wasp","meaning":["osa"],"partOfSpeech":"noun"},{"level":"B2","word":"wastage","meaning":["marnotrawstwo"],"partOfSpeech":"noun"},{"level":"A2","word":"waste","meaning":["marnować","tracić","strata","odpadki","pustkowia","jałowy","odpadowy","zużyty"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wastebasket","meaning":["kosz na śmieci"],"partOfSpeech":"noun"},{"level":"A2","word":"wasted","meaning":["niepotrzebny"],"partOfSpeech":["adjective","verb"]},{"level":"B1","word":"wasteful","meaning":["marnotrawny"],"partOfSpeech":"adjective"},{"level":"B2","word":"wasteland","meaning":["pustkowie","odłóg"],"partOfSpeech":"noun"},{"level":"A2","word":"watchband","meaning":["pasek do zegarka"],"partOfSpeech":"noun"},{"level":"B1","word":"watchdog","meaning":["pies łańcuchowy","nadzorca"],"partOfSpeech":"noun"},{"level":"B1","word":"watcher","meaning":["obserwator"],"partOfSpeech":"noun"},{"level":"B1","word":"watchful","meaning":["przezorny","wnikliwy"],"partOfSpeech":"adjective"},{"level":"B1","word":"watchmaker","meaning":["zegarmistrz"],"partOfSpeech":"noun"},{"level":"A2","word":"watchman","meaning":["strażnik","stróż"],"partOfSpeech":"noun"},{"level":"B1","word":"watchstrap","meaning":["pasek do zegarka"],"partOfSpeech":"noun"},{"level":"B2","word":"watchword","meaning":["hasło"],"partOfSpeech":"noun"},{"level":"A1","word":"water","meaning":["woda","podlewać","łzawić","ciec","ślinić się","rozwadniać","nenufar","lilia wodna"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"water-borne","meaning":["przenoszony drogą wodną"],"partOfSpeech":"adjective"},{"level":"B1","word":"watercolour","meaning":["akwarela"],"partOfSpeech":"noun"},{"level":"B1","word":"watercress","meaning":["rzeżucha"],"partOfSpeech":"noun"},{"level":"A2","word":"waterfall","meaning":["wodospad"],"partOfSpeech":"noun"},{"level":"B1","word":"waterfront","meaning":["wybrzeże","ulica przybrzeżna"],"partOfSpeech":"noun"},{"level":"A1","word":"watering can","meaning":["polewaczka"],"partOfSpeech":"noun"},{"level":"B1","word":"waterlogged","meaning":["nasiąknięty wodą","przesycony wodą","przepełniony wodą"],"partOfSpeech":"adjective"},{"level":"A1","word":"watermelon","meaning":["arbuz"],"partOfSpeech":"noun"},{"level":"A2","word":"waterproof","meaning":["nieprzemakalny","płaszcz przeciwdeszczowy","impregnować","uszczelniać"],"partOfSpeech":["adjective","noun"]},{"level":"B2","word":"watershed","meaning":["dział wodny","przełom","punkt krytyczny"],"partOfSpeech":"noun"},{"level":"B1","word":"waterside","meaning":["wybrzeże"],"partOfSpeech":"noun"},{"level":"B1","word":"watertight","meaning":["wodoszczelny","niezbity"],"partOfSpeech":"adjective"},{"level":"B1","word":"waterway","meaning":["droga wodna"],"partOfSpeech":"noun"},{"level":"B1","word":"waterworks","meaning":["stacja wodociągowa","wodociągi"],"partOfSpeech":"noun"},{"level":"A2","word":"watery","meaning":["wodnisty","niemrawy"],"partOfSpeech":"adjective"},{"level":"B1","word":"watt","meaning":["wat"],"partOfSpeech":"noun"},{"level":"A2","word":"wave","meaning":["fala","machnięcie","pomachanie","machać","falować","zbywać machnięciem"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"waveband","meaning":["zakres fal"],"partOfSpeech":"noun"},{"level":"B2","word":"wavelength","meaning":["długość fal"],"partOfSpeech":"noun"},{"level":"B2","word":"waver","meaning":["wahać się","doświadczać niepewności"],"partOfSpeech":"verb"},{"level":"A2","word":"wavy","meaning":["falisty"],"partOfSpeech":"adjective"},{"level":"A2","word":"wax","meaning":["wosk","woskowina","smar do nart","smar","woskować","pastować","stawać się"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"waxwork","meaning":["figura woskowa","muzeum figur woskowych"],"partOfSpeech":"noun"},{"level":"B1","word":"waxy","meaning":["nawoskowany","woskowy"],"partOfSpeech":"adjective"},{"level":"B2","word":"waylay","meaning":["zatrzymywać"],"partOfSpeech":"verb"},{"level":"C1","word":"wayward","meaning":["kapryśny"],"partOfSpeech":"adjective"},{"level":"A2","word":"WC","meaning":["WC","toaleta"],"partOfSpeech":"noun"},{"level":"A1","word":"We.","meaning":["środa"],"partOfSpeech":"noun"},{"level":"A1","word":"we","meaning":["my"],"partOfSpeech":"pronoun"},{"level":"A2","word":"weak","meaning":["słaby","wątły"],"partOfSpeech":"adjective"},{"level":"B1","word":"weaken","meaning":["osłabiać","słabnąć"],"partOfSpeech":"verb"},{"level":"B2","word":"weakling","meaning":["słabeusz"],"partOfSpeech":"noun"},{"level":"B1","word":"weakness","meaning":["słabość","słaby punkt"],"partOfSpeech":"noun"},{"level":"B1","word":"wealth","meaning":["bogactwo","dobrobyt","wielka ilość"],"partOfSpeech":"noun"},{"level":"B1","word":"wealthy","meaning":["majętny"],"partOfSpeech":"adjective"},{"level":"B2","word":"wean","meaning":["odstawiać od piersi","odzwyczajać"],"partOfSpeech":"verb"},{"level":"A2","word":"weapon","meaning":["broń"],"partOfSpeech":"noun"},{"level":"A2","word":"wear","meaning":["nosić","ubierać się","nosić się","zużywać się","wycierać się","wycierać","przecierać się","przecierać","ubranie","zużycie","wytarcie","ścierać się","ścierać","wyczerpywać","słabnąć","ciągnąć się","wyczerpywać się"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"wearing","meaning":["wyczerpujący"],"partOfSpeech":"adjective"},{"level":"B2","word":"wearisome","meaning":["wyczerpujący","nużący"],"partOfSpeech":"adjective"},{"level":"B1","word":"weary","meaning":["znużony","wyczerpany","nużyć się"],"partOfSpeech":["adjective","verb"]},{"level":"B1","word":"weasel","meaning":["łasica"],"partOfSpeech":"noun"},{"level":"A1","word":"weather","meaning":["pogoda","wietrzeć","przetrwać","prognoza pogody"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"weather-beaten","meaning":["zahartowany złą pogodą","zahartowany","zniszczony na powietrzu"],"partOfSpeech":"adjective"},{"level":"B2","word":"weathercock","meaning":["kurek na dachu","kurek"],"partOfSpeech":"noun"},{"level":"B1","word":"weatherman","meaning":["meteorolog"],"partOfSpeech":"noun"},{"level":"B1","word":"weaver","meaning":["tkaczka","tkacz"],"partOfSpeech":"noun"},{"level":"A2","word":"web","meaning":["pajęczyna"],"partOfSpeech":"noun"},{"level":"B1","word":"webbed","meaning":["płetwiasty"],"partOfSpeech":"adjective"},{"level":"A1","word":"Wed.","meaning":["środa"],"partOfSpeech":"noun"},{"level":"A2","word":"wedding","meaning":["ślub","wesele"],"partOfSpeech":"noun"},{"level":"B1","word":"wedge","meaning":["zaklinowywać","klin","kawałek"],"partOfSpeech":["noun","verb"]},{"level":"A1","word":"Wednesday","meaning":["środa"],"partOfSpeech":"noun"},{"level":"A2","word":"wee","meaning":["tyciuchny","tyci"],"partOfSpeech":"adjective"},{"level":"A2","word":"weed","meaning":["chwast","plewić","wyplewiać","usuwać"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"weedkiller","meaning":["środek chwastobójczy"],"partOfSpeech":"noun"},{"level":"B1","word":"weedy","meaning":["zachwaszczony","mizerny"],"partOfSpeech":"adjective"},{"level":"A1","word":"week","meaning":["tydzień"],"partOfSpeech":"noun"},{"level":"A2","word":"weekday","meaning":["dzień powszedni"],"partOfSpeech":"noun"},{"level":"A1","word":"weekend","meaning":["weekend","koniec tygodnia"],"partOfSpeech":"noun"},{"level":"A2","word":"weekly","meaning":["cotygodniowy","co tydzień","tygodniowy","tygodnik"],"partOfSpeech":["adjective","adverb"]},{"level":"A2","word":"weep","meaning":["płakać"],"partOfSpeech":"verb"},{"level":"B1","word":"weepy","meaning":["płaczliwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"weigh","meaning":["ważyć","rozważać","przeciążać","uginać się","badać"],"partOfSpeech":"verb"},{"level":"A1","word":"weight","meaning":["waga","ciężar","odważnik","obciążać"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"weightless","meaning":["nieważki","nie mający ciężaru"],"partOfSpeech":"adjective"},{"level":"B1","word":"weight-lifter","meaning":["ciężarowiec"],"partOfSpeech":"noun"},{"level":"B1","word":"weight-lifting","meaning":["podnoszenie ciężarów"],"partOfSpeech":"noun"},{"level":"B2","word":"weighty","meaning":["poważny","ważki"],"partOfSpeech":"adjective"},{"level":"C1","word":"weir","meaning":["jaz"],"partOfSpeech":"noun"},{"level":"A2","word":"weird","meaning":["niesamowity","dziwaczny"],"partOfSpeech":"adjective"},{"level":"A1","word":"welcome","meaning":["witać","przywitać","powitanie","mile widziany","chętnie widziany","zapraszany"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"welcoming","meaning":["zapraszający","przyzwalający"],"partOfSpeech":["adjective","verb"]},{"level":"B1","word":"weld","meaning":["spawać","spaw"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"welder","meaning":["spawacz"],"partOfSpeech":"noun"},{"level":"B2","word":"welfare","meaning":["dobro","opieka społeczna","państwo opiekuńcze"],"partOfSpeech":"noun"},{"level":"B2","word":"well-advised","meaning":["rozsądny"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-behaved","meaning":["dobrze wychowany"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-being","meaning":["dobre samopoczucie"],"partOfSpeech":"noun"},{"level":"B2","word":"well-earned","meaning":["ciężko zarobiony","dobrze zasłużony"],"partOfSpeech":"adjective"},{"level":"B2","word":"well-founded","meaning":["uzasadniony"],"partOfSpeech":"adjective"},{"level":"B2","word":"well-heeled","meaning":["nadziany"],"partOfSpeech":"adjective"},{"level":"A2","word":"wellington","meaning":["kalosz"],"partOfSpeech":"noun"},{"level":"B2","word":"well-intentioned","meaning":["mający dobre intencje"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-kept","meaning":["dobrze utrzymany"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-known","meaning":["dobrze znany","znany"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-mannered","meaning":["o dobrych manierach"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-meaning","meaning":["życzliwy","mający dobre chęci"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-off","meaning":["bogaty","dobrze zaopatrzony"],"partOfSpeech":"adjective"},{"level":"B2","word":"well-read","meaning":["oczytany"],"partOfSpeech":"adjective"},{"level":"B2","word":"well-spoken","meaning":["poprawnie mówiący"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-timed","meaning":["na czasie","w porę"],"partOfSpeech":"adjective"},{"level":"B1","word":"well-to-do","meaning":["zamożny"],"partOfSpeech":"adjective"},{"level":"B2","word":"well-wisher","meaning":["sympatyk","człowiek dobrze życzący"],"partOfSpeech":"noun"},{"level":"B1","word":"well-worn","meaning":["wytarty"],"partOfSpeech":"adjective"},{"level":"B1","word":"Welsh","meaning":["walijski"],"partOfSpeech":["noun","adjective"]},{"level":"B1","word":"Welshman","meaning":["Walijczyk"],"partOfSpeech":"noun"},{"level":"B1","word":"Welshwoman","meaning":["Walijka"],"partOfSpeech":"noun"},{"level":"B2","word":"wench","meaning":["dziewucha"],"partOfSpeech":"noun"},{"level":"B1","word":"werewolf","meaning":["wilkołak"],"partOfSpeech":"noun"},{"level":"A1","word":"west","meaning":["zachód","na zachód","zachodni","zachodnioindyjski","antylski","Indie Zachodnie","Antyle"],"partOfSpeech":["noun","adjective"]},{"level":"B1","word":"westerly","meaning":["zachodni"],"partOfSpeech":["adjective","adverb"]},{"level":"B1","word":"western","meaning":["zachodni","western"],"partOfSpeech":["adjective","noun"]},{"level":"B1","word":"westerner","meaning":["człowiek z zachodu"],"partOfSpeech":"noun"},{"level":"B1","word":"westward","meaning":["na zachód","zachodni"],"partOfSpeech":"adjective"},{"level":"A1","word":"wet","meaning":["mokry","wilgotny","moczyć","zwilżać"],"partOfSpeech":["adjective","verb"]},{"level":"B2","word":"whack","meaning":["walić","grzmocić","dola","udział"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"whacked","meaning":["wypompowany"],"partOfSpeech":["adjective","verb"]},{"level":"A2","word":"whale","meaning":["wieloryb"],"partOfSpeech":"noun"},{"level":"B1","word":"whaling","meaning":["wielorybnictwo"],"partOfSpeech":"noun"},{"level":"B1","word":"wharf","meaning":["przystań","nabrzeże"],"partOfSpeech":"noun"},{"level":"A1","word":"what","meaning":["co","jaki","który"],"partOfSpeech":"pronoun"},{"level":"A2","word":"whatever","meaning":["cokolwiek","jakikolwiek"],"partOfSpeech":"pronoun"},{"level":"B1","word":"whatsoever","meaning":["w ogóle"],"partOfSpeech":"adverb"},{"level":"A2","word":"wheat","meaning":["pszenica"],"partOfSpeech":"noun"},{"level":"A1","word":"wheel","meaning":["koło","toczyć","kołować","obracać się"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wheelbarrow","meaning":["taczka"],"partOfSpeech":"noun"},{"level":"A2","word":"wheelchair","meaning":["wózek inwalidzki"],"partOfSpeech":"noun"},{"level":"B1","word":"wheeze","meaning":["świszczeć","sapać","świszczenie","sapanie"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"whenever","meaning":["kiedykolwiek"],"partOfSpeech":"conjunction"},{"level":"B1","word":"whereabouts","meaning":["miejsce pobytu","miejsce położenia","gdzie","dokąd"],"partOfSpeech":["noun","adverb"]},{"level":"B1","word":"whereas","meaning":["gdy"],"partOfSpeech":"conjunction"},{"level":"B2","word":"whereby","meaning":["poprzez który","dzięki któremu"],"partOfSpeech":"adverb"},{"level":"C1","word":"wherein","meaning":["w którym","w czym"],"partOfSpeech":"pronoun"},{"level":"C1","word":"whereupon","meaning":["toteż","wobec czego"],"partOfSpeech":"conjunction"},{"level":"B1","word":"wherever","meaning":["gdziekolwiek"],"partOfSpeech":"conjunction"},{"level":"B2","word":"whet","meaning":["zaostrzać"],"partOfSpeech":"verb"},{"level":"A2","word":"whether","meaning":["czy"],"partOfSpeech":"conjunction"},{"level":"A1","word":"which","meaning":["który","jaki","co","to"],"partOfSpeech":"pronoun"},{"level":"B1","word":"whichever","meaning":["jakikolwiek","którykolwiek"],"partOfSpeech":["determiner","pronoun"]},{"level":"B2","word":"whiff","meaning":["powiew","podmuch"],"partOfSpeech":"noun"},{"level":"A2","word":"while","meaning":["podczas gdy","w czasie gdy","chwila","spędzać czas"],"partOfSpeech":["noun","conjunction"]},{"level":"A2","word":"whilst","meaning":["podczas gdy"],"partOfSpeech":"conjunction"},{"level":"B2","word":"whim","meaning":["kaprys"],"partOfSpeech":"noun"},{"level":"B2","word":"whimper","meaning":["kwilić","skamleć","skowyczeć","kwilenie","skowyt"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"whimsical","meaning":["kapryśny"],"partOfSpeech":"adjective"},{"level":"B1","word":"whine","meaning":["wyć","jazgotać","jęczeć","wycie","jazgot"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"whip","meaning":["bicz","porządkowy pilnujący dyscypliny w klubie parlamentarnym","porządkowy w klubie parlamentarnym","smagać batem","chłostać","zrywać","nakładać szybko","ubijać","pobudzać"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"whipped","meaning":["bity"],"partOfSpeech":["verb","adjective"]},{"level":"B2","word":"whip-round","meaning":["zrzutka","składka"],"partOfSpeech":"noun"},{"level":"B2","word":"whirl","meaning":["wirować","obracać","wirowanie","wir"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"whirlpool","meaning":["wir"],"partOfSpeech":"noun"},{"level":"B2","word":"whirlwind","meaning":["trąba powietrzna","trwający chwilę"],"partOfSpeech":["noun","adjective"]},{"level":"B2","word":"whirr","meaning":["furkotać","buczeć","furkot","buczenie"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"whisk","meaning":["zabierać szybko","ubijać","trzepaczka do piany","trzepaczka"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"whisker","meaning":["wąs","bokobrody"],"partOfSpeech":"noun"},{"level":"A2","word":"whisky","meaning":["whisky"],"partOfSpeech":"noun"},{"level":"A2","word":"whisper","meaning":["szeptać","szept"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"whistle","meaning":["gwizdać","świstać","gwizd","gwizdek"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"white-collar","meaning":["umysłowy","administracyjny pracownik","administracyjny"],"partOfSpeech":"adjective"},{"level":"B2","word":"white-hot","meaning":["rozpalony do białości"],"partOfSpeech":"adjective"},{"level":"B1","word":"whiten","meaning":["bieleć","wybielać"],"partOfSpeech":"verb"},{"level":"B2","word":"whitewash","meaning":["wapno","mleko wapienne","mydlenie oczu","bielić wapnem","bielić"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"whiting","meaning":["witlinek"],"partOfSpeech":"noun"},{"level":"B1","word":"whizz","meaning":["bzykać","geniusz"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"whizz-kid","meaning":["czarodziej"],"partOfSpeech":"noun"},{"level":"A1","word":"WHO","meaning":["Światowa Organizacja Zdrowia"],"partOfSpeech":"noun"},{"level":"A1","word":"who","meaning":["kto","który"],"partOfSpeech":"pronoun"},{"level":"A2","word":"whoever","meaning":["ktokolwiek","kto by nie","któż"],"partOfSpeech":"pronoun"},{"level":"A1","word":"whole","meaning":["cały","w całości","całkiem","całość"],"partOfSpeech":["adjective","noun"]},{"level":"B1","word":"whole-hearted","meaning":["serdeczny","szczery"],"partOfSpeech":"adjective"},{"level":"A2","word":"wholemeal","meaning":["gruboziarnisty","razowy"],"partOfSpeech":"adjective"},{"level":"B2","word":"wholesale","meaning":["hurt","hurtowy","hurtowo","masowy"],"partOfSpeech":["noun","adjective"]},{"level":"B2","word":"wholesaler","meaning":["hurtownik"],"partOfSpeech":"noun"},{"level":"B1","word":"wholesome","meaning":["zdrowy"],"partOfSpeech":"adjective"},{"level":"B1","word":"wholewheat","meaning":["pełnoziarnisty"],"partOfSpeech":"adjective"},{"level":"B2","word":"wholly","meaning":["całkowicie"],"partOfSpeech":"adverb"},{"level":"B2","word":"whooping cough","meaning":["koklusz"],"partOfSpeech":"noun"},{"level":"B1","word":"whopper","meaning":["kolos"],"partOfSpeech":"noun"},{"level":"B1","word":"whopping","meaning":["olbrzymi","ogromny"],"partOfSpeech":"adjective"},{"level":"B2","word":"whore","meaning":["dziwka","nierządnica"],"partOfSpeech":"noun"},{"level":"A1","word":"whose","meaning":["którego","której","których","czyj"],"partOfSpeech":"pronoun"},{"level":"A1","word":"why","meaning":["dlaczego","czemu"],"partOfSpeech":"adverb"},{"level":"B1","word":"WI","meaning":["zachodnioindyjski","Indie Zachodnie"],"partOfSpeech":["noun","adjective"]},{"level":"A2","word":"wick","meaning":["knot"],"partOfSpeech":"noun"},{"level":"A2","word":"wicked","meaning":["zły","niegodziwy","paskudny"],"partOfSpeech":["adjective","exclamation"]},{"level":"B1","word":"wicker","meaning":["wiklina","plecionka"],"partOfSpeech":"noun"},{"level":"B1","word":"wickerwork","meaning":["wiklina","plecionka"],"partOfSpeech":"noun"},{"level":"B1","word":"wicket","meaning":["bramka"],"partOfSpeech":"noun"},{"level":"A1","word":"wide","meaning":["szeroki","duży","szeroko","szeroko rozwarty","z dala od celu"],"partOfSpeech":["adjective","adverb"]},{"level":"B1","word":"wide-angle","meaning":["szerokokątny"],"partOfSpeech":"adjective"},{"level":"B1","word":"wide-awake","meaning":["całkowicie rozbudzony"],"partOfSpeech":"adjective"},{"level":"B1","word":"widen","meaning":["poszerzać się","poszerzać","rozszerzać się"],"partOfSpeech":"verb"},{"level":"B2","word":"wide-ranging","meaning":["na szeroką skalę"],"partOfSpeech":"adjective"},{"level":"B1","word":"widespread","meaning":["rozpowszechniony"],"partOfSpeech":"adjective"},{"level":"A2","word":"widow","meaning":["wdowa"],"partOfSpeech":"noun"},{"level":"A2","word":"widowed","meaning":["owdowiały"],"partOfSpeech":"adjective"},{"level":"A2","word":"widower","meaning":["wdowiec"],"partOfSpeech":"noun"},{"level":"B1","word":"widowhood","meaning":["wdowieństwo"],"partOfSpeech":"noun"},{"level":"A2","word":"width","meaning":["szerokość"],"partOfSpeech":"noun"},{"level":"B2","word":"wield","meaning":["dzierżyć"],"partOfSpeech":"verb"},{"level":"A1","word":"wife","meaning":["żona"],"partOfSpeech":"noun"},{"level":"A2","word":"wig","meaning":["peruka"],"partOfSpeech":"noun"},{"level":"A2","word":"wiggle","meaning":["podrygiwać","szarpać"],"partOfSpeech":"verb"},{"level":"B1","word":"wigwam","meaning":["wigwam"],"partOfSpeech":"noun"},{"level":"A1","word":"wild","meaning":["dziki","rozszalały","dziwaczny","na oślep","na chybił trafił","dziki stan","pustkowia","odludzie"],"partOfSpeech":["adjective","noun"]},{"level":"B1","word":"wilderness","meaning":["pustkowie","pustynia","zdziczały teren"],"partOfSpeech":"noun"},{"level":"B2","word":"wild-goose chase","meaning":["poszukiwanie wczorajszego dnia"],"partOfSpeech":"noun"},{"level":"A2","word":"wildlife","meaning":["przyroda","zwierzęta","przyroda żyjące w stanie naturalnym","zwierzęta żyjące w stanie naturalnym"],"partOfSpeech":"noun"},{"level":"A2","word":"wildly","meaning":["dziko","szalenie","z energią","na chybił trafił"],"partOfSpeech":"adverb"},{"level":"B1","word":"wilful","meaning":["świadomy","rozmyślny","krnąbrny"],"partOfSpeech":"adjective"},{"level":"A1","word":"willing","meaning":["chętny"],"partOfSpeech":"adjective"},{"level":"B1","word":"willow","meaning":["wierzba"],"partOfSpeech":"noun"},{"level":"B1","word":"will-power","meaning":["siła woli"],"partOfSpeech":"noun"},{"level":"B2","word":"willy-nilly","meaning":["chcąc czy nie chcąc"],"partOfSpeech":"adverb"},{"level":"B1","word":"wilt","meaning":["więdnąć","usychać"],"partOfSpeech":"verb"},{"level":"B1","word":"wily","meaning":["chytry"],"partOfSpeech":"adjective"},{"level":"B1","word":"wince","meaning":["krzywić się","skrzywienie się"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"winch","meaning":["blok","wciągać blokiem","wciągać"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wind","meaning":["wiatr","oddech","dech","gazy","wzdęcie","dęty","pozbawiać tchu","wić się","owijać","nakręcać","przewijać do tyłu","redukować","zwalniać obroty","zwalniać","otwierać","przewijać do przodu","kończyć","zwijać","lądować","zamykać"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"windbreak","meaning":["wiatrołom"],"partOfSpeech":"noun"},{"level":"B1","word":"windfall","meaning":["uśmiech szczęścia"],"partOfSpeech":"noun"},{"level":"A2","word":"windmill","meaning":["wiatrak"],"partOfSpeech":"noun"},{"level":"A1","word":"window","meaning":["okno","okienko"],"partOfSpeech":"noun"},{"level":"A2","word":"window-box","meaning":["skrzynka na kwiaty"],"partOfSpeech":"noun"},{"level":"B1","word":"window-frame","meaning":["rama okienna"],"partOfSpeech":"noun"},{"level":"A2","word":"window-pane","meaning":["szyba"],"partOfSpeech":"noun"},{"level":"B1","word":"window-shopping","meaning":["oglądanie wystaw","oglądanie witryn"],"partOfSpeech":"noun"},{"level":"A2","word":"window-sill","meaning":["parapet"],"partOfSpeech":"noun"},{"level":"B2","word":"windpipe","meaning":["tchawica"],"partOfSpeech":"noun"},{"level":"A2","word":"windscreen","meaning":["szyba przednia","wycieraczka"],"partOfSpeech":"noun"},{"level":"A2","word":"windshield","meaning":["szyba przednia","osłona szklana"],"partOfSpeech":"noun"},{"level":"B1","word":"windsurfer","meaning":["deska windsurfingowa","windsurfingowiec"],"partOfSpeech":"noun"},{"level":"B1","word":"windsurfing","meaning":["windsurfing"],"partOfSpeech":"noun"},{"level":"B2","word":"windswept","meaning":["chłostany wiatrem"],"partOfSpeech":"adjective"},{"level":"A2","word":"windy","meaning":["wietrzny"],"partOfSpeech":"adjective"},{"level":"A1","word":"wine","meaning":["wino"],"partOfSpeech":"noun"},{"level":"A2","word":"wing","meaning":["skrzydło","kulisy","błotnik"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"winger","meaning":["skrzydłowy"],"partOfSpeech":"noun"},{"level":"B2","word":"wingspan","meaning":["rozpiętość skrzydeł"],"partOfSpeech":"noun"},{"level":"A2","word":"wink","meaning":["mrugnięcie","mrugać","migotać"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"winner","meaning":["zwycięzca"],"partOfSpeech":"noun"},{"level":"A2","word":"winning","meaning":["zwycięski","wygrana"],"partOfSpeech":["adjective","noun"]},{"level":"A1","word":"winter","meaning":["zima","zimowy","zimować"],"partOfSpeech":["noun","adjective"]},{"level":"A2","word":"wintertime","meaning":["zima","pora zimowa"],"partOfSpeech":"noun"},{"level":"A2","word":"wintry","meaning":["zimowy"],"partOfSpeech":"adjective"},{"level":"A2","word":"wipe","meaning":["wycierać","ścierać","kasować","starcie","wymieść","zmiatać"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wiper","meaning":["wycieraczka"],"partOfSpeech":"noun"},{"level":"A2","word":"wire","meaning":["drut","kabel","telegram","wiązać drutem","wiązać","łączyć","podłączać","telegrafować"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wireless","meaning":["radio"],"partOfSpeech":"noun"},{"level":"B1","word":"wiring","meaning":["instalacja elektryczna"],"partOfSpeech":"noun"},{"level":"B1","word":"wiry","meaning":["suchy","żylasty","sztywny"],"partOfSpeech":"adjective"},{"level":"A1","word":"Wisconsin","meaning":["Wisconsin"],"partOfSpeech":"noun"},{"level":"B1","word":"wisdom","meaning":["mądrość","celowość","ząb mądrości"],"partOfSpeech":"noun"},{"level":"A2","word":"wise","meaning":["mądry","mądrala"],"partOfSpeech":"adjective"},{"level":"B2","word":"wisecrack","meaning":["dowcipas"],"partOfSpeech":"noun"},{"level":"B2","word":"wisecracker","meaning":["dowcipniś"],"partOfSpeech":"noun"},{"level":"A1","word":"wish","meaning":["życzenie","pragnienie","pragnąć","życzyć sobie","chcieć","żałować","życzyć"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"wishful thinking","meaning":["pobożne życzenia","chciejstwo"],"partOfSpeech":"noun"},{"level":"B2","word":"wishy-washy","meaning":["rozwodniony","mdły"],"partOfSpeech":"adjective"},{"level":"B1","word":"wisp","meaning":["pasmo","wiecheć","kosmyk"],"partOfSpeech":"noun"},{"level":"B2","word":"wistful","meaning":["nostalgiczny","melancholijny"],"partOfSpeech":"adjective"},{"level":"B2","word":"wit","meaning":["dowcip","przytomność umysłu","inteligencja"],"partOfSpeech":"noun"},{"level":"A2","word":"witch","meaning":["wiedźma","czarownica","znachor","czarownik"],"partOfSpeech":"noun"},{"level":"B1","word":"witchcraft","meaning":["czary"],"partOfSpeech":"noun"},{"level":"B2","word":"witch-hunt","meaning":["polowanie na czarownice"],"partOfSpeech":"noun"},{"level":"A1","word":"with","meaning":["z","wraz z","gdy","przy","w przypadku","wziąwszy pod uwagę","u"],"partOfSpeech":"preposition"},{"level":"B1","word":"withdraw","meaning":["wycofywać się","wycofywać"],"partOfSpeech":"verb"},{"level":"B1","word":"withdrawal","meaning":["wycofanie się","wycofanie","cofnięcie","odsunięcie się","głód narkotyczny","głód","wypłata"],"partOfSpeech":"noun"},{"level":"B1","word":"withdrawn","meaning":["zamknięty w sobie","zamknięty"],"partOfSpeech":["adjective","verb"]},{"level":"B2","word":"wither","meaning":["zamierać","usychać"],"partOfSpeech":"verb"},{"level":"B2","word":"withered","meaning":["pomarszczony","uschnięty"],"partOfSpeech":["adjective","verb"]},{"level":"C1","word":"withering","meaning":["miażdżący"],"partOfSpeech":"adjective"},{"level":"B2","word":"withhold","meaning":["powstrzymywać","wstrzymywać"],"partOfSpeech":"verb"},{"level":"A1","word":"within","meaning":["wewnątrz","w ramach","w odległości","w","w zasięgu","w przeciągu","za"],"partOfSpeech":"preposition"},{"level":"A1","word":"without","meaning":["bez"],"partOfSpeech":"preposition"},{"level":"B2","word":"withstand","meaning":["wytrzymywać"],"partOfSpeech":"verb"},{"level":"B1","word":"witness","meaning":["świadek","być świadkiem"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"witness-box","meaning":["miejsce dla świadka"],"partOfSpeech":"noun"},{"level":"B2","word":"witness-stand","meaning":["miejsce dla świadka"],"partOfSpeech":"noun"},{"level":"B2","word":"witter","meaning":["paplać","ględzić"],"partOfSpeech":"verb"},{"level":"C1","word":"witticism","meaning":["dowcip","dowcipna uwaga"],"partOfSpeech":"noun"},{"level":"B2","word":"witty","meaning":["dowcipny"],"partOfSpeech":"adjective"},{"level":"A2","word":"wizard","meaning":["czarnoksiężnik"],"partOfSpeech":"noun"},{"level":"B1","word":"wizardry","meaning":["czaroksięstwo","magia"],"partOfSpeech":"noun"},{"level":"B2","word":"wizened","meaning":["pomarszczony"],"partOfSpeech":"adjective"},{"level":"B1","word":"wk","meaning":["tydzień","praca"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wobble","meaning":["trząść się","chwiać się"],"partOfSpeech":"verb"},{"level":"B2","word":"woe","meaning":["nieszczęście"],"partOfSpeech":"noun"},{"level":"B1","word":"woeful","meaning":["żałosny"],"partOfSpeech":"adjective"},{"level":"A1","word":"woman","meaning":["kobieta"],"partOfSpeech":"noun"},{"level":"B1","word":"womanhood","meaning":["kobiecość","kobiety"],"partOfSpeech":"noun"},{"level":"B2","word":"womanizer","meaning":["kobieciarz"],"partOfSpeech":"noun"},{"level":"B2","word":"womankind","meaning":["kobiety"],"partOfSpeech":"noun"},{"level":"B1","word":"womanly","meaning":["kobiecy"],"partOfSpeech":"adjective"},{"level":"B1","word":"womb","meaning":["macica"],"partOfSpeech":"noun"},{"level":"A2","word":"wonder","meaning":["być ciekawym","zastanawiać się","podziwiać","dziw","zadziwienie","cudowny"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wonderful","meaning":["cudowny"],"partOfSpeech":"adjective"},{"level":"A2","word":"wonderfully","meaning":["cudownie","wspaniale"],"partOfSpeech":"adverb"},{"level":"B2","word":"wonderment","meaning":["zadziwienie"],"partOfSpeech":"noun"},{"level":"B2","word":"wonky","meaning":["chwiejny","rozklekotany"],"partOfSpeech":"adjective"},{"level":"B2","word":"woo","meaning":["zalecać się","ubiegać się"],"partOfSpeech":"verb"},{"level":"A2","word":"wonderful","meaning":["cudowny"],"partOfSpeech":"adjective"},{"level":"A2","word":"wonderfully","meaning":["cudownie","wspaniale"],"partOfSpeech":"adverb"},{"level":"B2","word":"wonderment","meaning":["zadziwienie"],"partOfSpeech":"noun"},{"level":"B2","word":"wonky","meaning":["chwiejny","rozklekotany"],"partOfSpeech":"adjective"},{"level":"B2","word":"woo","meaning":["zalecać się","ubiegać się"],"partOfSpeech":"verb"},{"level":"A1","word":"wood","meaning":["drewno","las"],"partOfSpeech":"noun"},{"level":"B1","word":"wooded","meaning":["zadrzewiony"],"partOfSpeech":"adjective"},{"level":"A2","word":"wooden","meaning":["drewniany"],"partOfSpeech":"adjective"},{"level":"B1","word":"woodland","meaning":["teren lesisty"],"partOfSpeech":"noun"},{"level":"B1","word":"woodpecker","meaning":["dzięcioł"],"partOfSpeech":"noun"},{"level":"B2","word":"woodwind","meaning":["instrumenty dęte"],"partOfSpeech":"noun"},{"level":"B1","word":"woodwork","meaning":["stolarka","stolarstwo"],"partOfSpeech":"noun"},{"level":"B2","word":"woodworm","meaning":["kornik"],"partOfSpeech":"noun"},{"level":"B1","word":"woody","meaning":["zdrewniały","lesisty"],"partOfSpeech":"adjective"},{"level":"A2","word":"woof","meaning":["hau"],"partOfSpeech":"noun"},{"level":"A2","word":"wool","meaning":["wełna"],"partOfSpeech":"noun"},{"level":"A2","word":"woollen","meaning":["wełniany","wełniana rzecz"],"partOfSpeech":"adjective"},{"level":"B1","word":"woolly","meaning":["wełniany","mglisty","wełniana rzecz"],"partOfSpeech":"adjective"},{"level":"A1","word":"word","meaning":["słowo","wyraz","słówko","wiadomość","hasło","wyrażać","komputerowe przetwarzanie tekstu","przetwarzanie tekstu","edytor tekstu"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"wording","meaning":["forma słowna","styl"],"partOfSpeech":"noun"},{"level":"B2","word":"wordplay","meaning":["gra słów"],"partOfSpeech":"noun"},{"level":"B1","word":"wordy","meaning":["wielosłowny","rozwlekły"],"partOfSpeech":"adjective"},{"level":"B1","word":"workable","meaning":["użyteczny","wykonalny"],"partOfSpeech":"adjective"},{"level":"B2","word":"workaholic","meaning":["osoba, która nie widzi świata poza pracą","pracoholik"],"partOfSpeech":"noun"},{"level":"A2","word":"workbench","meaning":["warsztat","stół do pracy"],"partOfSpeech":"noun"},{"level":"B1","word":"workday","meaning":["dzień pracy","dzień powszedni"],"partOfSpeech":"noun"},{"level":"B2","word":"worked up","meaning":["podekscytowany"],"partOfSpeech":"adjective"},{"level":"A2","word":"worker","meaning":["pracownik","robotnik"],"partOfSpeech":"noun"},{"level":"B1","word":"workforce","meaning":["siła robocza"],"partOfSpeech":"noun"},{"level":"B1","word":"working","meaning":["pracujący","roboczy","praktyczny","działania","klasa robotnicza","dzień roboczy"],"partOfSpeech":["adjective","noun"]},{"level":"B1","word":"workload","meaning":["obciążenie"],"partOfSpeech":"noun"},{"level":"B1","word":"workman","meaning":["pracownik"],"partOfSpeech":"noun"},{"level":"B2","word":"workmanship","meaning":["rzemiosło","wykonanie"],"partOfSpeech":"noun"},{"level":"B1","word":"workout","meaning":["zaprawa"],"partOfSpeech":"noun"},{"level":"B1","word":"workshop","meaning":["warsztat"],"partOfSpeech":"noun"},{"level":"B1","word":"workstation","meaning":["stacja robocza"],"partOfSpeech":"noun"},{"level":"B1","word":"worktop","meaning":["powierzchnia robocza"],"partOfSpeech":"noun"},{"level":"A1","word":"world","meaning":["świat","ogólnoświatowy","światowy"],"partOfSpeech":"noun"},{"level":"B1","word":"world-class","meaning":["światowej klasy"],"partOfSpeech":"adjective"},{"level":"B1","word":"world-famous","meaning":["o światowej sławie"],"partOfSpeech":"adjective"},{"level":"B2","word":"worldly","meaning":["ziemski","doczesny","światowy"],"partOfSpeech":"adjective"},{"level":"B1","word":"world-wide","meaning":["światowy","o światowym zasięgu"],"partOfSpeech":["adjective","adverb"]},{"level":"A2","word":"worn","meaning":["wytarty","zużyty"],"partOfSpeech":["adjective","verb"]},{"level":"A2","word":"worn-out","meaning":["znoszony","wykończony"],"partOfSpeech":"adjective"},{"level":"A2","word":"worried","meaning":["zatroskany","zaniepokojony"],"partOfSpeech":["adjective","verb"]},{"level":"B1","word":"worry","meaning":["martwić się","niepokoić się","niepokoić","zmartwienie","kłopot"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"worrying","meaning":["niepokojący"],"partOfSpeech":["adjective","verb"]},{"level":"A2","word":"worse","meaning":["gorszy","gorzej","uboższy"],"partOfSpeech":["adjective","adverb"]},{"level":"B1","word":"worsen","meaning":["pogarszać się","pogarszać"],"partOfSpeech":"verb"},{"level":"B2","word":"worshipper","meaning":["wierny","adorator","wielbiciel"],"partOfSpeech":"noun"},{"level":"A2","word":"worst","meaning":["najgorszy","najgorzej"],"partOfSpeech":["adjective","adverb"]},{"level":"C1","word":"worsted","meaning":["samodział"],"partOfSpeech":"noun"},{"level":"B1","word":"worth","meaning":["wart","wartość"],"partOfSpeech":["adjective","noun"]},{"level":"B1","word":"worthless","meaning":["bezwartościowy"],"partOfSpeech":"adjective"},{"level":"B1","word":"worthwhile","meaning":["opłacalny"],"partOfSpeech":"adjective"},{"level":"B2","word":"worthy","meaning":["godny","znakomity","wart"],"partOfSpeech":"adjective"},{"level":"B1","word":"would-be","meaning":["niedoszły"],"partOfSpeech":"adjective"},{"level":"A2","word":"wound","meaning":["rana","ranić"],"partOfSpeech":["noun","verb"]},{"level":"A1","word":"wow","meaning":["oj","no no"],"partOfSpeech":"exclamation"},{"level":"B1","word":"WP","meaning":["przetwarzanie tekstu","edytor tekstu"],"partOfSpeech":"noun"},{"level":"B1","word":"wpb","meaning":["kosz na śmieci"],"partOfSpeech":"noun"},{"level":"B2","word":"wrangle","meaning":["kłócić się","kłótnia"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"wrap","meaning":["owijać","okrycie","opatulać się","ubierać się ciepło","kończyć"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"wrapped up","meaning":["zadurzony"],"partOfSpeech":["verb","adjective"]},{"level":"A2","word":"wrapper","meaning":["opakowanie","papierek od cukierka","papierek","okładka","obwoluta"],"partOfSpeech":"noun"},{"level":"B1","word":"wrapping","meaning":["opakowanie"],"partOfSpeech":"noun"},{"level":"C1","word":"wrath","meaning":["gniew"],"partOfSpeech":"noun"},{"level":"C1","word":"wreak","meaning":["wyrządzać","wywierać","odpłacać"],"partOfSpeech":"verb"},{"level":"B2","word":"wreath","meaning":["wieniec"],"partOfSpeech":"noun"},{"level":"B1","word":"wreck","meaning":["rujnować","rozbijać","wrak","wrak człowieka"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"wreckage","meaning":["szczątki"],"partOfSpeech":"noun"},{"level":"B2","word":"wren","meaning":["strzyżyk"],"partOfSpeech":"noun"},{"level":"B2","word":"wrench","meaning":["szarpać","skręcić","odrywać","szarpnięcie","skręcenie","klucz nastawny","ból rozstania","ból"],"partOfSpeech":["noun","verb"]},{"level":"C1","word":"wrest","meaning":["wyrywać"],"partOfSpeech":"verb"},{"level":"B1","word":"wrestle","meaning":["walczyć wręcz","walczyć","bić się"],"partOfSpeech":"verb"},{"level":"B1","word":"wrestler","meaning":["zapaśnik"],"partOfSpeech":"noun"},{"level":"B1","word":"wrestling","meaning":["zapasy"],"partOfSpeech":"noun"},{"level":"B2","word":"wretched","meaning":["nieszczęśliwy","nieszczęsny","cholerny"],"partOfSpeech":"adjective"},{"level":"B2","word":"wriggle","meaning":["wiercić się","wiercić","kręcić się","kręcić","przedostawać się wiercąc","przedostawać się","kręcenie","ruch falisty","wykręcać się"],"partOfSpeech":["noun","verb"]},{"level":"B2","word":"wring","meaning":["wykręcać","załamywać","ukręcać"],"partOfSpeech":"verb"},{"level":"B1","word":"wrinkle","meaning":["zmarszczka","marszczyć się","marszczyć"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"wrinkled","meaning":["pomarszczony","pomięty"],"partOfSpeech":["adjective","verb"]},{"level":"A2","word":"wrist","meaning":["przegub"],"partOfSpeech":"noun"},{"level":"A2","word":"wristwatch","meaning":["zegarek na rękę"],"partOfSpeech":"noun"},{"level":"C1","word":"writ","meaning":["pismo urzędowe","nakaz"],"partOfSpeech":"noun"},{"level":"A1","word":"write","meaning":["pisać","wypisywać","wystawiać","zapisywać","wysyłać listy","wysyłać pisma","spisywać na straty","wyksięgowywać","zapisywać na czysto"],"partOfSpeech":"verb"},{"level":"B1","word":"write-off","meaning":["pojazd spisany na straty","spisany na straty"],"partOfSpeech":"noun"},{"level":"B1","word":"write-protected","meaning":["zabezpieczony przed zapisywaniem"],"partOfSpeech":"adjective"},{"level":"A2","word":"writer","meaning":["pisarz"],"partOfSpeech":"noun"},{"level":"B1","word":"write-up","meaning":["omówienie"],"partOfSpeech":"noun"},{"level":"B2","word":"writhe","meaning":["wić się"],"partOfSpeech":"verb"},{"level":"A2","word":"writing","meaning":["pisanie","pismo","dzieła","utwory","papier listowy"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"written","meaning":["pisemny","napisany"],"partOfSpeech":["verb","adjective"]},{"level":"B1","word":"wrongdoer","meaning":["krzywdziciel","sprawca zła"],"partOfSpeech":"noun"},{"level":"B1","word":"wrongdoing","meaning":["niewłaściwe postępowanie","nadużycie"],"partOfSpeech":"noun"},{"level":"B2","word":"wrongful","meaning":["krzywdzący","niesprawiedliwy"],"partOfSpeech":"adjective"},{"level":"C1","word":"wrought","meaning":["misterny","kuty"],"partOfSpeech":["adjective","verb"]},{"level":"B2","word":"wry","meaning":["kwaśny","skrzywiony","skwaszony"],"partOfSpeech":"adjective"},{"level":"A2","word":"wt.","meaning":["ciężar"],"partOfSpeech":"noun"},{"level":"A2","word":"Wyoming","meaning":["Wyoming"],"partOfSpeech":"noun"}]
+[
+  {
+    "level": "A1",
+    "word": "W",
+    "meaning": [
+      "zachód",
+      "zachodni"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "w.",
+    "meaning": [
+      "tydzień",
+      "waga",
+      "szerokość",
+      "z"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "preposition"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wad",
+    "meaning": [
+      "plik",
+      "sterta",
+      "kłębek",
+      "zwitek"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waddle",
+    "meaning": [
+      "kiwać się jak kaczka",
+      "kiwać się",
+      "telepać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wade",
+    "meaning": [
+      "brodzić",
+      "przedzierać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "wafer",
+    "meaning": [
+      "wafel"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "waffle",
+    "meaning": [
+      "gofr",
+      "ględzenie",
+      "ględzić"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "waft",
+    "meaning": [
+      "snuć się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wag",
+    "meaning": [
+      "machać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "wage",
+    "meaning": [
+      "zarobek",
+      "pensja",
+      "prowadzić"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wager",
+    "meaning": [
+      "zakład"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "waggle",
+    "meaning": [
+      "ruszać się",
+      "ruszać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wail",
+    "meaning": [
+      "zawodzić",
+      "zawodzenie"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "waist",
+    "meaning": [
+      "talia",
+      "stan"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waistband",
+    "meaning": [
+      "pasek"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waistcoat",
+    "meaning": [
+      "kamizelka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "waistline",
+    "meaning": [
+      "obwód pasa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wait",
+    "meaning": [
+      "czekać",
+      "oczekiwać",
+      "obsługiwać",
+      "oczekiwanie"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "waiter",
+    "meaning": [
+      "kelner"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "waiting",
+    "meaning": [
+      "oczekiwanie",
+      "lista oczekujących",
+      "poczekalnia"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "waitress",
+    "meaning": [
+      "kelnerka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "waive",
+    "meaning": [
+      "uchylać",
+      "zawieszać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "wake",
+    "meaning": [
+      "budzić się",
+      "budzić",
+      "kilwater",
+      "zbudzić się",
+      "zbudzić",
+      "uświadamiać sobie"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "waken",
+    "meaning": [
+      "budzić się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "Wales",
+    "meaning": [
+      "Walia"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "walk",
+    "meaning": [
+      "chodzić",
+      "iść",
+      "spacerować",
+      "wyprowadzać na spacer",
+      "przechadzka",
+      "spacer",
+      "szlak",
+      "trasa",
+      "wychodzić",
+      "opuszczać",
+      "strajkować",
+      "rzucać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "walker",
+    "meaning": [
+      "spacerowicz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "walkie-talkie",
+    "meaning": [
+      "radiotelefon"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "walking",
+    "meaning": [
+      "chodzenie",
+      "spacer",
+      "laska"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "walkout",
+    "meaning": [
+      "strajk"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "walkover",
+    "meaning": [
+      "walkower",
+      "łatwe zwycięstwo"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "walkway",
+    "meaning": [
+      "droga dla pieszych"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wall",
+    "meaning": [
+      "ściana",
+      "mur",
+      "ścianka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "walled",
+    "meaning": [
+      "otoczony murem"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wallet",
+    "meaning": [
+      "portfel"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wallop",
+    "meaning": [
+      "łupnąć",
+      "trzasnąć"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "wallow",
+    "meaning": [
+      "oddawać się",
+      "tarzać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "wallpaper",
+    "meaning": [
+      "tapeta",
+      "tapetować"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "walnut",
+    "meaning": [
+      "orzech włoski"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "walrus",
+    "meaning": [
+      "mors"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waltz",
+    "meaning": [
+      "walc",
+      "tańczyć walca"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wan",
+    "meaning": [
+      "wybladły"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "wand",
+    "meaning": [
+      "czarodziejska różdżka",
+      "różdżka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wander",
+    "meaning": [
+      "wędrować",
+      "błądzić",
+      "błąkać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "wane",
+    "meaning": [
+      "blednąć",
+      "przygasać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "wangle",
+    "meaning": [
+      "kombinować"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A1",
+    "word": "want",
+    "meaning": [
+      "chcieć",
+      "trzeba",
+      "potrzebować",
+      "brak",
+      "potrzeby"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "wanton",
+    "meaning": [
+      "bezmyślny",
+      "bezsensowny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "war",
+    "meaning": [
+      "wojna",
+      "wojować"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "warble",
+    "meaning": [
+      "śpiewać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "ward",
+    "meaning": [
+      "oddział",
+      "sala",
+      "część okręgu wyborczego",
+      "wychowanek",
+      "dziecko pod kuratelą",
+      "odganiać",
+      "odstraszać",
+      "odsuwać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "warden",
+    "meaning": [
+      "strażnik",
+      "dozorca",
+      "pilnujący",
+      "dyrektor",
+      "zarządca"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "warder",
+    "meaning": [
+      "strażnik więzienny"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wardrobe",
+    "meaning": [
+      "szafa",
+      "ubiory"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "ware",
+    "meaning": [
+      "wyrób"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "warehouse",
+    "meaning": [
+      "magazyn"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "warfare",
+    "meaning": [
+      "wojna",
+      "działania wojenne"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "warhead",
+    "meaning": [
+      "głowica bojowa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "warlike",
+    "meaning": [
+      "wojowniczy",
+      "bojowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "warm-blooded",
+    "meaning": [
+      "ciepłokrwisty"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "warm-hearted",
+    "meaning": [
+      "dobrze usposobiony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "warmonger",
+    "meaning": [
+      "podżegacz wojenny"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "warmth",
+    "meaning": [
+      "ciepło"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "warn",
+    "meaning": [
+      "ostrzegać",
+      "uprzedzać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A1",
+    "word": "warning",
+    "meaning": [
+      "ostrzeżenie",
+      "znak ostrzegawczy",
+      "ostrzegawczy"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "warp",
+    "meaning": [
+      "paczyć się",
+      "krzywić",
+      "wypaczenie",
+      "skrzywienie"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "warpath",
+    "meaning": [
+      "ścieżka wojenna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "warrant",
+    "meaning": [
+      "nakaz",
+      "gwarancja",
+      "gwarantować"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "warranty",
+    "meaning": [
+      "gwarancja"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "C1",
+    "word": "warren",
+    "meaning": [
+      "nora królicza",
+      "nora"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "warrior",
+    "meaning": [
+      "wojownik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "Warsaw",
+    "meaning": [
+      "Warszawa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "warship",
+    "meaning": [
+      "okręt wojenny"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wart",
+    "meaning": [
+      "kurzajka",
+      "brodawka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wartime",
+    "meaning": [
+      "okres wojny"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wary",
+    "meaning": [
+      "ostrożny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "wash",
+    "meaning": [
+      "myć",
+      "prać",
+      "obmywać",
+      "wymywać",
+      "pranie",
+      "zmywać się",
+      "zmywać",
+      "wyrzucać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "washable",
+    "meaning": [
+      "nadający się do prania"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "washbasin",
+    "meaning": [
+      "umywalka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "washed-out",
+    "meaning": [
+      "wyblakły",
+      "wymęczony",
+      "wyprany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "washer",
+    "meaning": [
+      "praczka",
+      "pracz",
+      "podkładka",
+      "uszczelka",
+      "pralka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "washing",
+    "meaning": [
+      "pranie",
+      "rzeczy do prania",
+      "pralka",
+      "proszek do prania"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "Washington",
+    "meaning": [
+      "Waszyngton"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "washing-up",
+    "meaning": [
+      "zmywanie",
+      "płyn do naczyń"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "washout",
+    "meaning": [
+      "dno",
+      "fiasko"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "washroom",
+    "meaning": [
+      "toaleta"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "WASP",
+    "meaning": [
+      "biały anglosaski protestant"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wasp",
+    "meaning": [
+      "osa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wastage",
+    "meaning": [
+      "marnotrawstwo"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "waste",
+    "meaning": [
+      "marnować",
+      "tracić",
+      "strata",
+      "odpadki",
+      "pustkowia",
+      "jałowy",
+      "odpadowy",
+      "zużyty"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wastebasket",
+    "meaning": [
+      "kosz na śmieci"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wasted",
+    "meaning": [
+      "niepotrzebny"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wasteful",
+    "meaning": [
+      "marnotrawny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wasteland",
+    "meaning": [
+      "pustkowie",
+      "odłóg"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "watchband",
+    "meaning": [
+      "pasek do zegarka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "watchdog",
+    "meaning": [
+      "pies łańcuchowy",
+      "nadzorca"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "watcher",
+    "meaning": [
+      "obserwator"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "watchful",
+    "meaning": [
+      "przezorny",
+      "wnikliwy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "watchmaker",
+    "meaning": [
+      "zegarmistrz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "watchman",
+    "meaning": [
+      "strażnik",
+      "stróż"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "watchstrap",
+    "meaning": [
+      "pasek do zegarka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "watchword",
+    "meaning": [
+      "hasło"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "water",
+    "meaning": [
+      "woda",
+      "podlewać",
+      "łzawić",
+      "ciec",
+      "ślinić się",
+      "rozwadniać",
+      "nenufar",
+      "lilia wodna"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "water-borne",
+    "meaning": [
+      "przenoszony drogą wodną"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "watercolour",
+    "meaning": [
+      "akwarela"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "watercress",
+    "meaning": [
+      "rzeżucha"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "waterfall",
+    "meaning": [
+      "wodospad"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waterfront",
+    "meaning": [
+      "wybrzeże",
+      "ulica przybrzeżna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "watering can",
+    "meaning": [
+      "polewaczka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waterlogged",
+    "meaning": [
+      "nasiąknięty wodą",
+      "przesycony wodą",
+      "przepełniony wodą"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "watermelon",
+    "meaning": [
+      "arbuz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "waterproof",
+    "meaning": [
+      "nieprzemakalny",
+      "płaszcz przeciwdeszczowy",
+      "impregnować",
+      "uszczelniać"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "watershed",
+    "meaning": [
+      "dział wodny",
+      "przełom",
+      "punkt krytyczny"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waterside",
+    "meaning": [
+      "wybrzeże"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "watertight",
+    "meaning": [
+      "wodoszczelny",
+      "niezbity"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "waterway",
+    "meaning": [
+      "droga wodna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waterworks",
+    "meaning": [
+      "stacja wodociągowa",
+      "wodociągi"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "watery",
+    "meaning": [
+      "wodnisty",
+      "niemrawy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "watt",
+    "meaning": [
+      "wat"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wave",
+    "meaning": [
+      "fala",
+      "machnięcie",
+      "pomachanie",
+      "machać",
+      "falować",
+      "zbywać machnięciem"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "waveband",
+    "meaning": [
+      "zakres fal"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wavelength",
+    "meaning": [
+      "długość fal"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "waver",
+    "meaning": [
+      "wahać się",
+      "doświadczać niepewności"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "wavy",
+    "meaning": [
+      "falisty"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wax",
+    "meaning": [
+      "wosk",
+      "woskowina",
+      "smar do nart",
+      "smar",
+      "woskować",
+      "pastować",
+      "stawać się"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "waxwork",
+    "meaning": [
+      "figura woskowa",
+      "muzeum figur woskowych"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "waxy",
+    "meaning": [
+      "nawoskowany",
+      "woskowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "waylay",
+    "meaning": [
+      "zatrzymywać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "C1",
+    "word": "wayward",
+    "meaning": [
+      "kapryśny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "WC",
+    "meaning": [
+      "WC",
+      "toaleta"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "We.",
+    "meaning": [
+      "środa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "we",
+    "meaning": [
+      "my"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "A2",
+    "word": "weak",
+    "meaning": [
+      "słaby",
+      "wątły"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "weaken",
+    "meaning": [
+      "osłabiać",
+      "słabnąć"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "weakling",
+    "meaning": [
+      "słabeusz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "weakness",
+    "meaning": [
+      "słabość",
+      "słaby punkt"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wealth",
+    "meaning": [
+      "bogactwo",
+      "dobrobyt",
+      "wielka ilość"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wealthy",
+    "meaning": [
+      "majętny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wean",
+    "meaning": [
+      "odstawiać od piersi",
+      "odzwyczajać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "weapon",
+    "meaning": [
+      "broń"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wear",
+    "meaning": [
+      "nosić",
+      "ubierać się",
+      "nosić się",
+      "zużywać się",
+      "wycierać się",
+      "wycierać",
+      "przecierać się",
+      "przecierać",
+      "ubranie",
+      "zużycie",
+      "wytarcie",
+      "ścierać się",
+      "ścierać",
+      "wyczerpywać",
+      "słabnąć",
+      "ciągnąć się",
+      "wyczerpywać się"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wearing",
+    "meaning": [
+      "wyczerpujący"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wearisome",
+    "meaning": [
+      "wyczerpujący",
+      "nużący"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "weary",
+    "meaning": [
+      "znużony",
+      "wyczerpany",
+      "nużyć się"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "weasel",
+    "meaning": [
+      "łasica"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "weather",
+    "meaning": [
+      "pogoda",
+      "wietrzeć",
+      "przetrwać",
+      "prognoza pogody"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "weather-beaten",
+    "meaning": [
+      "zahartowany złą pogodą",
+      "zahartowany",
+      "zniszczony na powietrzu"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "weathercock",
+    "meaning": [
+      "kurek na dachu",
+      "kurek"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "weatherman",
+    "meaning": [
+      "meteorolog"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "weaver",
+    "meaning": [
+      "tkaczka",
+      "tkacz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "web",
+    "meaning": [
+      "pajęczyna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "webbed",
+    "meaning": [
+      "płetwiasty"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wedding",
+    "meaning": [
+      "ślub",
+      "wesele"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wedge",
+    "meaning": [
+      "zaklinowywać",
+      "klin",
+      "kawałek"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "Wednesday",
+    "meaning": [
+      "środa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wee",
+    "meaning": [
+      "tyciuchny",
+      "tyci"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "weed",
+    "meaning": [
+      "chwast",
+      "plewić",
+      "wyplewiać",
+      "usuwać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "weedkiller",
+    "meaning": [
+      "środek chwastobójczy"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "weedy",
+    "meaning": [
+      "zachwaszczony",
+      "mizerny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "week",
+    "meaning": [
+      "tydzień"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "weekday",
+    "meaning": [
+      "dzień powszedni"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "weekend",
+    "meaning": [
+      "weekend",
+      "koniec tygodnia"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "weekly",
+    "meaning": [
+      "cotygodniowy",
+      "co tydzień",
+      "tygodniowy",
+      "tygodnik"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "weep",
+    "meaning": [
+      "płakać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "weepy",
+    "meaning": [
+      "płaczliwy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "weigh",
+    "meaning": [
+      "ważyć",
+      "rozważać",
+      "przeciążać",
+      "uginać się",
+      "badać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A1",
+    "word": "weight",
+    "meaning": [
+      "waga",
+      "ciężar",
+      "odważnik",
+      "obciążać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "weightless",
+    "meaning": [
+      "nieważki",
+      "nie mający ciężaru"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "weight-lifter",
+    "meaning": [
+      "ciężarowiec"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "weight-lifting",
+    "meaning": [
+      "podnoszenie ciężarów"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "weighty",
+    "meaning": [
+      "poważny",
+      "ważki"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "C1",
+    "word": "weir",
+    "meaning": [
+      "jaz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "weird",
+    "meaning": [
+      "niesamowity",
+      "dziwaczny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "welcome",
+    "meaning": [
+      "witać",
+      "przywitać",
+      "powitanie",
+      "mile widziany",
+      "chętnie widziany",
+      "zapraszany"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "welcoming",
+    "meaning": [
+      "zapraszający",
+      "przyzwalający"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "weld",
+    "meaning": [
+      "spawać",
+      "spaw"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "welder",
+    "meaning": [
+      "spawacz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "welfare",
+    "meaning": [
+      "dobro",
+      "opieka społeczna",
+      "państwo opiekuńcze"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "well-advised",
+    "meaning": [
+      "rozsądny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-behaved",
+    "meaning": [
+      "dobrze wychowany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-being",
+    "meaning": [
+      "dobre samopoczucie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "well-earned",
+    "meaning": [
+      "ciężko zarobiony",
+      "dobrze zasłużony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "well-founded",
+    "meaning": [
+      "uzasadniony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "well-heeled",
+    "meaning": [
+      "nadziany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wellington",
+    "meaning": [
+      "kalosz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "well-intentioned",
+    "meaning": [
+      "mający dobre intencje"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-kept",
+    "meaning": [
+      "dobrze utrzymany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-known",
+    "meaning": [
+      "dobrze znany",
+      "znany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-mannered",
+    "meaning": [
+      "o dobrych manierach"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-meaning",
+    "meaning": [
+      "życzliwy",
+      "mający dobre chęci"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-off",
+    "meaning": [
+      "bogaty",
+      "dobrze zaopatrzony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "well-read",
+    "meaning": [
+      "oczytany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "well-spoken",
+    "meaning": [
+      "poprawnie mówiący"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-timed",
+    "meaning": [
+      "na czasie",
+      "w porę"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "well-to-do",
+    "meaning": [
+      "zamożny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "well-wisher",
+    "meaning": [
+      "sympatyk",
+      "człowiek dobrze życzący"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "well-worn",
+    "meaning": [
+      "wytarty"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "Welsh",
+    "meaning": [
+      "walijski"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "Welshman",
+    "meaning": [
+      "Walijczyk"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "Welshwoman",
+    "meaning": [
+      "Walijka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wench",
+    "meaning": [
+      "dziewucha"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "werewolf",
+    "meaning": [
+      "wilkołak"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "west",
+    "meaning": [
+      "zachód",
+      "na zachód",
+      "zachodni",
+      "zachodnioindyjski",
+      "antylski",
+      "Indie Zachodnie",
+      "Antyle"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "westerly",
+    "meaning": [
+      "zachodni"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "western",
+    "meaning": [
+      "zachodni",
+      "western"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "westerner",
+    "meaning": [
+      "człowiek z zachodu"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "westward",
+    "meaning": [
+      "na zachód",
+      "zachodni"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "wet",
+    "meaning": [
+      "mokry",
+      "wilgotny",
+      "moczyć",
+      "zwilżać"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whack",
+    "meaning": [
+      "walić",
+      "grzmocić",
+      "dola",
+      "udział"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whacked",
+    "meaning": [
+      "wypompowany"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "whale",
+    "meaning": [
+      "wieloryb"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "whaling",
+    "meaning": [
+      "wielorybnictwo"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wharf",
+    "meaning": [
+      "przystań",
+      "nabrzeże"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "what",
+    "meaning": [
+      "co",
+      "jaki",
+      "który"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "A2",
+    "word": "whatever",
+    "meaning": [
+      "cokolwiek",
+      "jakikolwiek"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "B1",
+    "word": "whatsoever",
+    "meaning": [
+      "w ogóle"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "A2",
+    "word": "wheat",
+    "meaning": [
+      "pszenica"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wheel",
+    "meaning": [
+      "koło",
+      "toczyć",
+      "kołować",
+      "obracać się"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wheelbarrow",
+    "meaning": [
+      "taczka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wheelchair",
+    "meaning": [
+      "wózek inwalidzki"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wheeze",
+    "meaning": [
+      "świszczeć",
+      "sapać",
+      "świszczenie",
+      "sapanie"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "whenever",
+    "meaning": [
+      "kiedykolwiek"
+    ],
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "level": "B1",
+    "word": "whereabouts",
+    "meaning": [
+      "miejsce pobytu",
+      "miejsce położenia",
+      "gdzie",
+      "dokąd"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whereas",
+    "meaning": [
+      "gdy"
+    ],
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "level": "B2",
+    "word": "whereby",
+    "meaning": [
+      "poprzez który",
+      "dzięki któremu"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "C1",
+    "word": "wherein",
+    "meaning": [
+      "w którym",
+      "w czym"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "C1",
+    "word": "whereupon",
+    "meaning": [
+      "toteż",
+      "wobec czego"
+    ],
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "level": "B1",
+    "word": "wherever",
+    "meaning": [
+      "gdziekolwiek"
+    ],
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "level": "B2",
+    "word": "whet",
+    "meaning": [
+      "zaostrzać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "whether",
+    "meaning": [
+      "czy"
+    ],
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "level": "A1",
+    "word": "which",
+    "meaning": [
+      "który",
+      "jaki",
+      "co",
+      "to"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "B1",
+    "word": "whichever",
+    "meaning": [
+      "jakikolwiek",
+      "którykolwiek"
+    ],
+    "partOfSpeech": [
+      "determiner",
+      "pronoun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whiff",
+    "meaning": [
+      "powiew",
+      "podmuch"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "while",
+    "meaning": [
+      "podczas gdy",
+      "w czasie gdy",
+      "chwila",
+      "spędzać czas"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "conjunction"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "whilst",
+    "meaning": [
+      "podczas gdy"
+    ],
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "level": "B2",
+    "word": "whim",
+    "meaning": [
+      "kaprys"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "whimper",
+    "meaning": [
+      "kwilić",
+      "skamleć",
+      "skowyczeć",
+      "kwilenie",
+      "skowyt"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whimsical",
+    "meaning": [
+      "kapryśny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "whine",
+    "meaning": [
+      "wyć",
+      "jazgotać",
+      "jęczeć",
+      "wycie",
+      "jazgot"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whip",
+    "meaning": [
+      "bicz",
+      "porządkowy pilnujący dyscypliny w klubie parlamentarnym",
+      "porządkowy w klubie parlamentarnym",
+      "smagać batem",
+      "chłostać",
+      "zrywać",
+      "nakładać szybko",
+      "ubijać",
+      "pobudzać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whipped",
+    "meaning": [
+      "bity"
+    ],
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whip-round",
+    "meaning": [
+      "zrzutka",
+      "składka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "whirl",
+    "meaning": [
+      "wirować",
+      "obracać",
+      "wirowanie",
+      "wir"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whirlpool",
+    "meaning": [
+      "wir"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "whirlwind",
+    "meaning": [
+      "trąba powietrzna",
+      "trwający chwilę"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whirr",
+    "meaning": [
+      "furkotać",
+      "buczeć",
+      "furkot",
+      "buczenie"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whisk",
+    "meaning": [
+      "zabierać szybko",
+      "ubijać",
+      "trzepaczka do piany",
+      "trzepaczka"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whisker",
+    "meaning": [
+      "wąs",
+      "bokobrody"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "whisky",
+    "meaning": [
+      "whisky"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "whisper",
+    "meaning": [
+      "szeptać",
+      "szept"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "whistle",
+    "meaning": [
+      "gwizdać",
+      "świstać",
+      "gwizd",
+      "gwizdek"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "white-collar",
+    "meaning": [
+      "umysłowy",
+      "administracyjny pracownik",
+      "administracyjny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "white-hot",
+    "meaning": [
+      "rozpalony do białości"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "whiten",
+    "meaning": [
+      "bieleć",
+      "wybielać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "whitewash",
+    "meaning": [
+      "wapno",
+      "mleko wapienne",
+      "mydlenie oczu",
+      "bielić wapnem",
+      "bielić"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whiting",
+    "meaning": [
+      "witlinek"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "whizz",
+    "meaning": [
+      "bzykać",
+      "geniusz"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "whizz-kid",
+    "meaning": [
+      "czarodziej"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "WHO",
+    "meaning": [
+      "Światowa Organizacja Zdrowia"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "who",
+    "meaning": [
+      "kto",
+      "który"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "A2",
+    "word": "whoever",
+    "meaning": [
+      "ktokolwiek",
+      "kto by nie",
+      "któż"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "A1",
+    "word": "whole",
+    "meaning": [
+      "cały",
+      "w całości",
+      "całkiem",
+      "całość"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "whole-hearted",
+    "meaning": [
+      "serdeczny",
+      "szczery"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wholemeal",
+    "meaning": [
+      "gruboziarnisty",
+      "razowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wholesale",
+    "meaning": [
+      "hurt",
+      "hurtowy",
+      "hurtowo",
+      "masowy"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wholesaler",
+    "meaning": [
+      "hurtownik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wholesome",
+    "meaning": [
+      "zdrowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "wholewheat",
+    "meaning": [
+      "pełnoziarnisty"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wholly",
+    "meaning": [
+      "całkowicie"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "B2",
+    "word": "whooping cough",
+    "meaning": [
+      "koklusz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "whopper",
+    "meaning": [
+      "kolos"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "whopping",
+    "meaning": [
+      "olbrzymi",
+      "ogromny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "whore",
+    "meaning": [
+      "dziwka",
+      "nierządnica"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "whose",
+    "meaning": [
+      "którego",
+      "której",
+      "których",
+      "czyj"
+    ],
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "level": "A1",
+    "word": "why",
+    "meaning": [
+      "dlaczego",
+      "czemu"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "B1",
+    "word": "WI",
+    "meaning": [
+      "zachodnioindyjski",
+      "Indie Zachodnie"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wick",
+    "meaning": [
+      "knot"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wicked",
+    "meaning": [
+      "zły",
+      "niegodziwy",
+      "paskudny"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "exclamation"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wicker",
+    "meaning": [
+      "wiklina",
+      "plecionka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wickerwork",
+    "meaning": [
+      "wiklina",
+      "plecionka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wicket",
+    "meaning": [
+      "bramka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wide",
+    "meaning": [
+      "szeroki",
+      "duży",
+      "szeroko",
+      "szeroko rozwarty",
+      "z dala od celu"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wide-angle",
+    "meaning": [
+      "szerokokątny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "wide-awake",
+    "meaning": [
+      "całkowicie rozbudzony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "widen",
+    "meaning": [
+      "poszerzać się",
+      "poszerzać",
+      "rozszerzać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "wide-ranging",
+    "meaning": [
+      "na szeroką skalę"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "widespread",
+    "meaning": [
+      "rozpowszechniony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "widow",
+    "meaning": [
+      "wdowa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "widowed",
+    "meaning": [
+      "owdowiały"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "widower",
+    "meaning": [
+      "wdowiec"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "widowhood",
+    "meaning": [
+      "wdowieństwo"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "width",
+    "meaning": [
+      "szerokość"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wield",
+    "meaning": [
+      "dzierżyć"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A1",
+    "word": "wife",
+    "meaning": [
+      "żona"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wig",
+    "meaning": [
+      "peruka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wiggle",
+    "meaning": [
+      "podrygiwać",
+      "szarpać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wigwam",
+    "meaning": [
+      "wigwam"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wild",
+    "meaning": [
+      "dziki",
+      "rozszalały",
+      "dziwaczny",
+      "na oślep",
+      "na chybił trafił",
+      "dziki stan",
+      "pustkowia",
+      "odludzie"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wilderness",
+    "meaning": [
+      "pustkowie",
+      "pustynia",
+      "zdziczały teren"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wild-goose chase",
+    "meaning": [
+      "poszukiwanie wczorajszego dnia"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wildlife",
+    "meaning": [
+      "przyroda",
+      "zwierzęta",
+      "przyroda żyjące w stanie naturalnym",
+      "zwierzęta żyjące w stanie naturalnym"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wildly",
+    "meaning": [
+      "dziko",
+      "szalenie",
+      "z energią",
+      "na chybił trafił"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "B1",
+    "word": "wilful",
+    "meaning": [
+      "świadomy",
+      "rozmyślny",
+      "krnąbrny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "willing",
+    "meaning": [
+      "chętny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "willow",
+    "meaning": [
+      "wierzba"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "will-power",
+    "meaning": [
+      "siła woli"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "willy-nilly",
+    "meaning": [
+      "chcąc czy nie chcąc"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "B1",
+    "word": "wilt",
+    "meaning": [
+      "więdnąć",
+      "usychać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wily",
+    "meaning": [
+      "chytry"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "wince",
+    "meaning": [
+      "krzywić się",
+      "skrzywienie się"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "winch",
+    "meaning": [
+      "blok",
+      "wciągać blokiem",
+      "wciągać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wind",
+    "meaning": [
+      "wiatr",
+      "oddech",
+      "dech",
+      "gazy",
+      "wzdęcie",
+      "dęty",
+      "pozbawiać tchu",
+      "wić się",
+      "owijać",
+      "nakręcać",
+      "przewijać do tyłu",
+      "redukować",
+      "zwalniać obroty",
+      "zwalniać",
+      "otwierać",
+      "przewijać do przodu",
+      "kończyć",
+      "zwijać",
+      "lądować",
+      "zamykać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "windbreak",
+    "meaning": [
+      "wiatrołom"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "windfall",
+    "meaning": [
+      "uśmiech szczęścia"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "windmill",
+    "meaning": [
+      "wiatrak"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "window",
+    "meaning": [
+      "okno",
+      "okienko"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "window-box",
+    "meaning": [
+      "skrzynka na kwiaty"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "window-frame",
+    "meaning": [
+      "rama okienna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "window-pane",
+    "meaning": [
+      "szyba"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "window-shopping",
+    "meaning": [
+      "oglądanie wystaw",
+      "oglądanie witryn"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "window-sill",
+    "meaning": [
+      "parapet"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "windpipe",
+    "meaning": [
+      "tchawica"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "windscreen",
+    "meaning": [
+      "szyba przednia",
+      "wycieraczka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "windshield",
+    "meaning": [
+      "szyba przednia",
+      "osłona szklana"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "windsurfer",
+    "meaning": [
+      "deska windsurfingowa",
+      "windsurfingowiec"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "windsurfing",
+    "meaning": [
+      "windsurfing"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "windswept",
+    "meaning": [
+      "chłostany wiatrem"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "windy",
+    "meaning": [
+      "wietrzny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "wine",
+    "meaning": [
+      "wino"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wing",
+    "meaning": [
+      "skrzydło",
+      "kulisy",
+      "błotnik"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "winger",
+    "meaning": [
+      "skrzydłowy"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wingspan",
+    "meaning": [
+      "rozpiętość skrzydeł"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wink",
+    "meaning": [
+      "mrugnięcie",
+      "mrugać",
+      "migotać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "winner",
+    "meaning": [
+      "zwycięzca"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "winning",
+    "meaning": [
+      "zwycięski",
+      "wygrana"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "winter",
+    "meaning": [
+      "zima",
+      "zimowy",
+      "zimować"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wintertime",
+    "meaning": [
+      "zima",
+      "pora zimowa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wintry",
+    "meaning": [
+      "zimowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wipe",
+    "meaning": [
+      "wycierać",
+      "ścierać",
+      "kasować",
+      "starcie",
+      "wymieść",
+      "zmiatać"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wiper",
+    "meaning": [
+      "wycieraczka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wire",
+    "meaning": [
+      "drut",
+      "kabel",
+      "telegram",
+      "wiązać drutem",
+      "wiązać",
+      "łączyć",
+      "podłączać",
+      "telegrafować"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wireless",
+    "meaning": [
+      "radio"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wiring",
+    "meaning": [
+      "instalacja elektryczna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wiry",
+    "meaning": [
+      "suchy",
+      "żylasty",
+      "sztywny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "Wisconsin",
+    "meaning": [
+      "Wisconsin"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wisdom",
+    "meaning": [
+      "mądrość",
+      "celowość",
+      "ząb mądrości"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wise",
+    "meaning": [
+      "mądry",
+      "mądrala"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wisecrack",
+    "meaning": [
+      "dowcipas"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wisecracker",
+    "meaning": [
+      "dowcipniś"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "wish",
+    "meaning": [
+      "życzenie",
+      "pragnienie",
+      "pragnąć",
+      "życzyć sobie",
+      "chcieć",
+      "żałować",
+      "życzyć"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wishful thinking",
+    "meaning": [
+      "pobożne życzenia",
+      "chciejstwo"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wishy-washy",
+    "meaning": [
+      "rozwodniony",
+      "mdły"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "wisp",
+    "meaning": [
+      "pasmo",
+      "wiecheć",
+      "kosmyk"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wistful",
+    "meaning": [
+      "nostalgiczny",
+      "melancholijny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wit",
+    "meaning": [
+      "dowcip",
+      "przytomność umysłu",
+      "inteligencja"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "witch",
+    "meaning": [
+      "wiedźma",
+      "czarownica",
+      "znachor",
+      "czarownik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "witchcraft",
+    "meaning": [
+      "czary"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "witch-hunt",
+    "meaning": [
+      "polowanie na czarownice"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "with",
+    "meaning": [
+      "z",
+      "wraz z",
+      "gdy",
+      "przy",
+      "w przypadku",
+      "wziąwszy pod uwagę",
+      "u"
+    ],
+    "partOfSpeech": "preposition"
+  },
+  {
+    "level": "B1",
+    "word": "withdraw",
+    "meaning": [
+      "wycofywać się",
+      "wycofywać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "withdrawal",
+    "meaning": [
+      "wycofanie się",
+      "wycofanie",
+      "cofnięcie",
+      "odsunięcie się",
+      "głód narkotyczny",
+      "głód",
+      "wypłata"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "withdrawn",
+    "meaning": [
+      "zamknięty w sobie",
+      "zamknięty"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wither",
+    "meaning": [
+      "zamierać",
+      "usychać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "withered",
+    "meaning": [
+      "pomarszczony",
+      "uschnięty"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "withering",
+    "meaning": [
+      "miażdżący"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "withhold",
+    "meaning": [
+      "powstrzymywać",
+      "wstrzymywać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A1",
+    "word": "within",
+    "meaning": [
+      "wewnątrz",
+      "w ramach",
+      "w odległości",
+      "w",
+      "w zasięgu",
+      "w przeciągu",
+      "za"
+    ],
+    "partOfSpeech": "preposition"
+  },
+  {
+    "level": "A1",
+    "word": "without",
+    "meaning": [
+      "bez"
+    ],
+    "partOfSpeech": "preposition"
+  },
+  {
+    "level": "B2",
+    "word": "withstand",
+    "meaning": [
+      "wytrzymywać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "witness",
+    "meaning": [
+      "świadek",
+      "być świadkiem"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "witness-box",
+    "meaning": [
+      "miejsce dla świadka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "witness-stand",
+    "meaning": [
+      "miejsce dla świadka"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "witter",
+    "meaning": [
+      "paplać",
+      "ględzić"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "C1",
+    "word": "witticism",
+    "meaning": [
+      "dowcip",
+      "dowcipna uwaga"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "witty",
+    "meaning": [
+      "dowcipny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wizard",
+    "meaning": [
+      "czarnoksiężnik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wizardry",
+    "meaning": [
+      "czaroksięstwo",
+      "magia"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wizened",
+    "meaning": [
+      "pomarszczony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "wk",
+    "meaning": [
+      "tydzień",
+      "praca"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wobble",
+    "meaning": [
+      "trząść się",
+      "chwiać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "woe",
+    "meaning": [
+      "nieszczęście"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "woeful",
+    "meaning": [
+      "żałosny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "woman",
+    "meaning": [
+      "kobieta"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "womanhood",
+    "meaning": [
+      "kobiecość",
+      "kobiety"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "womanizer",
+    "meaning": [
+      "kobieciarz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "womankind",
+    "meaning": [
+      "kobiety"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "womanly",
+    "meaning": [
+      "kobiecy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "womb",
+    "meaning": [
+      "macica"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wonder",
+    "meaning": [
+      "być ciekawym",
+      "zastanawiać się",
+      "podziwiać",
+      "dziw",
+      "zadziwienie",
+      "cudowny"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wonderful",
+    "meaning": [
+      "cudowny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wonderfully",
+    "meaning": [
+      "cudownie",
+      "wspaniale"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "B2",
+    "word": "wonderment",
+    "meaning": [
+      "zadziwienie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wonky",
+    "meaning": [
+      "chwiejny",
+      "rozklekotany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "woo",
+    "meaning": [
+      "zalecać się",
+      "ubiegać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "wonderful",
+    "meaning": [
+      "cudowny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wonderfully",
+    "meaning": [
+      "cudownie",
+      "wspaniale"
+    ],
+    "partOfSpeech": "adverb"
+  },
+  {
+    "level": "B2",
+    "word": "wonderment",
+    "meaning": [
+      "zadziwienie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wonky",
+    "meaning": [
+      "chwiejny",
+      "rozklekotany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "woo",
+    "meaning": [
+      "zalecać się",
+      "ubiegać się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A1",
+    "word": "wood",
+    "meaning": [
+      "drewno",
+      "las"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wooded",
+    "meaning": [
+      "zadrzewiony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wooden",
+    "meaning": [
+      "drewniany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "woodland",
+    "meaning": [
+      "teren lesisty"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "woodpecker",
+    "meaning": [
+      "dzięcioł"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "woodwind",
+    "meaning": [
+      "instrumenty dęte"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "woodwork",
+    "meaning": [
+      "stolarka",
+      "stolarstwo"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "woodworm",
+    "meaning": [
+      "kornik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "woody",
+    "meaning": [
+      "zdrewniały",
+      "lesisty"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "woof",
+    "meaning": [
+      "hau"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wool",
+    "meaning": [
+      "wełna"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "woollen",
+    "meaning": [
+      "wełniany",
+      "wełniana rzecz"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "woolly",
+    "meaning": [
+      "wełniany",
+      "mglisty",
+      "wełniana rzecz"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A1",
+    "word": "word",
+    "meaning": [
+      "słowo",
+      "wyraz",
+      "słówko",
+      "wiadomość",
+      "hasło",
+      "wyrażać",
+      "komputerowe przetwarzanie tekstu",
+      "przetwarzanie tekstu",
+      "edytor tekstu"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wording",
+    "meaning": [
+      "forma słowna",
+      "styl"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wordplay",
+    "meaning": [
+      "gra słów"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wordy",
+    "meaning": [
+      "wielosłowny",
+      "rozwlekły"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "workable",
+    "meaning": [
+      "użyteczny",
+      "wykonalny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "workaholic",
+    "meaning": [
+      "osoba, która nie widzi świata poza pracą",
+      "pracoholik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "workbench",
+    "meaning": [
+      "warsztat",
+      "stół do pracy"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "workday",
+    "meaning": [
+      "dzień pracy",
+      "dzień powszedni"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "worked up",
+    "meaning": [
+      "podekscytowany"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "worker",
+    "meaning": [
+      "pracownik",
+      "robotnik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "workforce",
+    "meaning": [
+      "siła robocza"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "working",
+    "meaning": [
+      "pracujący",
+      "roboczy",
+      "praktyczny",
+      "działania",
+      "klasa robotnicza",
+      "dzień roboczy"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "workload",
+    "meaning": [
+      "obciążenie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "workman",
+    "meaning": [
+      "pracownik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "workmanship",
+    "meaning": [
+      "rzemiosło",
+      "wykonanie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "workout",
+    "meaning": [
+      "zaprawa"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "workshop",
+    "meaning": [
+      "warsztat"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "workstation",
+    "meaning": [
+      "stacja robocza"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "worktop",
+    "meaning": [
+      "powierzchnia robocza"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "world",
+    "meaning": [
+      "świat",
+      "ogólnoświatowy",
+      "światowy"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "world-class",
+    "meaning": [
+      "światowej klasy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "world-famous",
+    "meaning": [
+      "o światowej sławie"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "worldly",
+    "meaning": [
+      "ziemski",
+      "doczesny",
+      "światowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "world-wide",
+    "meaning": [
+      "światowy",
+      "o światowym zasięgu"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "worn",
+    "meaning": [
+      "wytarty",
+      "zużyty"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "worn-out",
+    "meaning": [
+      "znoszony",
+      "wykończony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "worried",
+    "meaning": [
+      "zatroskany",
+      "zaniepokojony"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "worry",
+    "meaning": [
+      "martwić się",
+      "niepokoić się",
+      "niepokoić",
+      "zmartwienie",
+      "kłopot"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "worrying",
+    "meaning": [
+      "niepokojący"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "worse",
+    "meaning": [
+      "gorszy",
+      "gorzej",
+      "uboższy"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "worsen",
+    "meaning": [
+      "pogarszać się",
+      "pogarszać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "worshipper",
+    "meaning": [
+      "wierny",
+      "adorator",
+      "wielbiciel"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "worst",
+    "meaning": [
+      "najgorszy",
+      "najgorzej"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "worsted",
+    "meaning": [
+      "samodział"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "worth",
+    "meaning": [
+      "wart",
+      "wartość"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "worthless",
+    "meaning": [
+      "bezwartościowy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "worthwhile",
+    "meaning": [
+      "opłacalny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "worthy",
+    "meaning": [
+      "godny",
+      "znakomity",
+      "wart"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B1",
+    "word": "would-be",
+    "meaning": [
+      "niedoszły"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wound",
+    "meaning": [
+      "rana",
+      "ranić"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "wow",
+    "meaning": [
+      "oj",
+      "no no"
+    ],
+    "partOfSpeech": "exclamation"
+  },
+  {
+    "level": "B1",
+    "word": "WP",
+    "meaning": [
+      "przetwarzanie tekstu",
+      "edytor tekstu"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wpb",
+    "meaning": [
+      "kosz na śmieci"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wrangle",
+    "meaning": [
+      "kłócić się",
+      "kłótnia"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wrap",
+    "meaning": [
+      "owijać",
+      "okrycie",
+      "opatulać się",
+      "ubierać się ciepło",
+      "kończyć"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wrapped up",
+    "meaning": [
+      "zadurzony"
+    ],
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wrapper",
+    "meaning": [
+      "opakowanie",
+      "papierek od cukierka",
+      "papierek",
+      "okładka",
+      "obwoluta"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wrapping",
+    "meaning": [
+      "opakowanie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "C1",
+    "word": "wrath",
+    "meaning": [
+      "gniew"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "C1",
+    "word": "wreak",
+    "meaning": [
+      "wyrządzać",
+      "wywierać",
+      "odpłacać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B2",
+    "word": "wreath",
+    "meaning": [
+      "wieniec"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wreck",
+    "meaning": [
+      "rujnować",
+      "rozbijać",
+      "wrak",
+      "wrak człowieka"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wreckage",
+    "meaning": [
+      "szczątki"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wren",
+    "meaning": [
+      "strzyżyk"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wrench",
+    "meaning": [
+      "szarpać",
+      "skręcić",
+      "odrywać",
+      "szarpnięcie",
+      "skręcenie",
+      "klucz nastawny",
+      "ból rozstania",
+      "ból"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "wrest",
+    "meaning": [
+      "wyrywać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wrestle",
+    "meaning": [
+      "walczyć wręcz",
+      "walczyć",
+      "bić się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wrestler",
+    "meaning": [
+      "zapaśnik"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wrestling",
+    "meaning": [
+      "zapasy"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wretched",
+    "meaning": [
+      "nieszczęśliwy",
+      "nieszczęsny",
+      "cholerny"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "B2",
+    "word": "wriggle",
+    "meaning": [
+      "wiercić się",
+      "wiercić",
+      "kręcić się",
+      "kręcić",
+      "przedostawać się wiercąc",
+      "przedostawać się",
+      "kręcenie",
+      "ruch falisty",
+      "wykręcać się"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wring",
+    "meaning": [
+      "wykręcać",
+      "załamywać",
+      "ukręcać"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "wrinkle",
+    "meaning": [
+      "zmarszczka",
+      "marszczyć się",
+      "marszczyć"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wrinkled",
+    "meaning": [
+      "pomarszczony",
+      "pomięty"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "wrist",
+    "meaning": [
+      "przegub"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "wristwatch",
+    "meaning": [
+      "zegarek na rękę"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "C1",
+    "word": "writ",
+    "meaning": [
+      "pismo urzędowe",
+      "nakaz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A1",
+    "word": "write",
+    "meaning": [
+      "pisać",
+      "wypisywać",
+      "wystawiać",
+      "zapisywać",
+      "wysyłać listy",
+      "wysyłać pisma",
+      "spisywać na straty",
+      "wyksięgowywać",
+      "zapisywać na czysto"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "B1",
+    "word": "write-off",
+    "meaning": [
+      "pojazd spisany na straty",
+      "spisany na straty"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "write-protected",
+    "meaning": [
+      "zabezpieczony przed zapisywaniem"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "writer",
+    "meaning": [
+      "pisarz"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "write-up",
+    "meaning": [
+      "omówienie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "writhe",
+    "meaning": [
+      "wić się"
+    ],
+    "partOfSpeech": "verb"
+  },
+  {
+    "level": "A2",
+    "word": "writing",
+    "meaning": [
+      "pisanie",
+      "pismo",
+      "dzieła",
+      "utwory",
+      "papier listowy"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "written",
+    "meaning": [
+      "pisemny",
+      "napisany"
+    ],
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "wrongdoer",
+    "meaning": [
+      "krzywdziciel",
+      "sprawca zła"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B1",
+    "word": "wrongdoing",
+    "meaning": [
+      "niewłaściwe postępowanie",
+      "nadużycie"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "B2",
+    "word": "wrongful",
+    "meaning": [
+      "krzywdzący",
+      "niesprawiedliwy"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "C1",
+    "word": "wrought",
+    "meaning": [
+      "misterny",
+      "kuty"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "wry",
+    "meaning": [
+      "kwaśny",
+      "skrzywiony",
+      "skwaszony"
+    ],
+    "partOfSpeech": "adjective"
+  },
+  {
+    "level": "A2",
+    "word": "wt.",
+    "meaning": [
+      "ciężar"
+    ],
+    "partOfSpeech": "noun"
+  },
+  {
+    "level": "A2",
+    "word": "Wyoming",
+    "meaning": [
+      "Wyoming"
+    ],
+    "partOfSpeech": "noun"
+  }
+]
