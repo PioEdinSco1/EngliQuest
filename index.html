@@ -173,7 +173,7 @@ let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
 let levelTotals=JSON.parse(localStorage.getItem("eqLevelTotals")||"{}");
 const letters="abcdefghijklmnopqrstuvwxyz".split("");
 function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-function refreshAmountOptions(){const old=Number(amount.value)||50;const max=mode==="words"?Math.min(1000,vocabularyByLevel[level].length):bank[mode].length;amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
+function refreshAmountOptions(){if(mode!=="words")return;const old=Number(amount.value)||50;const max=Math.min(1000,vocabularyByLevel[level].length);amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
 async function loadVocabulary(){
  const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
  const seen=new Set();
@@ -218,7 +218,7 @@ function startGame(){
   if(!questions.length){alert("Nie udało się przygotować pytań dla tego poziomu.");return;}
  }else{
   const source=bank[mode];
-  questions=shuffle(source).slice(0,Math.min(Number(amount.value)||source.length,source.length));
+  questions=Array.from({length:Math.min(Number(amount.value),source.length)},(_,i)=>source[i%source.length]);
  }
  document.getElementById("game").style.display="block";
  document.getElementById("game").scrollIntoView({behavior:"smooth"});
