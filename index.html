@@ -79,7 +79,7 @@ footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
    <button class="module" data-mode="topic-shopping"><span class="emoji">🛒</span><strong>Zakupy, jedzenie i rośliny</strong><small>B2 • Owoce, warzywa, rośliny, jedzenie i zakupy</small></button>
    <button class="module" data-mode="topic-home"><span class="emoji">🏠</span><strong>Dom i wyposażenie</strong><small>B2 • Pomieszczenia, meble, sprzęty i narzędzia</small></button>
   </div>
-  <div class="tag" style="margin-top:12px">Wymowa w nawiasach jest przybliżonym zapisem brytyjskiej wymowy, pomocnym na początek nauki.</div>
+  <div class="tag" style="margin-top:12px">Wymowa w nawiasach jest przybliżonym zapisem brytyjskiej wymowy. Dźwięk „th” wymawiaj z językiem lekko między zębami.</div>
  </section>
 
 <section class="panel">
@@ -202,7 +202,7 @@ function buildPronunciationIndex(){
 }
 buildPronunciationIndex();
 function approximateEnglish(word){
- const w=word.toLowerCase(),known={the:"ze",this:"dhis",that:"dhat",these:"dhiz",those:"dhołz",you:"ju",your:"jor",are:"a",was:"łoz",were:"łer",have:"haw",has:"haz",had:"had",what:"łot",where:"łea",when:"łen",which:"łicz",who:"hu",why:"łaj",how:"hał",can:"ken",could:"kud",would:"łud",should:"szud",one:"łan",two:"tu",three:"thri",year:"jier",saturday:"saterdej",than:"dhen",seem:"sim"};
+ const w=word.toLowerCase(),known={the:"dhy",this:"dhis",that:"dhat",these:"dhiz",those:"dhołz",you:"ju",your:"jor",are:"a",was:"łoz",were:"łer",have:"haw",has:"haz",had:"had",what:"łot",where:"łea",when:"łen",which:"łicz",who:"hu",why:"łaj",how:"hał",can:"ken",could:"kud",would:"łud",should:"szud",one:"łan",two:"tu",three:"thri",year:"jier",saturday:"saterdej",than:"dhen",seem:"sim",she:"szi",he:"hi",it:"it",i:"aj",we:"łi",they:"dhej",them:"dhem",their:"dhea",there:"dhea",here:"hia",my:"maj",his:"hyz",her:"her",our:"ałer",but:"bat",and:"end",or:"o",not:"not",for:"fo",from:"from",with:"łidh",work:"łerk",working:"łerking",time:"tajm",people:"pipl",because:"bikołz",about:"ebałt",after:"after",before:"bifo"};
  if(known[w])return known[w];
  return w.replace(/tion$/g,"szyn").replace(/ture$/g,"czer").replace(/ough/g,"af").replace(/igh/g,"aj").replace(/ee|ea/g,"i").replace(/oo/g,"u").replace(/ph/g,"f").replace(/sh/g,"sz").replace(/ch/g,"cz").replace(/th/g,"th").replace(/ng/g,"ng").replace(/qu/g,"kł").replace(/ck/g,"k").replace(/wh/g,"ł").replace(/wr/g,"r").replace(/kn/g,"n").replace(/c(?=[eiy])/g,"s").replace(/g(?=[eiy])/g,"dż").replace(/x/g,"ks").replace(/y$/g,"i").replace(/e$/g,"")||w;
 }
