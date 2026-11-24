@@ -167,6 +167,42 @@ const bank={
   {q:"She ___ to school every day.",a:"goes",o:["go","going","goes","gone"],tr:["iść","idąc","chodzi","poszedł"],c:2}
  ]
 };
+
+const sentenceBank={
+ A1:[["Mam małego psa.","I have a small dog."],["Ona mieszka w Londynie.","She lives in London."],["Gdzie jest najbliższy sklep?","Where is the nearest shop?"],["Wstaję o siódmej każdego dnia.","I get up at seven every day."],["Czy możesz mi pomóc?","Can you help me?"],["Wczoraj oglądaliśmy film.","We watched a film yesterday."]],
+ A2:[["Zwykle jeżdżę do pracy autobusem.","I usually go to work by bus."],["Ona właśnie przygotowuje kolację.","She is preparing dinner right now."],["Czy kiedykolwiek byłeś w Szkocji?","Have you ever been to Scotland?"],["Nie widziałem go w zeszłym tygodniu.","I didn't see him last week."],["Jeśli będzie padać, zostaniemy w domu.","If it rains, we will stay at home."],["Muszę dziś zrobić zakupy.","I have to do the shopping today."]],
+ B1:[["Uczę się angielskiego od trzech lat.","I have been learning English for three years."],["Kiedy zadzwoniłeś, rozmawiałem z szefem.","When you called, I was talking to my boss."],["Powiedziała, że zgubiła klucze.","She said that she had lost her keys."],["Gdyby miał więcej czasu, podróżowałby częściej.","If he had more time, he would travel more often."],["Ten problem można łatwo rozwiązać.","This problem can be solved easily."],["Zdecydowaliśmy się przełożyć spotkanie.","We decided to postpone the meeting."]],
+ B2:[["Do końca miesiąca ukończę ten projekt.","I will have finished this project by the end of the month."],["Nie zdawałem sobie sprawy, jak bardzo było to ważne.","I hadn't realised how important it was."],["Mimo deszczu mecz był kontynuowany.","The match went ahead despite the rain."],["Oczekuje się, że ceny wkrótce wzrosną.","Prices are expected to rise soon."],["Gdybyś mnie wcześniej uprzedził, mógłbym pomóc.","If you had told me earlier, I could have helped."],["Raport powinien zostać wysłany przed piątkiem.","The report should be sent before Friday."]],
+ C1:[["Nie tylko zignorował ostrzeżenie, lecz także naraził innych na niebezpieczeństwo.","Not only did he ignore the warning, but he also put others at risk."],["Dopiero po spotkaniu zrozumiałam skalę problemu.","Only after the meeting did I understand the scale of the problem."],["Projekt, nad którym pracowaliśmy miesiącami, został nagle wstrzymany.","The project we had been working on for months was suddenly put on hold."],["Niezależnie od wyniku musimy wyciągnąć wnioski.","Regardless of the outcome, we must learn our lessons."],["Jest mało prawdopodobne, aby ta decyzja przyniosła oczekiwane rezultaty.","This decision is unlikely to produce the desired results."],["Gdyby nie jej szybka reakcja, sytuacja mogłaby się pogorszyć.","Had it not been for her quick response, the situation might have worsened."]],
+ C2:[["Jego argumentacja, choć pozornie przekonująca, opierała się na błędnych założeniach.","His argument, compelling though it appeared, rested on flawed assumptions."],["Dopiero z perspektywy czasu można docenić dalekosiężne konsekwencje tej reformy.","Only in retrospect can the far-reaching consequences of this reform be appreciated."],["Nie sposób przecenić znaczenia niezależnych instytucji w demokratycznym państwie.","The importance of independent institutions in a democratic state cannot be overstated."],["O ile teoria jest spójna, o tyle jej praktyczne zastosowanie budzi wątpliwości.","While the theory is coherent, its practical application gives rise to doubts."],["Przyjęto za pewnik coś, co należało poddać wnikliwej analizie.","Something that ought to have been scrutinised was taken for granted."],["Gdyby nie zbieg okoliczności, odkrycie mogłoby pozostać niezauważone.","But for a coincidence, the discovery might have gone unnoticed."]]
+};
+const tenseNames=["Present Simple","Present Continuous","Present Perfect","Present Perfect Continuous","Past Simple","Past Continuous","Past Perfect","Past Perfect Continuous","Future Simple","Future Continuous","Future Perfect","Future Perfect Continuous"];
+const tenseExamples=[
+ ["He ___ coffee every morning.","drinks",["drink","drinking","drank"]],
+ ["They ___ for the bus at the moment.","are waiting",["wait","waited","have waited"]],
+ ["I ___ this book twice.","have read",["read","am reading","had read"]],
+ ["She ___ here for two hours.","has been working",["is working","worked","had worked"]],
+ ["We ___ to York last weekend.","travelled",["travel","have travelled","were travelling"]],
+ ["At eight yesterday, I ___ dinner.","was cooking",["cooked","am cooking","have cooked"]],
+ ["The train ___ before we arrived.","had left",["has left","left","was leaving"]],
+ ["He ___ for hours before the doctor came.","had been waiting",["has been waiting","waited","was waiting"]],
+ ["I think it ___ tomorrow.","will rain",["rains","is raining","has rained"]],
+ ["This time tomorrow, we ___ over the Atlantic.","will be flying",["fly","will have flown","are flying"]],
+ ["By Friday, she ___ the report.","will have completed",["will complete","completes","will be completing"]],
+ ["By June, they ___ on the project for a year.","will have been working",["will work","will be working","have worked"]]
+];
+function makeTenseQuestions(lv){
+ const substitutions={
+ A1:["My brother","They","I","She","We","I","The bus","He","It","My parents","Anna","You"],
+ A2:["Our teacher","They","I","She","We","My sister","The plane","He","It","My friends","The team","You"],
+ B1:["The manager","They","I","She","We","My colleague","The company","He","It","Our neighbours","The researchers","You"],
+ B2:["The committee","They","I","She","We","The department","The agreement","He","It","The analysts","The organisation","You"],
+ C1:["The board","They","I","She","We","The institution","The proposal","He","It","The investigators","The administration","You"],
+ C2:["The delegation","They","I","She","We","The commission","The framework","He","It","The scholars","The consortium","You"]
+ };
+ return tenseExamples.map((item,i)=>({tense:tenseNames[i],q:item[0],a:item[1],o:shuffle([item[1],...item[2]]),c:0,level:lv,subject:substitutions[lv][i]})).map(item=>({...item,q:item.q.replace(/^(He|They|I|She|We|The train|At eight yesterday, I|This time tomorrow, we|By Friday, she|By June, they)/,item.subject)}));
+}
+
 let level="A1",mode="words",questions=[],index=0,right=0,wrong=0,answered=false,timer=null,timeLeft=0,missed=[];
 let totals=JSON.parse(localStorage.getItem("eqTotals")||'{"total":0,"right":0,"wrong":0}');
 let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
