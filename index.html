@@ -329,7 +329,7 @@ function check(i){
   const completed=q.q.replace("___",q.a);
   const sentence="<div style='margin-top:12px'><b>Całe zdanie:</b><br>"+escapeHtml(completed)+"<br><span style='color:#9fc4e8'>"+escapeHtml(q.sentenceTranslation||"Tłumaczenie niedostępne")+"</span></div>";
   const details=q.o.map((v,n)=>"<div style='padding:7px 0;border-bottom:1px solid #29425e'><b style='color:"+(n===q.c?"#25d69a":"#e8f0fb")+"'>"+escapeHtml(v)+(n===q.c?" ✓":"")+"</b><br><span style='color:#9fc4e8'>"+escapeHtml(q.optionTranslations?.[n]||"")+"</span></div>").join("");
-  document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b>"+sentence+"<div style='margin-top:14px'><b>Znaczenie wszystkich odpowiedzi:</b>"+details+"</div></div>";
+  document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b>"+sentence+"<div style='margin-top:8px;color:#9fc4e8'>Uzupełnij zdanie w czasie: "+escapeHtml(q.tense)+"</div><div style='margin-top:14px'><b>Znaczenie wszystkich odpowiedzi:</b>"+details+"</div></div>";
  }else{
   let details=q.o.map((v,n)=>"<div>"+v+" — "+(q.tr?.[n]||"")+(n===q.c?" ✓":"")+"</div>").join("");
   document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b><br>"+details+"</div>";
