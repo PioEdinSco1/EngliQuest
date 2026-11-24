@@ -2169,7 +2169,9 @@
       "udaremniać"
     ],
     "partOfSpeech": [
-      "noun"
+      "adjective",
+      "noun",
+      "verb"
     ]
   },
   {
@@ -19550,14 +19552,15 @@
     "level": "A2",
     "word": "swallow",
     "meaning": [
-      "przełykać",
       "połykać",
+      "przełykać",
+      "pochłaniać",
       "łyk",
-      "jaskółka",
-      "pochłaniać"
+      "jaskółka"
     ],
     "partOfSpeech": [
-      "noun"
+      "noun",
+      "verb"
     ]
   },
   {
