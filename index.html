@@ -311,7 +311,7 @@ function nextQuestion(){
  document.getElementById("counter").textContent="Pytanie "+(index+1)+" / "+questions.length;
  document.getElementById("bar").style.width=(index/questions.length*100)+"%";
  document.getElementById("score").textContent="Poprawne: "+right+" • Błędne: "+wrong;
- document.getElementById("question").textContent=withPronunciation(q.q,!(mode==="words"||mode==="spelling"||(mode==="sentences"&&q.direction==="pl-en")));
+ document.getElementById("question").textContent=mode==="sentences"?q.q:withPronunciation(q.q,!(mode==="words"||mode==="spelling"));
  document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?(q.direction==="retry"?"Powtórz zapisaną odpowiedź":q.direction==="pl-en"?"Przetłumacz na angielski":"Przetłumacz na polski"):mode.startsWith("topic-")?"Wybierz poprawne angielskie hasło":"Uzupełnij zdanie w czasie: "+withPronunciation(q.tense);
  document.getElementById("feedback").innerHTML="";
  document.getElementById("next").style.display="none";
@@ -344,7 +344,8 @@ function checkTyped(timeout=false){
  const enteredHtml=ok
   ?"<span style='color:#25d69a;font-weight:800'>"+entered+"</span>"
   :"<span style='color:#ff7185;text-decoration:underline;font-weight:800'>"+entered+"</span>";
- document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(withPronunciation(q.a,mode==="spelling"||(mode==="sentences"&&q.direction==="pl-en")))+"</span>")+"</div>";
+ const sentenceReveal=mode==="sentences"?"<div style='margin-top:10px'><b>Poprawne tłumaczenie:</b><br>"+escapeHtml(q.a)+"</div>":"";
+ document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(mode==="sentences"?q.a:withPronunciation(q.a,mode==="spelling"))+"</span>")+sentenceReveal+"</div>";
  document.getElementById("next").style.display="inline-block";
 }
 function check(i){
