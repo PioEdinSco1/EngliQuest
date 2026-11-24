@@ -273,9 +273,11 @@ function buildWordQuestion(entry,pool){
  const options=shuffle([entry,...distractors]);
  return {q:entry.meanings[0],a:entry.word,o:options.map(x=>x.word),tr:options.map(x=>x.meanings[0]),c:options.findIndex(x=>x===entry)};
 }
+function buildTopicQuestion(entry,pool){const distractors=shuffle(pool.filter(x=>x.en!==entry.en)).slice(0,3);if(distractors.length<3)return null;const options=shuffle([entry,...distractors]);return {q:entry.en,a:entry.en,o:options.map(x=>x.en),tr:options.map(x=>x.pl),c:options.findIndex(x=>x===entry)};}
 function startGame(){
  clearInterval(timer);right=0;wrong=0;index=0;missed=[];
- if(mode==="words"||mode==="spelling"){
+ if(mode.startsWith("topic-")){const key=mode.slice(6),pool=key==="alphabet"?(window.topicAlphabet||[]).map(x=>({en:x[0],pl:x[1],read:x[2]})):((window.topicBanks||{})[key]||[]);if(pool.length<4){alert("Brak wystarczającej liczby haseł w tym dziale.");return;}questions=shuffle(pool).slice(0,Math.min(Number(amount.value)||20,pool.length)).map(x=>buildTopicQuestion(x,pool)).filter(Boolean);}
+  else if(mode==="words"||mode==="spelling"){
   const pool=vocabularyByLevel[level];
   if(!pool.length){alert("Na tym poziomie nie ma jeszcze słówek.");return;}
   if(mode==="words"&&pool.length<4){alert("Na tym poziomie nie ma jeszcze wystarczającej liczby słówek.");return;}
@@ -296,7 +298,7 @@ function startGame(){
  }
  document.getElementById("game").style.display="block";
  document.getElementById("game").scrollIntoView({behavior:"smooth"});
- document.getElementById("gameTitle").textContent=level+" • "+({words:"Nauka słówek",spelling:"Pisownia słów",sentences:"Tłumaczenie zdań",tenses:"Czasy angielskie"}[mode]);
+ document.getElementById("gameTitle").textContent=mode.startsWith("topic-")?"TEMATY • "+({alphabet:"Alfabet",numbers:"Liczby",symbols:"Znaki i matematyka",shopping:"Zakupy i jedzenie",home:"Dom"}[mode.slice(6)]):level+" • "+({words:"Nauka słówek",spelling:"Pisownia słów",sentences:"Tłumaczenie zdań",tenses:"Czasy angielskie"}[mode]);
  nextQuestion();
 }
 function nextQuestion(){
@@ -308,7 +310,7 @@ function nextQuestion(){
  document.getElementById("counter").textContent="Pytanie "+(index+1)+" / "+questions.length;
  document.getElementById("bar").style.width=(index/questions.length*100)+"%";
  document.getElementById("score").textContent="Poprawne: "+right+" • Błędne: "+wrong;
- document.getElementById("question").textContent=q.q;
+ document.getElementById("question").textContent=withPronunciation(q.q,!(mode==="words"||mode==="spelling"||(mode==="sentences"&&q.direction==="pl-en")));
  document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?(q.direction==="retry"?"Powtórz zapisaną odpowiedź":q.direction==="pl-en"?"Przetłumacz na angielski":"Przetłumacz na polski"):"Uzupełnij zdanie w czasie: "+q.tense;
  document.getElementById("feedback").innerHTML="";
  document.getElementById("next").style.display="none";
@@ -318,7 +320,7 @@ function nextQuestion(){
   const input=document.createElement("input");input.placeholder=mode==="spelling"?"Wpisz słowo po angielsku":"Wpisz tłumaczenie";input.id="typed";input.style.width="100%";input.autocomplete="off";answers.appendChild(input);
   const btn=document.createElement("button");btn.className="primary";btn.textContent="Sprawdź";btn.onclick=()=>checkTyped();answers.appendChild(btn);
  }else{
-  q.o.forEach((v,i)=>{let b=document.createElement("button");b.className="answer";b.textContent=v;b.onclick=()=>check(i);answers.appendChild(b)});
+  q.o.forEach((v,i)=>{let b=document.createElement("button");b.className="answer";b.textContent=withPronunciation(v);b.onclick=()=>check(i);answers.appendChild(b)});
  }
  if(mode==="tenses"||mode==="spelling"){
   timeLeft=10;
