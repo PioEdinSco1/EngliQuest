@@ -80,6 +80,8 @@ footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
    <button class="level" data-level="C1">C1<small>Advanced</small></button>
    <button class="level" data-level="C2">C2<small>Proficiency</small></button>
   </div>
+  <div id="vocabStatus" style="color:var(--muted);font-size:13px;margin-top:12px">Ładowanie bazy słówek…</div>
+  <div id="levelProgress" style="color:var(--muted);font-size:13px;margin-top:8px"></div>
  </section>
 
  <section class="panel">
@@ -167,13 +169,26 @@ const bank={
 };
 let level="A1",mode="words",questions=[],index=0,right=0,wrong=0,answered=false,timer=null,timeLeft=0,missed=[];
 let totals=JSON.parse(localStorage.getItem("eqTotals")||'{"total":0,"right":0,"wrong":0}');
+let vocabularyByLevel={A1:[],A2:[],B1:[],B2:[],C1:[],C2:[]};
+let levelTotals=JSON.parse(localStorage.getItem("eqLevelTotals")||"{}");
+const letters="abcdefghijklmnopqrstuvwxyz".split("");
+function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function refreshAmountOptions(){const old=Number(amount.value)||50;const max=mode==="words"?Math.min(1000,vocabularyByLevel[level].length):bank[mode].length;amount.innerHTML="";const step=max>=50?50:Math.max(1,max);for(let n=step;n<=max;n+=step){const op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op);}if(max>0){amount.value=String(Math.min(max,Math.max(step,Math.floor(old/step)*step)));}else{const op=document.createElement("option");op.value=0;op.textContent="Brak pytań";amount.appendChild(op);}}
+async function loadVocabulary(){
+ const loaded=await Promise.all(letters.map(async letter=>{try{const response=await fetch("./data/source-"+letter+".json");if(!response.ok)throw new Error("HTTP "+response.status);return await response.json();}catch(error){console.warn("Nie udało się wczytać pliku",letter,error);return [];}}));
+ const seen=new Set();
+ loaded.flat().forEach(entry=>{const lv=entry.level;if(!vocabularyByLevel[lv]||!entry.word||!Array.isArray(entry.meaning)||!entry.meaning.length)return;const word=String(entry.word).trim();const key=lv+"|"+word.toLocaleLowerCase("en");if(seen.has(key))return;seen.add(key);const meanings=entry.meaning.map(x=>String(x).trim()).filter(Boolean);if(!meanings.length)return;vocabularyByLevel[lv].push({word,meanings,pos:Array.isArray(entry.partOfSpeech)?entry.partOfSpeech:[]});});
+ Object.keys(vocabularyByLevel).forEach(lv=>vocabularyByLevel[lv].sort((a,b)=>a.word.localeCompare(b.word)));
+ document.getElementById("vocabStatus").textContent="Baza słówek załadowana. Dostępne hasła: "+Object.entries(vocabularyByLevel).map(([lv,list])=>lv+": "+list.length).join(" • ");
+ refreshAmountOptions();updateStats();
+}
 let history=JSON.parse(localStorage.getItem("eqHistory")||"[]");
 let mistakes=JSON.parse(localStorage.getItem("eqMistakes")||"[]");
 
 const amount=document.getElementById("amount");
 for(let n=50;n<=1000;n+=50){let op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op)}
-document.querySelectorAll(".level").forEach(b=>b.onclick=()=>{document.querySelectorAll(".level").forEach(x=>x.classList.remove("active"));b.classList.add("active");level=b.dataset.level});
-document.querySelectorAll(".module").forEach(b=>b.onclick=()=>{document.querySelectorAll(".module").forEach(x=>x.classList.remove("active"));b.classList.add("active");mode=b.dataset.mode});
+document.querySelectorAll(".level").forEach(b=>b.onclick=()=>{document.querySelectorAll(".level").forEach(x=>x.classList.remove("active"));b.classList.add("active");level=b.dataset.level;refreshAmountOptions();});
+document.querySelectorAll(".module").forEach(b=>b.onclick=()=>{document.querySelectorAll(".module").forEach(x=>x.classList.remove("active"));b.classList.add("active");mode=b.dataset.mode;refreshAmountOptions();});
 
 function updateStats(){
  document.getElementById("total").textContent=totals.total;
@@ -181,11 +196,30 @@ function updateStats(){
  document.getElementById("wrong").textContent=totals.wrong;
  document.getElementById("percent").textContent=totals.total?Math.round(totals.right/totals.total*100)+"%":"0%";
  document.getElementById("history").innerHTML=history.length?history.slice(0,10).map(x=>x.date+" • "+x.level+" • "+x.mode+" • "+x.right+"/"+x.total+" poprawnych").join("<br>"):"Twoja historia nauki pojawi się tutaj po pierwszej sesji.";
+ const lp=document.getElementById("levelProgress");if(lp)lp.textContent="Postęp słówek: "+["A1","A2","B1","B2","C1","C2"].map(l=>l+" "+((levelTotals[l]&&levelTotals[l].right)||0)+"/"+((levelTotals[l]&&levelTotals[l].total)||0)).join(" • ");
+}
+function buildWordQuestion(entry,pool){
+ const candidates=pool.filter(x=>x.word.toLowerCase()!==entry.word.toLowerCase() && x.meanings[0].toLocaleLowerCase("pl")!==entry.meanings[0].toLocaleLowerCase("pl"));
+ const samePos=candidates.filter(x=>entry.pos.length&&x.pos.some(p=>entry.pos.includes(p)));
+ const similar=samePos.filter(x=>Math.abs(x.word.length-entry.word.length)<=4);
+ const preferred=similar.length>=3?similar:(samePos.length>=3?samePos:candidates);
+ const distractors=shuffle(preferred).slice(0,3);
+ if(distractors.length<3)return null;
+ const options=shuffle([entry,...distractors]);
+ return {q:entry.meanings[0],a:entry.word,o:options.map(x=>x.word),tr:options.map(x=>x.meanings[0]),c:options.findIndex(x=>x===entry)};
 }
 function startGame(){
  clearInterval(timer);right=0;wrong=0;index=0;missed=[];
- const source=bank[mode];
- questions=Array.from({length:Math.min(Number(amount.value),source.length)},(_,i)=>source[i%source.length]);
+ if(mode==="words"){
+  const pool=vocabularyByLevel[level];
+  if(pool.length<4){alert("Na tym poziomie nie ma jeszcze wystarczającej liczby słówek.");return;}
+  const amountRequested=Math.min(Number(amount.value)||50,pool.length);
+  questions=shuffle(pool).slice(0,amountRequested).map(entry=>buildWordQuestion(entry,pool)).filter(Boolean);
+  if(!questions.length){alert("Nie udało się przygotować pytań dla tego poziomu.");return;}
+ }else{
+  const source=bank[mode];
+  questions=shuffle(source).slice(0,Math.min(Number(amount.value)||source.length,source.length));
+ }
  document.getElementById("game").style.display="block";
  document.getElementById("game").scrollIntoView({behavior:"smooth"});
  document.getElementById("gameTitle").textContent=level+" • "+({words:"Nauka słówek",spelling:"Pisownia słów",sentences:"Tłumaczenie zdań",tenses:"Czasy angielskie"}[mode]);
@@ -238,6 +272,7 @@ function check(i){
 function record(ok,q){
  answered=true;clearInterval(timer);
  if(ok)right++;else{wrong++;missed.push(q);mistakes.unshift({level,mode,question:q.q,answer:q.a})}
+ if(mode==="words"){if(!levelTotals[level])levelTotals[level]={total:0,right:0};levelTotals[level].total++;if(ok)levelTotals[level].right++;localStorage.setItem("eqLevelTotals",JSON.stringify(levelTotals));}
  totals.total++;if(ok)totals.right++;else totals.wrong++;
  localStorage.setItem("eqTotals",JSON.stringify(totals));
  localStorage.setItem("eqMistakes",JSON.stringify(mistakes));
@@ -262,6 +297,8 @@ function showMistakes(){
  box.innerHTML=mistakes.length?mistakes.slice(0,30).map(m=>"<div>"+m.level+" • "+m.question+" → "+m.answer+"</div>").join(""):"Nie masz jeszcze zapisanych błędów.";
 }
 updateStats();
+refreshAmountOptions();
+loadVocabulary();
 </script>
 </body>
 </html>
