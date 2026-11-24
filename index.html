@@ -73,11 +73,11 @@ footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
   <section class="panel">
   <h2>🧭 Podstawy i słownictwo tematyczne</h2>
   <div class="modules">
-   <button class="module" data-mode="topic-alphabet"><span class="emoji">🔤</span><strong>Alfabet i Alpha–Zulu</strong><small>Litery i alfabet fonetyczny NATO</small></button>
-   <button class="module" data-mode="topic-numbers"><span class="emoji">🔢</span><strong>Liczby i cyfry</strong><small>Liczebniki i ułamki</small></button>
-   <button class="module" data-mode="topic-symbols"><span class="emoji">➗</span><strong>Znaki i matematyka</strong><small>Interpunkcja i działania matematyczne</small></button>
-   <button class="module" data-mode="topic-shopping"><span class="emoji">🛒</span><strong>Zakupy, jedzenie i rośliny</strong><small>Owoce, warzywa, produkty i sklep</small></button>
-   <button class="module" data-mode="topic-home"><span class="emoji">🏠</span><strong>Dom i wyposażenie</strong><small>Pomieszczenia, meble, sprzęty i narzędzia</small></button>
+   <button class="module" data-mode="topic-alphabet"><span class="emoji">🔤</span><strong>Alfabet i Alpha–Zulu</strong><small>Podstawy • Litery i alfabet fonetyczny NATO</small></button>
+   <button class="module" data-mode="topic-numbers"><span class="emoji">🔢</span><strong>Liczby i cyfry</strong><small>A2 • Liczebniki, cyfry i ułamki</small></button>
+   <button class="module" data-mode="topic-symbols"><span class="emoji">➗</span><strong>Znaki i matematyka</strong><small>B1 • Interpunkcja i działania matematyczne</small></button>
+   <button class="module" data-mode="topic-shopping"><span class="emoji">🛒</span><strong>Zakupy, jedzenie i rośliny</strong><small>B2 • Owoce, warzywa, rośliny, jedzenie i zakupy</small></button>
+   <button class="module" data-mode="topic-home"><span class="emoji">🏠</span><strong>Dom i wyposażenie</strong><small>B2 • Pomieszczenia, meble, sprzęty i narzędzia</small></button>
   </div>
   <div class="tag" style="margin-top:12px">Wymowa w nawiasach jest przybliżonym zapisem brytyjskiej wymowy, pomocnym na początek nauki.</div>
  </section>
@@ -323,7 +323,7 @@ function nextQuestion(){
  document.getElementById("bar").style.width=(index/questions.length*100)+"%";
  document.getElementById("score").textContent="Poprawne: "+right+" • Błędne: "+wrong;
  document.getElementById("question").textContent=withPronunciation(q.q,!(mode==="words"||mode==="spelling"||(mode==="sentences"&&q.direction==="pl-en")));
- document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?(q.direction==="retry"?"Powtórz zapisaną odpowiedź":q.direction==="pl-en"?"Przetłumacz na angielski":"Przetłumacz na polski"):"Uzupełnij zdanie w czasie: "+q.tense;
+ document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?(q.direction==="retry"?"Powtórz zapisaną odpowiedź":q.direction==="pl-en"?"Przetłumacz na angielski":"Przetłumacz na polski"):"Uzupełnij zdanie w czasie: "+withPronunciation(q.tense);
  document.getElementById("feedback").innerHTML="";
  document.getElementById("next").style.display="none";
  document.getElementById("timer").textContent=" ";
@@ -351,7 +351,7 @@ function checkTyped(timeout=false){
  const ok=!timeout&&accepted.some(answer=>normalize(val)===normalize(answer));
  record(ok,q);
  input.disabled=true;
- const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(val);
+ const entered=timeout&&!val?"Brak odpowiedzi":escapeHtml(withPronunciation(val,mode==="spelling"||(mode==="sentences"&&q.direction==="pl-en")));
  const enteredHtml=ok
   ?"<span style='color:#25d69a;font-weight:800'>"+entered+"</span>"
   :"<span style='color:#ff7185;text-decoration:underline;font-weight:800'>"+entered+"</span>";
