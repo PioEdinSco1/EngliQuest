@@ -1,1 +1,2750 @@
-[{"level":"B1","word":"vacancy","meaning":["wolne stanowisko","wolne miejsce"],"partOfSpeech":"noun"},{"level":"A2","word":"vacant","meaning":["wolny","nie zajęty","rozproszony"],"partOfSpeech":"adjective"},{"level":"B1","word":"vacate","meaning":["zwalniać"],"partOfSpeech":"verb"},{"level":"A2","word":"vacation","meaning":["wakacje","urlop"],"partOfSpeech":"noun"},{"level":"B1","word":"vaccinate","meaning":["szczepić"],"partOfSpeech":"verb"},{"level":"B1","word":"vaccination","meaning":["szczepienie"],"partOfSpeech":"noun"},{"level":"B1","word":"vaccine","meaning":["szczepionka"],"partOfSpeech":"noun"},{"level":"A2","word":"vacuum","meaning":["próżnia","pustka","odkurzacz","odkurzać"],"partOfSpeech":"noun"},{"level":"B2","word":"vagina","meaning":["pochwa"],"partOfSpeech":"noun"},{"level":"B2","word":"vaginal","meaning":["dopochwowy","pochwowy"],"partOfSpeech":"adjective"},{"level":"C1","word":"vagrant","meaning":["włóczęga"],"partOfSpeech":"noun"},{"level":"B1","word":"vague","meaning":["mętny","niejasny","niewyraźny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vain","meaning":["próżny","daremny"],"partOfSpeech":"adjective"},{"level":"A2","word":"valentine","meaning":["kartka z życzeniami na św. Walentego"],"partOfSpeech":"noun"},{"level":"B2","word":"valet","meaning":["lokaj"],"partOfSpeech":"noun"},{"level":"B2","word":"valiant","meaning":["bohaterski","dzielny"],"partOfSpeech":"noun"},{"level":"B1","word":"valid","meaning":["ważny","uzasadniony"],"partOfSpeech":"adjective"},{"level":"B2","word":"validate","meaning":["potwierdzać"],"partOfSpeech":"verb"},{"level":"B2","word":"validity","meaning":["ważność"],"partOfSpeech":"noun"},{"level":"A2","word":"valley","meaning":["dolina"],"partOfSpeech":"noun"},{"level":"B2","word":"valour","meaning":["bohaterstwo","odwaga"],"partOfSpeech":"noun"},{"level":"A2","word":"valuable","meaning":["cenny","przedmioty wartościowe"],"partOfSpeech":"adjective"},{"level":"B2","word":"valuation","meaning":["wycena","ocena"],"partOfSpeech":"noun"},{"level":"A1","word":"value","meaning":["wartość","zaleta","cenić","wyceniać"],"partOfSpeech":"noun"},{"level":"B2","word":"value-added tax","meaning":["podatek od wartości dodanej","VAT"],"partOfSpeech":"noun"},{"level":"B1","word":"valued","meaning":["ceniony"],"partOfSpeech":"adjective"},{"level":"B2","word":"valueless","meaning":["bezwartościowy"],"partOfSpeech":"adjective"},{"level":"B1","word":"valve","meaning":["zawór"],"partOfSpeech":"noun"},{"level":"A2","word":"vampire","meaning":["wampir"],"partOfSpeech":"noun"},{"level":"A1","word":"van","meaning":["furgonetka"],"partOfSpeech":"noun"},{"level":"B1","word":"vandal","meaning":["wandal"],"partOfSpeech":"noun"},{"level":"B1","word":"vandalism","meaning":["wandalizm"],"partOfSpeech":"noun"},{"level":"B1","word":"vandalize","meaning":["niszczyć po chuligańsku","niszczyć"],"partOfSpeech":"verb"},{"level":"B2","word":"vanguard","meaning":["awangarda"],"partOfSpeech":"noun"},{"level":"A2","word":"vanilla","meaning":["wanilia"],"partOfSpeech":"noun"},{"level":"A2","word":"vanish","meaning":["znikać","ginąć"],"partOfSpeech":"verb"},{"level":"B1","word":"vanity","meaning":["próżność","kosmetyczka"],"partOfSpeech":"noun"},{"level":"B2","word":"vanquish","meaning":["pokonywać doszczętnie","pokonywać"],"partOfSpeech":"verb"},{"level":"B2","word":"vantage point","meaning":["dobry punkt obserwacyjny","dobry punkt"],"partOfSpeech":"noun"},{"level":"B1","word":"vapour","meaning":["para"],"partOfSpeech":"noun"},{"level":"C1","word":"variability","meaning":["zmienność"],"partOfSpeech":"noun"},{"level":"B2","word":"variable","meaning":["zmienny","zmienna"],"partOfSpeech":"adjective"},{"level":"B2","word":"variant","meaning":["wariant","odmiana","wariantowy"],"partOfSpeech":"noun"},{"level":"B2","word":"varicose veins","meaning":["żylaki"],"partOfSpeech":"noun"},{"level":"B1","word":"varied","meaning":["różnorodny"],"partOfSpeech":"adjective"},{"level":"B2","word":"variegated","meaning":["różnokolorowy"],"partOfSpeech":"adjective"},{"level":"B1","word":"variety","meaning":["różnorodność","rodzaj","odmiana","variété"],"partOfSpeech":"noun"},{"level":"B1","word":"various","meaning":["różnorodny","rozmaity"],"partOfSpeech":"adjective"},{"level":"B2","word":"variously","meaning":["rozmaicie"],"partOfSpeech":"adverb"},{"level":"B1","word":"varnish","meaning":["pokost","werniks","lakier","pokostować","werniksować"],"partOfSpeech":"noun"},{"level":"B1","word":"vary","meaning":["różnić się","wahać się","zmieniać się","różnicować"],"partOfSpeech":"verb"},{"level":"A2","word":"vase","meaning":["wazon"],"partOfSpeech":"noun"},{"level":"A2","word":"vast","meaning":["ogromny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vastly","meaning":["ogromnie","niebywale"],"partOfSpeech":"adverb"},{"level":"A2","word":"VAT","meaning":["VAT","podatek od wartości dodanej"],"partOfSpeech":"noun"},{"level":"A2","word":"vat","meaning":["beczka","kadź"],"partOfSpeech":"noun"},{"level":"B1","word":"vault","meaning":["skarbiec","krypta","sklepienie","przeskakiwać"],"partOfSpeech":"noun"},{"level":"B1","word":"VCR","meaning":["magnetowid","video"],"partOfSpeech":"noun"},{"level":"B2","word":"VD","meaning":["choroba weneryczna"],"partOfSpeech":"noun"},{"level":"B2","word":"VDU","meaning":["monitor"],"partOfSpeech":"noun"},{"level":"A2","word":"veal","meaning":["cielęcina"],"partOfSpeech":"noun"},{"level":"B1","word":"veer","meaning":["zbaczać nagle","zbaczać","zmieniać kierunek"],"partOfSpeech":"verb"},{"level":"A1","word":"vegetable","meaning":["jarzyna","warzywo","roślinny"],"partOfSpeech":"noun"},{"level":"A2","word":"vegetarian","meaning":["jarosz","wegetarianin","jarski","wegetariański"],"partOfSpeech":"noun"},{"level":"B2","word":"vegetate","meaning":["wegetować"],"partOfSpeech":"verb"},{"level":"B1","word":"vegetation","meaning":["roślinność","wegetacja"],"partOfSpeech":"noun"},{"level":"B2","word":"vehemence","meaning":["zaciekłość","porywczość"],"partOfSpeech":"noun"},{"level":"B2","word":"vehement","meaning":["gwałtowny","zaciekły","porywczy"],"partOfSpeech":"adjective"},{"level":"A2","word":"vehicle","meaning":["pojazd","środek","narzędzie"],"partOfSpeech":"noun"},{"level":"B1","word":"veil","meaning":["welon","zasłona","zasłaniać welonem"],"partOfSpeech":"noun"},{"level":"B2","word":"veiled","meaning":["zawoalowany"],"partOfSpeech":"adjective"},{"level":"B1","word":"vein","meaning":["żyła","żyłka","styl","duch"],"partOfSpeech":"noun"},{"level":"B2","word":"velocity","meaning":["prędkość"],"partOfSpeech":"noun"},{"level":"A2","word":"velvet","meaning":["aksamit"],"partOfSpeech":"noun"},{"level":"A2","word":"velvety","meaning":["aksamitny"],"partOfSpeech":"adjective"},{"level":"C1","word":"ven.","meaning":["czcigodny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vending machine","meaning":["automat","maszyna do sprzedaży"],"partOfSpeech":"noun"},{"level":"B1","word":"vendor","meaning":["sprzedawca","kiosk"],"partOfSpeech":"noun"},{"level":"B2","word":"veneer","meaning":["warstwa","fornir","laminat","fornirować","okładać"],"partOfSpeech":"noun"},{"level":"C1","word":"venerable","meaning":["czcigodny"],"partOfSpeech":"adjective"},{"level":"C1","word":"venereal","meaning":["weneryczny"],"partOfSpeech":"adjective"},{"level":"B1","word":"venetian blind","meaning":["żaluzja nastawna","żaluzja"],"partOfSpeech":"noun"},{"level":"A1","word":"Venezuela","meaning":["Wenezuela"],"partOfSpeech":"noun"},{"level":"A2","word":"Venezuelan","meaning":["wenezuelski","Wenezuelczyk"],"partOfSpeech":"adjective"},{"level":"B2","word":"vengeful","meaning":["mściwy"],"partOfSpeech":"adjective"},{"level":"B1","word":"venison","meaning":["dziczyzna"],"partOfSpeech":"noun"},{"level":"B1","word":"venom","meaning":["jad"],"partOfSpeech":"noun"},{"level":"B1","word":"venomous","meaning":["jadowity"],"partOfSpeech":"adjective"},{"level":"B1","word":"vent","meaning":["otwór wentylacyjny","wylot","wyładowywać"],"partOfSpeech":"noun"},{"level":"B2","word":"ventilate","meaning":["wentylować"],"partOfSpeech":"verb"},{"level":"B1","word":"ventilation","meaning":["wentylacja"],"partOfSpeech":"noun"},{"level":"B1","word":"ventilator","meaning":["wywietrznik"],"partOfSpeech":"noun"},{"level":"B2","word":"ventriloquist","meaning":["brzuchomówca"],"partOfSpeech":"noun"},{"level":"B1","word":"venture","meaning":["ryzykowne przedsięwzięcie","przedsięwzięcie","puszczać się na ryzyko","ośmielać się","ryzykować"],"partOfSpeech":"noun"},{"level":"B1","word":"venue","meaning":["miejsce"],"partOfSpeech":"noun"},{"level":"B2","word":"veranda","meaning":["weranda"],"partOfSpeech":"noun"},{"level":"A2","word":"verb","meaning":["czasownik"],"partOfSpeech":"noun"},{"level":"B1","word":"verbal","meaning":["werbalny","słowny","czasownikowy"],"partOfSpeech":"adjective"},{"level":"B2","word":"verbatim","meaning":["dosłowny","dosłownie"],"partOfSpeech":"adjective"},{"level":"C1","word":"verbose","meaning":["rozwlekły"],"partOfSpeech":"adjective"},{"level":"B2","word":"verdict","meaning":["werdykt"],"partOfSpeech":"noun"},{"level":"B2","word":"verification","meaning":["sprawdzenie","potwierdzenie"],"partOfSpeech":"noun"},{"level":"B1","word":"verify","meaning":["sprawdzać","weryfikować","potwierdzać"],"partOfSpeech":"verb"},{"level":"C1","word":"veritable","meaning":["prawdziwy","istny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vermin","meaning":["szkodnik","robactwo"],"partOfSpeech":"noun"},{"level":"A2","word":"Vermont","meaning":["Vermont"],"partOfSpeech":"noun"},{"level":"B1","word":"vermouth","meaning":["wermut"],"partOfSpeech":"noun"},{"level":"C1","word":"vernacular","meaning":["dialekt","język miejscowy","miejscowy"],"partOfSpeech":"noun"},{"level":"B1","word":"versatile","meaning":["wszechstronny"],"partOfSpeech":"adjective"},{"level":"B1","word":"verse","meaning":["wiersz","zwrotka","strofa","werset"],"partOfSpeech":"noun"},{"level":"B1","word":"version","meaning":["wersja"],"partOfSpeech":"noun"},{"level":"B1","word":"versus","meaning":["przeciw","wobec"],"partOfSpeech":"preposition"},{"level":"C1","word":"vertebra","meaning":["krąg"],"partOfSpeech":"noun"},{"level":"B2","word":"vertebrate","meaning":["kręgowiec","kręgowy"],"partOfSpeech":"noun"},{"level":"A2","word":"vertical","meaning":["pionowy"],"partOfSpeech":"adjective"},{"level":"B2","word":"vertigo","meaning":["zawrót głowy"],"partOfSpeech":"noun"},{"level":"B2","word":"verve","meaning":["werwa"],"partOfSpeech":"noun"},{"level":"A1","word":"very","meaning":["bardzo","sam","właśnie ten"],"partOfSpeech":"adverb"},{"level":"A2","word":"vest","meaning":["podkoszulek","kamizelka"],"partOfSpeech":"noun"},{"level":"B2","word":"vested","meaning":["nabyty","wyposażony","przekazany"],"partOfSpeech":"adjective"},{"level":"B2","word":"vestibule","meaning":["westybul"],"partOfSpeech":"noun"},{"level":"C1","word":"vestige","meaning":["ślad","pozostałość"],"partOfSpeech":"noun"},{"level":"C1","word":"vestry","meaning":["zakrystia"],"partOfSpeech":"noun"},{"level":"A2","word":"vet","meaning":["weterynarz","sprawdzać drobiazgowo"],"partOfSpeech":"noun"},{"level":"B1","word":"veteran","meaning":["weteran","kombatant","uczestnik wojny"],"partOfSpeech":"noun"},{"level":"B1","word":"veterinarian","meaning":["weterynarz"],"partOfSpeech":"noun"},{"level":"B1","word":"veterinary","meaning":["weterynaryjny","weterynarz"],"partOfSpeech":"adjective"},{"level":"B1","word":"veto","meaning":["weto","prawo weta","zakładać weto"],"partOfSpeech":"noun"},{"level":"B2","word":"vex","meaning":["irytować"],"partOfSpeech":"verb"},{"level":"B2","word":"vexed","meaning":["zirytowany","trudny","zawikłany"],"partOfSpeech":"adjective"},{"level":"B2","word":"VHF","meaning":["UKF","VHF"],"partOfSpeech":"noun"},{"level":"B1","word":"via","meaning":["przez"],"partOfSpeech":"preposition"},{"level":"B2","word":"viable","meaning":["możliwy do wykonania"],"partOfSpeech":"adjective"},{"level":"B2","word":"viaduct","meaning":["wiadukt"],"partOfSpeech":"noun"},{"level":"B1","word":"vibrant","meaning":["dynamiczny","przesycony energią","rozjarzony","jaskrawy","emocjonalny"],"partOfSpeech":"adjective"},{"level":"A2","word":"vibrate","meaning":["wibrować","drgać"],"partOfSpeech":"verb"},{"level":"B1","word":"vibration","meaning":["drganie","wibracja"],"partOfSpeech":"noun"},{"level":"B1","word":"vicar","meaning":["wikariusz","pastor"],"partOfSpeech":"noun"},{"level":"B2","word":"vicarage","meaning":["wikariat","plebania"],"partOfSpeech":"noun"},{"level":"C1","word":"vicarious","meaning":["pośredni","zastępczy"],"partOfSpeech":"adjective"},{"level":"B1","word":"vice","meaning":["wada","przestępstwo","występek","imadło"],"partOfSpeech":"noun"},{"level":"B2","word":"vice-","meaning":["wice","vice"],"partOfSpeech":"noun"},{"level":"B1","word":"vicinity","meaning":["bliskość","pobliże"],"partOfSpeech":"noun"},{"level":"B1","word":"vicious","meaning":["podstępny","występny"],"partOfSpeech":"adjective"},{"level":"A2","word":"victim","meaning":["ofiara"],"partOfSpeech":"noun"},{"level":"B2","word":"victimize","meaning":["represjonować"],"partOfSpeech":"verb"},{"level":"B1","word":"victor","meaning":["zwycięzca"],"partOfSpeech":"noun"},{"level":"B2","word":"Victorian","meaning":["wiktoriański"],"partOfSpeech":"noun"},{"level":"B2","word":"victorious","meaning":["zwycięski"],"partOfSpeech":"adjective"},{"level":"B1","word":"victory","meaning":["zwycięstwo"],"partOfSpeech":"noun"},{"level":"A2","word":"video","meaning":["video","wideo","nagranie wideo","nagrywać na wideo","magnetowid"],"partOfSpeech":"noun"},{"level":"B2","word":"vie","meaning":["rywalizować"],"partOfSpeech":"verb"},{"level":"A2","word":"Vienna","meaning":["Wiedeń"],"partOfSpeech":"noun"},{"level":"A2","word":"Vietnam","meaning":["Wietnam"],"partOfSpeech":"noun"},{"level":"A2","word":"Vietnamese","meaning":["wietnamski","Wietnamczyk"],"partOfSpeech":"adjective"},{"level":"B1","word":"view","meaning":["pogląd","opinia","widok","zapatrywać się","odbierać","oglądać"],"partOfSpeech":"noun"},{"level":"B1","word":"viewer","meaning":["widz","rzutnik"],"partOfSpeech":"noun"},{"level":"B2","word":"viewfinder","meaning":["wizjer"],"partOfSpeech":"noun"},{"level":"B2","word":"viewpoint","meaning":["punkt widzenia","punkt widokowy"],"partOfSpeech":"noun"},{"level":"B2","word":"vigil","meaning":["czuwanie"],"partOfSpeech":"noun"},{"level":"B2","word":"vigilant","meaning":["czujny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vigorous","meaning":["energiczny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vigour","meaning":["energia"],"partOfSpeech":"noun"},{"level":"B2","word":"vile","meaning":["niegodziwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"villa","meaning":["willa"],"partOfSpeech":"noun"},{"level":"A1","word":"village","meaning":["wioska"],"partOfSpeech":"noun"},{"level":"A2","word":"villager","meaning":["wieśniak","mieszkaniec wsi"],"partOfSpeech":"noun"},{"level":"B1","word":"villain","meaning":["łotr","czarny charakter"],"partOfSpeech":"noun"},{"level":"A2","word":"Vilnius","meaning":["Wilno"],"partOfSpeech":"noun"},{"level":"C1","word":"vindicate","meaning":["rekompensować","wybronić"],"partOfSpeech":"verb"},{"level":"B2","word":"vindictive","meaning":["mściwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"vine","meaning":["latorośl","winorośl"],"partOfSpeech":"noun"},{"level":"A1","word":"vinegar","meaning":["ocet"],"partOfSpeech":"noun"},{"level":"B1","word":"vineyard","meaning":["winnica"],"partOfSpeech":"noun"},{"level":"B1","word":"vintage","meaning":["z najlepszego okresu","wino z dobrego rocznika"],"partOfSpeech":"noun"},{"level":"B1","word":"vinyl","meaning":["winylowy","winyl"],"partOfSpeech":"noun"},{"level":"A2","word":"viola","meaning":["wiola","altówka"],"partOfSpeech":"noun"},{"level":"B2","word":"violate","meaning":["gwałcić","zakłócać","bezcześcić"],"partOfSpeech":"verb"},{"level":"B2","word":"violence","meaning":["przemoc","gwałtowność"],"partOfSpeech":"noun"},{"level":"B2","word":"violent","meaning":["gwałtowny","z użyciem siły","nagły","zbyt jaskrawy"],"partOfSpeech":"adjective"},{"level":"A2","word":"violet","meaning":["fiołek","fiolet","fioletowy"],"partOfSpeech":"noun"},{"level":"A2","word":"violin","meaning":["skrzypce"],"partOfSpeech":"noun"},{"level":"B1","word":"violinist","meaning":["skrzypek"],"partOfSpeech":"noun"},{"level":"B1","word":"VIP","meaning":["bardzo ważna osoba"],"partOfSpeech":"noun"},{"level":"B2","word":"viper","meaning":["żmija"],"partOfSpeech":"noun"},{"level":"B2","word":"virgin","meaning":["dziewica","dziewiczy"],"partOfSpeech":"noun"},{"level":"B1","word":"Virginia","meaning":["Wirginia"],"partOfSpeech":"noun"},{"level":"B1","word":"Virgo","meaning":["Panna"],"partOfSpeech":"noun"},{"level":"B2","word":"virile","meaning":["męski"],"partOfSpeech":"adjective"},{"level":"B1","word":"virtual","meaning":["faktyczny","właściwy"],"partOfSpeech":"adjective"},{"level":"B1","word":"virtually","meaning":["właściwie","na dobrą sprawę"],"partOfSpeech":"adverb"},{"level":"B2","word":"virtue","meaning":["cnota","zaleta"],"partOfSpeech":"noun"},{"level":"C1","word":"virtuoso","meaning":["wirtuoz"],"partOfSpeech":"noun"},{"level":"B2","word":"virtuous","meaning":["cnotliwy"],"partOfSpeech":"adjective"},{"level":"B2","word":"virulent","meaning":["jadowity","złośliwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"virus","meaning":["wirus"],"partOfSpeech":"noun"},{"level":"A2","word":"visa","meaning":["wiza"],"partOfSpeech":"noun"},{"level":"B1","word":"visibility","meaning":["widoczność"],"partOfSpeech":"noun"},{"level":"B1","word":"viewer","meaning":["widz","rzutnik"],"partOfSpeech":"noun"},{"level":"B2","word":"viewfinder","meaning":["wizjer"],"partOfSpeech":"noun"},{"level":"B2","word":"viewpoint","meaning":["punkt widzenia","punkt widokowy"],"partOfSpeech":"noun"},{"level":"B2","word":"vigil","meaning":["czuwanie"],"partOfSpeech":"noun"},{"level":"B2","word":"vigilant","meaning":["czujny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vigorous","meaning":["energiczny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vigour","meaning":["energia"],"partOfSpeech":"noun"},{"level":"B2","word":"vile","meaning":["niegodziwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"villa","meaning":["willa"],"partOfSpeech":"noun"},{"level":"A1","word":"village","meaning":["wioska"],"partOfSpeech":"noun"},{"level":"A2","word":"villager","meaning":["wieśniak","mieszkaniec wsi"],"partOfSpeech":"noun"},{"level":"B1","word":"villain","meaning":["łotr","czarny charakter"],"partOfSpeech":"noun"},{"level":"A2","word":"Vilnius","meaning":["Wilno"],"partOfSpeech":"noun"},{"level":"C1","word":"vindicate","meaning":["rekompensować","wybronić"],"partOfSpeech":"verb"},{"level":"B2","word":"vindictive","meaning":["mściwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"vine","meaning":["latorośl","winorośl"],"partOfSpeech":"noun"},{"level":"A1","word":"vinegar","meaning":["ocet"],"partOfSpeech":"noun"},{"level":"B1","word":"vineyard","meaning":["winnica"],"partOfSpeech":"noun"},{"level":"B1","word":"vintage","meaning":["z najlepszego okresu","wino z dobrego rocznika"],"partOfSpeech":"noun"},{"level":"B1","word":"vinyl","meaning":["winylowy","winyl"],"partOfSpeech":"noun"},{"level":"A2","word":"viola","meaning":["wiola","altówka"],"partOfSpeech":"noun"},{"level":"B2","word":"violate","meaning":["gwałcić","zakłócać","bezcześcić"],"partOfSpeech":"verb"},{"level":"B2","word":"violence","meaning":["przemoc","gwałtowność"],"partOfSpeech":"noun"},{"level":"B2","word":"violent","meaning":["gwałtowny","z użyciem siły","nagły","zbyt jaskrawy"],"partOfSpeech":"adjective"},{"level":"A2","word":"violet","meaning":["fiołek","fiolet","fioletowy"],"partOfSpeech":"noun"},{"level":"A2","word":"violin","meaning":["skrzypce"],"partOfSpeech":"noun"},{"level":"B1","word":"violinist","meaning":["skrzypek"],"partOfSpeech":"noun"},{"level":"B1","word":"VIP","meaning":["bardzo ważna osoba"],"partOfSpeech":"noun"},{"level":"B2","word":"viper","meaning":["żmija"],"partOfSpeech":"noun"},{"level":"B2","word":"virgin","meaning":["dziewica","dziewiczy"],"partOfSpeech":"noun"},{"level":"B1","word":"Virginia","meaning":["Wirginia"],"partOfSpeech":"noun"},{"level":"B1","word":"Virgo","meaning":["Panna"],"partOfSpeech":"noun"},{"level":"B2","word":"virile","meaning":["męski"],"partOfSpeech":"adjective"},{"level":"B1","word":"virtual","meaning":["faktyczny","właściwy"],"partOfSpeech":"adjective"},{"level":"B1","word":"virtually","meaning":["właściwie","na dobrą sprawę"],"partOfSpeech":"adverb"},{"level":"B2","word":"virtue","meaning":["cnota","zaleta"],"partOfSpeech":"noun"},{"level":"C1","word":"virtuoso","meaning":["wirtuoz"],"partOfSpeech":"noun"},{"level":"B2","word":"virtuous","meaning":["cnotliwy"],"partOfSpeech":"adjective"},{"level":"B2","word":"virulent","meaning":["jadowity","złośliwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"virus","meaning":["wirus"],"partOfSpeech":"noun"},{"level":"A2","word":"visa","meaning":["wiza"],"partOfSpeech":"noun"},{"level":"B1","word":"visibility","meaning":["widoczność"],"partOfSpeech":"noun"},{"level":"A2","word":"visible","meaning":["widoczny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vision","meaning":["obraz","wizja","widzenie"],"partOfSpeech":"noun"},{"level":"B2","word":"visionary","meaning":["wizjoner","wizjonerski","dalekowzroczny"],"partOfSpeech":"noun"},{"level":"A1","word":"visit","meaning":["odwiedzać","odwiedziny","pobyt"],"partOfSpeech":"noun"},{"level":"A1","word":"visitor","meaning":["gość","zwiedzający"],"partOfSpeech":"noun"},{"level":"B1","word":"visor","meaning":["przyłbica","daszek","osłona twarzy"],"partOfSpeech":"noun"},{"level":"B2","word":"vista","meaning":["obraz","perspektywa"],"partOfSpeech":"noun"},{"level":"B1","word":"visual","meaning":["wzrokowy","wizualny","wizualna pomoc szkolna","pomoc szkolna","monitor"],"partOfSpeech":"adjective"},{"level":"B2","word":"visualize","meaning":["unaoczniać sobie","unaoczniać","wyobrażać sobie","wyobrażać"],"partOfSpeech":"verb"},{"level":"B2","word":"vital","meaning":["niezbędny","zasadniczy","żywotny","witalny","wymiary kobiece","wymiary"],"partOfSpeech":"adjective"},{"level":"A2","word":"vitamin","meaning":["witamina"],"partOfSpeech":"noun"},{"level":"C1","word":"vitiate","meaning":["psuć","kazić"],"partOfSpeech":"verb"},{"level":"B2","word":"viva","meaning":["egzamin ustny"],"partOfSpeech":"noun"},{"level":"B2","word":"vivacious","meaning":["żywy","energiczny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vivid","meaning":["żywy"],"partOfSpeech":"adjective"},{"level":"C2","word":"viz.","meaning":["tzn.","to znaczy"],"partOfSpeech":"adverb"},{"level":"A2","word":"vocabulary","meaning":["słownictwo"],"partOfSpeech":"noun"},{"level":"B1","word":"vocal","meaning":["rozgłośny","wokalny","część wokalna","struny głosowe"],"partOfSpeech":"noun"},{"level":"B1","word":"vocalist","meaning":["wokalista"],"partOfSpeech":"noun"},{"level":"B2","word":"vocation","meaning":["powołanie"],"partOfSpeech":"noun"},{"level":"B2","word":"vocational","meaning":["zawodowy"],"partOfSpeech":"adjective"},{"level":"C1","word":"vociferous","meaning":["krzykliwy"],"partOfSpeech":"adjective"},{"level":"A2","word":"vodka","meaning":["wódka"],"partOfSpeech":"noun"},{"level":"B1","word":"vogue","meaning":["moda"],"partOfSpeech":"noun"},{"level":"A1","word":"voice","meaning":["głos","prawo głosu","strona","wyrażać","wygłaszać"],"partOfSpeech":"noun"},{"level":"B1","word":"vol.","meaning":["tom","objętość"],"partOfSpeech":"noun"},{"level":"B2","word":"volatile","meaning":["lotny","szybko zmieniający się"],"partOfSpeech":"adjective"},{"level":"B1","word":"volcanic","meaning":["wulkaniczny"],"partOfSpeech":"adjective"},{"level":"A2","word":"volcano","meaning":["wulkan"],"partOfSpeech":"noun"},{"level":"B2","word":"volley","meaning":["salwa","kanonada","wolej","odbijać wolejem"],"partOfSpeech":"noun"},{"level":"A2","word":"volleyball","meaning":["siatkówka","piłka siatkowa"],"partOfSpeech":"noun"},{"level":"B1","word":"volt","meaning":["wolt"],"partOfSpeech":"noun"},{"level":"B1","word":"voltage","meaning":["napięcie"],"partOfSpeech":"noun"},{"level":"C1","word":"volte-face","meaning":["radykalny zwrot"],"partOfSpeech":"noun"},{"level":"B2","word":"voluble","meaning":["wymowny"],"partOfSpeech":"adjective"},{"level":"B1","word":"volume","meaning":["książka","tom","objętość","ilość","zakres","natężenie głosu"],"partOfSpeech":"noun"},{"level":"B2","word":"voluminous","meaning":["obszerny"],"partOfSpeech":"adjective"},{"level":"B1","word":"voluntary","meaning":["ochotniczy","dobrowolny"],"partOfSpeech":"adjective"},{"level":"B1","word":"volunteer","meaning":["ochotnik","zgłaszać się na ochotnika","zgłaszać się dobrowolnie","oferować"],"partOfSpeech":"noun"},{"level":"B2","word":"voluptuous","meaning":["ponętny"],"partOfSpeech":"adjective"},{"level":"A2","word":"vomit","meaning":["zwracać","wymiotować","wymiociny"],"partOfSpeech":"noun"},{"level":"B2","word":"voracious","meaning":["żarłoczny"],"partOfSpeech":"adjective"},{"level":"B2","word":"vortex","meaning":["wir"],"partOfSpeech":"noun"},{"level":"A2","word":"vote","meaning":["głos","głosowanie","wybory","liczba głosów","prawo głosu","głosować"],"partOfSpeech":"noun"},{"level":"A2","word":"voter","meaning":["wyborca"],"partOfSpeech":"noun"},{"level":"B1","word":"vouch for","meaning":["ręczyć","zaręczać"],"partOfSpeech":"verb"},{"level":"B1","word":"voucher","meaning":["bon","bloczek"],"partOfSpeech":"noun"},{"level":"B1","word":"vow","meaning":["ślubować","ślub","przysięga"],"partOfSpeech":"noun"},{"level":"B2","word":"vowel","meaning":["samogłoska"],"partOfSpeech":"noun"},{"level":"B1","word":"voyage","meaning":["podróż morska"],"partOfSpeech":"noun"},{"level":"B1","word":"voyager","meaning":["podróżnik"],"partOfSpeech":"noun"},{"level":"B2","word":"VP","meaning":["wiceprezes","wiceprezydent"],"partOfSpeech":"noun"},{"level":"A2","word":"vs.","meaning":["przeciw","wobec"],"partOfSpeech":"preposition"},{"level":"B1","word":"vulgar","meaning":["wulgarny"],"partOfSpeech":"adjective"},{"level":"B2","word":"vulnerable","meaning":["wrażliwy","podatny na zranienie","podatny"],"partOfSpeech":"adjective"},{"level":"B1","word":"vulture","meaning":["sęp"],"partOfSpeech":"noun"}]
+[
+  {
+    "level": "B1",
+    "word": "vacancy",
+    "meaning": [
+      "wolne stanowisko",
+      "wolne miejsce"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vacant",
+    "meaning": [
+      "wolny",
+      "nie zajęty",
+      "rozproszony"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vacate",
+    "meaning": [
+      "zwalniać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vacation",
+    "meaning": [
+      "wakacje",
+      "urlop"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vaccinate",
+    "meaning": [
+      "szczepić"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vaccination",
+    "meaning": [
+      "szczepienie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vaccine",
+    "meaning": [
+      "szczepionka"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vacuum",
+    "meaning": [
+      "próżnia",
+      "pustka",
+      "odkurzacz",
+      "odkurzać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vagina",
+    "meaning": [
+      "pochwa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vaginal",
+    "meaning": [
+      "dopochwowy",
+      "pochwowy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vagrant",
+    "meaning": [
+      "włóczęga"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vague",
+    "meaning": [
+      "mętny",
+      "niejasny",
+      "niewyraźny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vain",
+    "meaning": [
+      "próżny",
+      "daremny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "valentine",
+    "meaning": [
+      "kartka z życzeniami na św. Walentego"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "valet",
+    "meaning": [
+      "lokaj"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "valiant",
+    "meaning": [
+      "bohaterski",
+      "dzielny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "valid",
+    "meaning": [
+      "ważny",
+      "uzasadniony"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "validate",
+    "meaning": [
+      "potwierdzać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "validity",
+    "meaning": [
+      "ważność"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "valley",
+    "meaning": [
+      "dolina"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "valour",
+    "meaning": [
+      "bohaterstwo",
+      "odwaga"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "valuable",
+    "meaning": [
+      "cenny",
+      "przedmioty wartościowe"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "valuation",
+    "meaning": [
+      "wycena",
+      "ocena"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "value",
+    "meaning": [
+      "wartość",
+      "zaleta",
+      "cenić",
+      "wyceniać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "value-added tax",
+    "meaning": [
+      "podatek od wartości dodanej",
+      "VAT"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "valued",
+    "meaning": [
+      "ceniony"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "valueless",
+    "meaning": [
+      "bezwartościowy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "valve",
+    "meaning": [
+      "zawór"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vampire",
+    "meaning": [
+      "wampir"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "van",
+    "meaning": [
+      "furgonetka"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vandal",
+    "meaning": [
+      "wandal"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vandalism",
+    "meaning": [
+      "wandalizm"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vandalize",
+    "meaning": [
+      "niszczyć po chuligańsku",
+      "niszczyć"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vanguard",
+    "meaning": [
+      "awangarda"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vanilla",
+    "meaning": [
+      "wanilia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vanish",
+    "meaning": [
+      "znikać",
+      "ginąć"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vanity",
+    "meaning": [
+      "próżność",
+      "kosmetyczka"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vanquish",
+    "meaning": [
+      "pokonywać doszczętnie",
+      "pokonywać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vantage point",
+    "meaning": [
+      "dobry punkt obserwacyjny",
+      "dobry punkt"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vapour",
+    "meaning": [
+      "para"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "variability",
+    "meaning": [
+      "zmienność"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "variable",
+    "meaning": [
+      "zmienny",
+      "zmienna"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "variant",
+    "meaning": [
+      "wariant",
+      "odmiana",
+      "wariantowy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "varicose veins",
+    "meaning": [
+      "żylaki"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "varied",
+    "meaning": [
+      "różnorodny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "variegated",
+    "meaning": [
+      "różnokolorowy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "variety",
+    "meaning": [
+      "różnorodność",
+      "rodzaj",
+      "odmiana",
+      "variété"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "various",
+    "meaning": [
+      "różnorodny",
+      "rozmaity"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "variously",
+    "meaning": [
+      "rozmaicie"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "varnish",
+    "meaning": [
+      "pokost",
+      "werniks",
+      "lakier",
+      "pokostować",
+      "werniksować"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vary",
+    "meaning": [
+      "różnić się",
+      "wahać się",
+      "zmieniać się",
+      "różnicować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vase",
+    "meaning": [
+      "wazon"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vast",
+    "meaning": [
+      "ogromny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vastly",
+    "meaning": [
+      "ogromnie",
+      "niebywale"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "VAT",
+    "meaning": [
+      "VAT",
+      "podatek od wartości dodanej",
+      "beczka",
+      "kadź"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vault",
+    "meaning": [
+      "skarbiec",
+      "krypta",
+      "sklepienie",
+      "przeskakiwać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "VCR",
+    "meaning": [
+      "magnetowid",
+      "video"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "VD",
+    "meaning": [
+      "choroba weneryczna"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "VDU",
+    "meaning": [
+      "monitor"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "veal",
+    "meaning": [
+      "cielęcina"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "veer",
+    "meaning": [
+      "zbaczać nagle",
+      "zbaczać",
+      "zmieniać kierunek"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "vegetable",
+    "meaning": [
+      "jarzyna",
+      "warzywo",
+      "roślinny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vegetarian",
+    "meaning": [
+      "jarosz",
+      "wegetarianin",
+      "jarski",
+      "wegetariański"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vegetate",
+    "meaning": [
+      "wegetować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vegetation",
+    "meaning": [
+      "roślinność",
+      "wegetacja"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vehemence",
+    "meaning": [
+      "zaciekłość",
+      "porywczość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vehement",
+    "meaning": [
+      "gwałtowny",
+      "zaciekły",
+      "porywczy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vehicle",
+    "meaning": [
+      "pojazd",
+      "środek",
+      "narzędzie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "veil",
+    "meaning": [
+      "welon",
+      "zasłona",
+      "zasłaniać welonem"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "veiled",
+    "meaning": [
+      "zawoalowany"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vein",
+    "meaning": [
+      "żyła",
+      "żyłka",
+      "styl",
+      "duch"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "velocity",
+    "meaning": [
+      "prędkość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "velvet",
+    "meaning": [
+      "aksamit"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "velvety",
+    "meaning": [
+      "aksamitny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "ven.",
+    "meaning": [
+      "czcigodny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vending machine",
+    "meaning": [
+      "automat",
+      "maszyna do sprzedaży"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vendor",
+    "meaning": [
+      "sprzedawca",
+      "kiosk"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "veneer",
+    "meaning": [
+      "warstwa",
+      "fornir",
+      "laminat",
+      "fornirować",
+      "okładać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "venerable",
+    "meaning": [
+      "czcigodny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "venereal",
+    "meaning": [
+      "weneryczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "venetian blind",
+    "meaning": [
+      "żaluzja nastawna",
+      "żaluzja"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "Venezuela",
+    "meaning": [
+      "Wenezuela"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Venezuelan",
+    "meaning": [
+      "wenezuelski",
+      "Wenezuelczyk"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vengeful",
+    "meaning": [
+      "mściwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "venison",
+    "meaning": [
+      "dziczyzna"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "venom",
+    "meaning": [
+      "jad"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "venomous",
+    "meaning": [
+      "jadowity"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vent",
+    "meaning": [
+      "otwór wentylacyjny",
+      "wylot",
+      "wyładowywać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "ventilate",
+    "meaning": [
+      "wentylować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "ventilation",
+    "meaning": [
+      "wentylacja"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "ventilator",
+    "meaning": [
+      "wywietrznik"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "ventriloquist",
+    "meaning": [
+      "brzuchomówca"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "venture",
+    "meaning": [
+      "ryzykowne przedsięwzięcie",
+      "przedsięwzięcie",
+      "puszczać się na ryzyko",
+      "ośmielać się",
+      "ryzykować"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "venue",
+    "meaning": [
+      "miejsce"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "veranda",
+    "meaning": [
+      "weranda"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "verb",
+    "meaning": [
+      "czasownik"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "verbal",
+    "meaning": [
+      "werbalny",
+      "słowny",
+      "czasownikowy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "verbatim",
+    "meaning": [
+      "dosłowny",
+      "dosłownie"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "verbose",
+    "meaning": [
+      "rozwlekły"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "verdict",
+    "meaning": [
+      "werdykt"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "verification",
+    "meaning": [
+      "sprawdzenie",
+      "potwierdzenie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "verify",
+    "meaning": [
+      "sprawdzać",
+      "weryfikować",
+      "potwierdzać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "veritable",
+    "meaning": [
+      "prawdziwy",
+      "istny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vermin",
+    "meaning": [
+      "szkodnik",
+      "robactwo"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Vermont",
+    "meaning": [
+      "Vermont"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vermouth",
+    "meaning": [
+      "wermut"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vernacular",
+    "meaning": [
+      "dialekt",
+      "język miejscowy",
+      "miejscowy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "versatile",
+    "meaning": [
+      "wszechstronny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "verse",
+    "meaning": [
+      "wiersz",
+      "zwrotka",
+      "strofa",
+      "werset"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "version",
+    "meaning": [
+      "wersja"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "versus",
+    "meaning": [
+      "przeciw",
+      "wobec"
+    ],
+    "partOfSpeech": [
+      "preposition"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vertebra",
+    "meaning": [
+      "krąg"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vertebrate",
+    "meaning": [
+      "kręgowiec",
+      "kręgowy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vertical",
+    "meaning": [
+      "pionowy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vertigo",
+    "meaning": [
+      "zawrót głowy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "verve",
+    "meaning": [
+      "werwa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "very",
+    "meaning": [
+      "bardzo",
+      "sam",
+      "właśnie ten"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vest",
+    "meaning": [
+      "podkoszulek",
+      "kamizelka"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vested",
+    "meaning": [
+      "nabyty",
+      "wyposażony",
+      "przekazany"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vestibule",
+    "meaning": [
+      "westybul"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vestige",
+    "meaning": [
+      "ślad",
+      "pozostałość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vestry",
+    "meaning": [
+      "zakrystia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vet",
+    "meaning": [
+      "weterynarz",
+      "sprawdzać drobiazgowo"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "veteran",
+    "meaning": [
+      "weteran",
+      "kombatant",
+      "uczestnik wojny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "veterinarian",
+    "meaning": [
+      "weterynarz"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "veterinary",
+    "meaning": [
+      "weterynaryjny",
+      "weterynarz"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "veto",
+    "meaning": [
+      "weto",
+      "prawo weta",
+      "zakładać weto"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vex",
+    "meaning": [
+      "irytować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vexed",
+    "meaning": [
+      "zirytowany",
+      "trudny",
+      "zawikłany"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "VHF",
+    "meaning": [
+      "UKF",
+      "VHF"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "via",
+    "meaning": [
+      "przez"
+    ],
+    "partOfSpeech": [
+      "preposition"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "viable",
+    "meaning": [
+      "możliwy do wykonania"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "viaduct",
+    "meaning": [
+      "wiadukt"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vibrant",
+    "meaning": [
+      "dynamiczny",
+      "przesycony energią",
+      "rozjarzony",
+      "jaskrawy",
+      "emocjonalny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vibrate",
+    "meaning": [
+      "wibrować",
+      "drgać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vibration",
+    "meaning": [
+      "drganie",
+      "wibracja"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vicar",
+    "meaning": [
+      "wikariusz",
+      "pastor"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vicarage",
+    "meaning": [
+      "wikariat",
+      "plebania"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vicarious",
+    "meaning": [
+      "pośredni",
+      "zastępczy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vice",
+    "meaning": [
+      "wada",
+      "przestępstwo",
+      "występek",
+      "imadło"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vice-",
+    "meaning": [
+      "wice",
+      "vice"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vicinity",
+    "meaning": [
+      "bliskość",
+      "pobliże"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vicious",
+    "meaning": [
+      "podstępny",
+      "występny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "victim",
+    "meaning": [
+      "ofiara"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "victimize",
+    "meaning": [
+      "represjonować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "victor",
+    "meaning": [
+      "zwycięzca"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "Victorian",
+    "meaning": [
+      "wiktoriański"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "victorious",
+    "meaning": [
+      "zwycięski"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "victory",
+    "meaning": [
+      "zwycięstwo"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "video",
+    "meaning": [
+      "video",
+      "wideo",
+      "nagranie wideo",
+      "nagrywać na wideo",
+      "magnetowid"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vie",
+    "meaning": [
+      "rywalizować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Vienna",
+    "meaning": [
+      "Wiedeń"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Vietnam",
+    "meaning": [
+      "Wietnam"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Vietnamese",
+    "meaning": [
+      "wietnamski",
+      "Wietnamczyk"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "view",
+    "meaning": [
+      "pogląd",
+      "opinia",
+      "widok",
+      "zapatrywać się",
+      "odbierać",
+      "oglądać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "viewer",
+    "meaning": [
+      "widz",
+      "rzutnik"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "viewfinder",
+    "meaning": [
+      "wizjer"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "viewpoint",
+    "meaning": [
+      "punkt widzenia",
+      "punkt widokowy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vigil",
+    "meaning": [
+      "czuwanie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vigilant",
+    "meaning": [
+      "czujny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vigorous",
+    "meaning": [
+      "energiczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vigour",
+    "meaning": [
+      "energia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vile",
+    "meaning": [
+      "niegodziwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "villa",
+    "meaning": [
+      "willa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "village",
+    "meaning": [
+      "wioska"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "villager",
+    "meaning": [
+      "wieśniak",
+      "mieszkaniec wsi"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "villain",
+    "meaning": [
+      "łotr",
+      "czarny charakter"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Vilnius",
+    "meaning": [
+      "Wilno"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vindicate",
+    "meaning": [
+      "rekompensować",
+      "wybronić"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vindictive",
+    "meaning": [
+      "mściwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vine",
+    "meaning": [
+      "latorośl",
+      "winorośl"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "vinegar",
+    "meaning": [
+      "ocet"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vineyard",
+    "meaning": [
+      "winnica"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vintage",
+    "meaning": [
+      "z najlepszego okresu",
+      "wino z dobrego rocznika"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vinyl",
+    "meaning": [
+      "winylowy",
+      "winyl"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "viola",
+    "meaning": [
+      "wiola",
+      "altówka"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "violate",
+    "meaning": [
+      "gwałcić",
+      "zakłócać",
+      "bezcześcić"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "violence",
+    "meaning": [
+      "przemoc",
+      "gwałtowność"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "violent",
+    "meaning": [
+      "gwałtowny",
+      "z użyciem siły",
+      "nagły",
+      "zbyt jaskrawy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "violet",
+    "meaning": [
+      "fiołek",
+      "fiolet",
+      "fioletowy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "violin",
+    "meaning": [
+      "skrzypce"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "violinist",
+    "meaning": [
+      "skrzypek"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "VIP",
+    "meaning": [
+      "bardzo ważna osoba"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "viper",
+    "meaning": [
+      "żmija"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "virgin",
+    "meaning": [
+      "dziewica",
+      "dziewiczy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "Virginia",
+    "meaning": [
+      "Wirginia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "Virgo",
+    "meaning": [
+      "Panna"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "virile",
+    "meaning": [
+      "męski"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "virtual",
+    "meaning": [
+      "faktyczny",
+      "właściwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "virtually",
+    "meaning": [
+      "właściwie",
+      "na dobrą sprawę"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "virtue",
+    "meaning": [
+      "cnota",
+      "zaleta"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "virtuoso",
+    "meaning": [
+      "wirtuoz"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "virtuous",
+    "meaning": [
+      "cnotliwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "virulent",
+    "meaning": [
+      "jadowity",
+      "złośliwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "virus",
+    "meaning": [
+      "wirus"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "visa",
+    "meaning": [
+      "wiza"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "visibility",
+    "meaning": [
+      "widoczność"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "visible",
+    "meaning": [
+      "widoczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vision",
+    "meaning": [
+      "obraz",
+      "wizja",
+      "widzenie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "visionary",
+    "meaning": [
+      "wizjoner",
+      "wizjonerski",
+      "dalekowzroczny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "visit",
+    "meaning": [
+      "odwiedzać",
+      "odwiedziny",
+      "pobyt"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "visitor",
+    "meaning": [
+      "gość",
+      "zwiedzający"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "visor",
+    "meaning": [
+      "przyłbica",
+      "daszek",
+      "osłona twarzy"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vista",
+    "meaning": [
+      "obraz",
+      "perspektywa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "visual",
+    "meaning": [
+      "wzrokowy",
+      "wizualny",
+      "wizualna pomoc szkolna",
+      "pomoc szkolna",
+      "monitor"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "visualize",
+    "meaning": [
+      "unaoczniać sobie",
+      "unaoczniać",
+      "wyobrażać sobie",
+      "wyobrażać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vital",
+    "meaning": [
+      "niezbędny",
+      "zasadniczy",
+      "żywotny",
+      "witalny",
+      "wymiary kobiece",
+      "wymiary"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vitamin",
+    "meaning": [
+      "witamina"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vitiate",
+    "meaning": [
+      "psuć",
+      "kazić"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "viva",
+    "meaning": [
+      "egzamin ustny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vivacious",
+    "meaning": [
+      "żywy",
+      "energiczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vivid",
+    "meaning": [
+      "żywy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "viz.",
+    "meaning": [
+      "tzn.",
+      "to znaczy"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vocabulary",
+    "meaning": [
+      "słownictwo"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vocal",
+    "meaning": [
+      "rozgłośny",
+      "wokalny",
+      "część wokalna",
+      "struny głosowe"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vocalist",
+    "meaning": [
+      "wokalista"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vocation",
+    "meaning": [
+      "powołanie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vocational",
+    "meaning": [
+      "zawodowy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "vociferous",
+    "meaning": [
+      "krzykliwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vodka",
+    "meaning": [
+      "wódka"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vogue",
+    "meaning": [
+      "moda"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "voice",
+    "meaning": [
+      "głos",
+      "prawo głosu",
+      "strona",
+      "wyrażać",
+      "wygłaszać"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vol.",
+    "meaning": [
+      "tom",
+      "objętość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "volatile",
+    "meaning": [
+      "lotny",
+      "szybko zmieniający się"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "volcanic",
+    "meaning": [
+      "wulkaniczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "volcano",
+    "meaning": [
+      "wulkan"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "volley",
+    "meaning": [
+      "salwa",
+      "kanonada",
+      "wolej",
+      "odbijać wolejem"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "volleyball",
+    "meaning": [
+      "siatkówka",
+      "piłka siatkowa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "volt",
+    "meaning": [
+      "wolt"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "voltage",
+    "meaning": [
+      "napięcie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "volte-face",
+    "meaning": [
+      "radykalny zwrot"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "voluble",
+    "meaning": [
+      "wymowny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "volume",
+    "meaning": [
+      "książka",
+      "tom",
+      "objętość",
+      "ilość",
+      "zakres",
+      "natężenie głosu"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "voluminous",
+    "meaning": [
+      "obszerny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "voluntary",
+    "meaning": [
+      "ochotniczy",
+      "dobrowolny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "volunteer",
+    "meaning": [
+      "ochotnik",
+      "zgłaszać się na ochotnika",
+      "zgłaszać się dobrowolnie",
+      "oferować"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "voluptuous",
+    "meaning": [
+      "ponętny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vomit",
+    "meaning": [
+      "zwracać",
+      "wymiotować",
+      "wymiociny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "voracious",
+    "meaning": [
+      "żarłoczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vortex",
+    "meaning": [
+      "wir"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vote",
+    "meaning": [
+      "głos",
+      "głosowanie",
+      "wybory",
+      "liczba głosów",
+      "prawo głosu",
+      "głosować"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "voter",
+    "meaning": [
+      "wyborca"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vouch for",
+    "meaning": [
+      "ręczyć",
+      "zaręczać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "voucher",
+    "meaning": [
+      "bon",
+      "bloczek"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vow",
+    "meaning": [
+      "ślubować",
+      "ślub",
+      "przysięga"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vowel",
+    "meaning": [
+      "samogłoska"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "voyage",
+    "meaning": [
+      "podróż morska"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "voyager",
+    "meaning": [
+      "podróżnik"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "VP",
+    "meaning": [
+      "wiceprezes",
+      "wiceprezydent"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "vs.",
+    "meaning": [
+      "przeciw",
+      "wobec"
+    ],
+    "partOfSpeech": [
+      "preposition"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vulgar",
+    "meaning": [
+      "wulgarny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "vulnerable",
+    "meaning": [
+      "wrażliwy",
+      "podatny na zranienie",
+      "podatny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "vulture",
+    "meaning": [
+      "sęp"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  }
+]
