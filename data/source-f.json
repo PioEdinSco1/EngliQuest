@@ -6736,15 +6736,10 @@
     "word": "friendly",
     "meaning": [
       "przyjazny",
-      "zaprzyjaźniony",
-      "przytulny",
-      "przyjacielski",
-      "spotkanie towarzyskie"
+      "życzliwy",
+      "przyjacielski"
     ],
-    "partOfSpeech": [
-      "adjective",
-      "noun"
-    ]
+    "partOfSpeech": "adjective"
   },
   {
     "level": "A2",
@@ -7072,8 +7067,7 @@
     "level": "A1",
     "word": "fruit",
     "meaning": [
-      "owoc",
-      "automat do gry"
+      "owoc"
     ],
     "partOfSpeech": "noun"
   },
@@ -7100,15 +7094,10 @@
     "word": "friendly",
     "meaning": [
       "przyjazny",
-      "zaprzyjaźniony",
-      "przytulny",
-      "przyjacielski",
-      "spotkanie towarzyskie"
+      "życzliwy",
+      "przyjacielski"
     ],
-    "partOfSpeech": [
-      "adjective",
-      "noun"
-    ]
+    "partOfSpeech": "adjective"
   },
   {
     "level": "A2",
@@ -7436,8 +7425,7 @@
     "level": "A1",
     "word": "fruit",
     "meaning": [
-      "owoc",
-      "automat do gry"
+      "owoc"
     ],
     "partOfSpeech": "noun"
   },
@@ -7575,10 +7563,7 @@
     "meaning": [
       "pełny",
       "wypełniony",
-      "prosto",
-      "pełnia",
-      "nabity",
-      "zapchany"
+      "całkowity"
     ],
     "partOfSpeech": [
       "adjective",
@@ -7607,14 +7592,12 @@
     "level": "B1",
     "word": "full-time",
     "meaning": [
-      "pełnowymiarowy",
       "w pełnym wymiarze godzin",
-      "koniec gry"
+      "pełnoetatowy"
     ],
     "partOfSpeech": [
       "adjective",
-      "adverb",
-      "noun"
+      "adverb"
     ]
   },
   {
