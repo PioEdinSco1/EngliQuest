@@ -108,7 +108,7 @@ footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
    <div>
     <label for="tense">Wybierz czas (dla modułu czasów)</label>
     <select id="tense">
-     <option>Present Simple</option><option>Present Continuous</option>
+     <option value="all">Wszystkie 12 czasów</option><option>Present Simple</option><option>Present Continuous</option>
      <option>Present Perfect</option><option>Present Perfect Continuous</option>
      <option>Past Simple</option><option>Past Continuous</option>
      <option>Past Perfect</option><option>Past Perfect Continuous</option>
@@ -204,7 +204,7 @@ function makeTenseQuestions(lv){
  C1:["The board","They","I","She","We","The institution","The proposal","He","It","The investigators","The administration","You"],
  C2:["The delegation","They","I","She","We","The commission","The framework","He","It","The scholars","The consortium","You"]
  };
- return tenseExamples.map((item,i)=>({tense:tenseNames[i],q:item[0],a:item[1],o:shuffle([item[1],...item[2]]),c:0,level:lv,subject:substitutions[lv][i]})).map(item=>({...item,q:item.q.replace(/^(He|They|I|She|We|The train|At eight yesterday, I|This time tomorrow, we|By Friday, she|By June, they)/,item.subject)}));
+ return tenseExamples.map((item,i)=>{const options=shuffle([item[1],...item[2]]);return {tense:tenseNames[i],q:item[0],a:item[1],o:options,c:options.indexOf(item[1]),level:lv,subject:substitutions[lv][i]};}).map(item=>({...item,q:item.q.replace(/^(He|They|I|She|We|The train|At eight yesterday, I|This time tomorrow, we|By Friday, she|By June, they)/,item.subject)}));
 }
 
 let level="A1",mode="words",questions=[],index=0,right=0,wrong=0,answered=false,timer=null,timeLeft=0,missed=[];
@@ -282,7 +282,7 @@ function startGame(){
    questions=shuffle(sentenceBank[level]).slice(0,Math.min(Number(amount.value)||10,sentenceBank[level].length)).map(item=>({q:direction==="pl-en"?item[0]:item[1],a:direction==="pl-en"?item[1]:item[0],accepted:[direction==="pl-en"?item[1]:item[0]],direction}));
   }else{
    const selected=document.getElementById("tense").value;
-   questions=makeTenseQuestions(level).filter(item=>item.tense===selected);
+   questions=makeTenseQuestions(level).filter(item=>selected==="all"||item.tense===selected);
   }
   if(!questions.length){alert("Brak pytań dla wybranego poziomu i ustawień.");return;}
  }
