@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EngliQuest – Learn English</title>
+<style>
+:root{--bg:#07152e;--panel:#102544;--panel2:#173354;--text:#f4f7ff;--muted:#a9bad3;--green:#25d69a;--blue:#4798ff;--purple:#9b7bff;--orange:#ffb454}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(circle at top right,#173b65,#07152e 55%);color:var(--text);font-family:Arial,sans-serif;min-height:100vh}
+header{padding:22px 5%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #294361}
+.logo{font-size:27px;font-weight:800;letter-spacing:.5px}.logo span{color:var(--green)}
+.tag{color:var(--muted);font-size:13px}
+main{max-width:1180px;margin:auto;padding:30px 22px}
+.hero{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:28px}
+h1{font-size:36px;margin:0 0 10px}.hero p{color:var(--muted);margin:0;line-height:1.5}
+.uk{font-size:65px}
+.panel{background:linear-gradient(145deg,#142e4e,#0e213b);border:1px solid #294563;border-radius:18px;padding:22px;margin-bottom:22px;box-shadow:0 12px 35px #0003}
+h2{font-size:19px;margin:0 0 17px}
+.levels,.modules{display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
+.level{border:1px solid #365474;background:#173354;color:white;border-radius:13px;padding:16px 8px;font-size:19px;font-weight:bold;cursor:pointer}
+.level small{display:block;font-size:11px;color:#b5c8df;margin-top:6px}
+.level.active{background:#174f54;border:2px solid var(--green);color:#70f2c2}
+.modules{grid-template-columns:repeat(4,1fr)}
+.module{border:1px solid #365474;background:#173354;border-radius:15px;padding:19px 14px;cursor:pointer;text-align:left;color:white;min-height:130px}
+.module:hover,.level:hover{border-color:var(--green);transform:translateY(-2px)}
+.module.active{border:2px solid var(--green);background:#17464b}
+.emoji{font-size:28px;display:block;margin-bottom:12px}
+.module strong{display:block;font-size:15px;margin-bottom:7px}
+.module small{color:var(--muted);line-height:1.4}
+.controls{display:flex;gap:14px;align-items:end;flex-wrap:wrap}
+label{display:block;color:var(--muted);font-size:13px;margin-bottom:8px}
+select,input{background:#0a1b32;color:white;border:1px solid #45617e;border-radius:9px;padding:12px;font-size:15px}
+button.primary{background:var(--green);color:#06251d;border:0;border-radius:10px;padding:13px 22px;font-weight:bold;font-size:15px;cursor:pointer}
+button.secondary{background:#294563;color:white;border:1px solid #45617e;border-radius:10px;padding:11px 17px;cursor:pointer}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.stat{background:#0c2039;border-radius:12px;padding:16px}
+.stat strong{display:block;font-size:26px;color:var(--green);margin-bottom:5px}
+.stat small{color:var(--muted)}
+#game{display:none}
+.question{font-size:30px;text-align:center;margin:25px 0 8px}
+.translation{text-align:center;color:var(--muted);margin-bottom:24px}
+.answers{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.answer{background:#193858;border:1px solid #45617e;border-radius:12px;color:white;padding:17px;text-align:left;font-size:17px;cursor:pointer}
+.answer:hover{border-color:var(--blue)}
+.answer.correct{background:#145b43;border:2px solid #28d69a}
+.answer.wrong{background:#692d3a;border:2px solid #ff6377}
+.feedback{margin-top:18px;padding:15px;border-radius:10px;background:#0b2038;color:#dceaff;line-height:1.7}
+.progress{height:8px;background:#263e5a;border-radius:9px;margin:16px 0;overflow:hidden}
+.progress div{height:100%;background:var(--green);width:0}
+.topline{display:flex;justify-content:space-between;color:var(--muted);font-size:13px}
+.history{color:var(--muted);line-height:1.8}
+footer{text-align:center;color:#8197b4;padding:25px;font-size:12px}
+@media(max-width:750px){.levels{grid-template-columns:repeat(3,1fr)}.modules{grid-template-columns:repeat(2,1fr)}.stats{grid-template-columns:repeat(2,1fr)}.hero{align-items:flex-start}.uk{font-size:43px}h1{font-size:28px}}
+@media(max-width:420px){.answers{grid-template-columns:1fr}.modules{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header>
+ <div class="logo">🇬🇧 Engli<span>Quest</span></div>
+ <div class="tag">YOUR ENGLISH JOURNEY</div>
+</header>
+<main>
+ <section class="hero">
+  <div>
+   <h1>Witaj w EngliQuest!</h1>
+   <p>Ucz się angielskiego krok po kroku.<br>Wybierz poziom i rozpocznij swoją przygodę.</p>
+  </div>
+  <div class="uk">🇬🇧</div>
+ </section>
+
+ <section class="panel">
+  <h2>🎯 Wybierz poziom języka</h2>
+  <div class="levels" id="levels">
+   <button class="level active" data-level="A1">A1<small>Beginner</small></button>
+   <button class="level" data-level="A2">A2<small>Elementary</small></button>
+   <button class="level" data-level="B1">B1<small>Intermediate</small></button>
+   <button class="level" data-level="B2">B2<small>Upper Intermediate</small></button>
+   <button class="level" data-level="C1">C1<small>Advanced</small></button>
+   <button class="level" data-level="C2">C2<small>Proficiency</small></button>
+  </div>
+ </section>
+
+ <section class="panel">
+  <h2>📚 Wybierz moduł nauki</h2>
+  <div class="modules" id="modules">
+   <button class="module active" data-mode="words"><span class="emoji">📖</span><strong>Nauka słówek</strong><small>Angielski i polski</small></button>
+   <button class="module" data-mode="spelling"><span class="emoji">✍️</span><strong>Pisownia słów</strong><small>Wpisuj angielskie słowa</small></button>
+   <button class="module" data-mode="sentences"><span class="emoji">💬</span><strong>Tłumaczenie zdań</strong><small>Angielski na polski</small></button>
+   <button class="module" data-mode="tenses"><span class="emoji">⏳</span><strong>Czasy angielskie</strong><small>12 czasów do ćwiczenia</small></button>
+  </div>
+ </section>
+
+ <section class="panel">
+  <h2>⚙️ Ustawienia sesji</h2>
+  <div class="controls">
+   <div>
+    <label for="amount">Liczba pytań</label>
+    <select id="amount"></select>
+   </div>
+   <div>
+    <label for="tense">Wybierz czas (dla modułu czasów)</label>
+    <select id="tense">
+     <option>Present Simple</option><option>Present Continuous</option>
+     <option>Present Perfect</option><option>Present Perfect Continuous</option>
+     <option>Past Simple</option><option>Past Continuous</option>
+     <option>Past Perfect</option><option>Past Perfect Continuous</option>
+     <option>Future Simple</option><option>Future Continuous</option>
+     <option>Future Perfect</option><option>Future Perfect Continuous</option>
+    </select>
+   </div>
+   <button class="primary" onclick="startGame()">Zacznij naukę →</button>
+  </div>
+ </section>
+
+ <section class="panel" id="game">
+  <div class="topline"><span id="gameTitle">A1 • Nauka słówek</span><span id="counter">Pytanie 1</span></div>
+  <div class="progress"><div id="bar"></div></div>
+  <div class="topline"><span id="timer">Czas: bez limitu</span><span id="score">Poprawne: 0 • Błędne: 0</span></div>
+  <div class="question" id="question"></div>
+  <div class="translation" id="translation"></div>
+  <div class="answers" id="answers"></div>
+  <div id="feedback"></div>
+  <div style="text-align:center;margin-top:18px">
+   <button class="primary" id="next" onclick="nextQuestion()" style="display:none">Następne pytanie →</button>
+  </div>
+ </section>
+
+ <section class="panel">
+  <h2>📊 Twoje statystyki</h2>
+  <div class="stats">
+   <div class="stat"><strong id="total">0</strong><small>Wykonane pytania</small></div>
+   <div class="stat"><strong id="right">0</strong><small>Poprawne odpowiedzi</small></div>
+   <div class="stat"><strong id="wrong">0</strong><small>Błędne odpowiedzi</small></div>
+   <div class="stat"><strong id="percent">0%</strong><small>Skuteczność</small></div>
+  </div>
+ </section>
+
+ <section class="panel">
+  <h2>📈 Historia nauki</h2>
+  <div class="history" id="history">Twoja historia nauki pojawi się tutaj po pierwszej sesji.</div>
+  <button class="secondary" onclick="showMistakes()" style="margin-top:12px">Powtórz moje błędy</button>
+  <div id="mistakes" class="history"></div>
+ </section>
+</main>
+<footer>EngliQuest • Learn English at your own pace 🇬🇧</footer>
+
+<script>
+const bank={
+ words:[
+  {q:"Dom",a:"House",o:["House","Horse","Home","Mouse"],tr:["dom (budynek)","koń","dom (miejsce, w którym mieszkamy)","mysz"],c:0},
+  {q:"Jabłko",a:"Apple",o:["April","Apple","Apply","Angle"],tr:["kwiecień","jabłko","stosować","kąt"],c:1},
+  {q:"Szczęśliwy",a:"Happy",o:["Hungry","Angry","Happy","Heavy"],tr:["głodny","zły","szczęśliwy","ciężki"],c:2},
+  {q:"Woda",a:"Water",o:["Waiter","Winter","Water","Whether"],tr:["kelner","zima","woda","czy"],c:2}
+ ],
+ spelling:[
+  {q:"Dom",a:"House",o:["House"],tr:["House – dom"],c:0},
+  {q:"Jabłko",a:"Apple",o:["Apple"],tr:["Apple – jabłko"],c:0}
+ ],
+ sentences:[
+  {q:"I have a red car.",a:"Mam czerwony samochód.",o:["Mam czerwony samochód.","Mam niebieski dom.","Ona ma czerwony samochód.","Lubię czerwone jabłka."],tr:["Mam czerwony samochód.","Mam niebieski dom.","Ona ma czerwony samochód.","Lubię czerwone jabłka."],c:0}
+ ],
+ tenses:[
+  {q:"She ___ to school every day.",a:"goes",o:["go","going","goes","gone"],tr:["iść","idąc","chodzi","poszedł"],c:2}
+ ]
+};
+let level="A1",mode="words",questions=[],index=0,right=0,wrong=0,answered=false,timer=null,timeLeft=0,missed=[];
+let totals=JSON.parse(localStorage.getItem("eqTotals")||'{"total":0,"right":0,"wrong":0}');
+let history=JSON.parse(localStorage.getItem("eqHistory")||"[]");
+let mistakes=JSON.parse(localStorage.getItem("eqMistakes")||"[]");
+
+const amount=document.getElementById("amount");
+for(let n=50;n<=1000;n+=50){let op=document.createElement("option");op.value=n;op.textContent=n+" pytań";amount.appendChild(op)}
+document.querySelectorAll(".level").forEach(b=>b.onclick=()=>{document.querySelectorAll(".level").forEach(x=>x.classList.remove("active"));b.classList.add("active");level=b.dataset.level});
+document.querySelectorAll(".module").forEach(b=>b.onclick=()=>{document.querySelectorAll(".module").forEach(x=>x.classList.remove("active"));b.classList.add("active");mode=b.dataset.mode});
+
+function updateStats(){
+ document.getElementById("total").textContent=totals.total;
+ document.getElementById("right").textContent=totals.right;
+ document.getElementById("wrong").textContent=totals.wrong;
+ document.getElementById("percent").textContent=totals.total?Math.round(totals.right/totals.total*100)+"%":"0%";
+ document.getElementById("history").innerHTML=history.length?history.slice(0,10).map(x=>x.date+" • "+x.level+" • "+x.mode+" • "+x.right+"/"+x.total+" poprawnych").join("<br>"):"Twoja historia nauki pojawi się tutaj po pierwszej sesji.";
+}
+function startGame(){
+ clearInterval(timer);right=0;wrong=0;index=0;missed=[];
+ const source=bank[mode];
+ questions=Array.from({length:Math.min(Number(amount.value),source.length)},(_,i)=>source[i%source.length]);
+ document.getElementById("game").style.display="block";
+ document.getElementById("game").scrollIntoView({behavior:"smooth"});
+ document.getElementById("gameTitle").textContent=level+" • "+({words:"Nauka słówek",spelling:"Pisownia słów",sentences:"Tłumaczenie zdań",tenses:"Czasy angielskie"}[mode]);
+ nextQuestion();
+}
+function nextQuestion(){
+ clearInterval(timer);
+ if(index>=questions.length){finish();return}
+ answered=false;
+ const q=questions[index];
+ document.getElementById("counter").textContent="Pytanie "+(index+1)+" / "+questions.length;
+ document.getElementById("bar").style.width=(index/questions.length*100)+"%";
+ document.getElementById("score").textContent="Poprawne: "+right+" • Błędne: "+wrong;
+ document.getElementById("question").textContent=q.q;
+ document.getElementById("translation").textContent=mode==="words"?"Wybierz angielskie tłumaczenie":mode==="spelling"?"Wpisz odpowiedź po angielsku":mode==="sentences"?"Wybierz dokładne tłumaczenie po polsku":"Wybierz poprawną formę";
+ document.getElementById("feedback").innerHTML="";
+ document.getElementById("next").style.display="none";
+ document.getElementById("timer").textContent=" ";
+ const answers=document.getElementById("answers");answers.innerHTML="";
+ if(mode==="spelling"){
+  const input=document.createElement("input");input.placeholder="Wpisz po angielsku";input.id="typed";input.style.width="100%";answers.appendChild(input);
+  const btn=document.createElement("button");btn.className="primary";btn.textContent="Sprawdź";btn.onclick=()=>checkTyped();answers.appendChild(btn);
+ }else{
+  q.o.forEach((v,i)=>{let b=document.createElement("button");b.className="answer";b.textContent=v;b.onclick=()=>check(i);answers.appendChild(b)});
+ }
+ if(mode==="sentences"||mode==="tenses"||mode==="spelling"){
+  timeLeft=mode==="sentences"?15:10;
+  document.getElementById("timer").textContent="Czas: "+timeLeft+" s";
+  timer=setInterval(()=>{timeLeft--;document.getElementById("timer").textContent="Czas: "+timeLeft+" s";if(timeLeft<=0){clearInterval(timer);if(!answered){if(mode==="spelling")checkTyped(true);else check(-1)}}},1000);
+ }else document.getElementById("timer").textContent="Bez limitu czasu";
+}
+function checkTyped(timeout=false){
+ if(answered)return;
+ let val=document.getElementById("typed").value.trim();
+ const q=questions[index];
+ const ok=!timeout&&val.toLowerCase()===q.a.toLowerCase();
+ record(ok,q);
+ document.getElementById("feedback").innerHTML=(ok?"<b style='color:#25d69a'>Poprawna odpowiedź!</b>":"<b style='color:#ff7185'>Niepoprawna odpowiedź.</b>")+"<br>Poprawnie: "+q.a;
+ document.getElementById("next").style.display="inline-block";
+}
+function check(i){
+ if(answered)return;
+ const q=questions[index],ok=i===q.c;
+ document.querySelectorAll(".answer").forEach((b,n)=>{b.disabled=true;if(n===q.c)b.classList.add("correct");if(n===i&&!ok)b.classList.add("wrong")});
+ record(ok,q);
+ let details=q.o.map((v,n)=>"<div>"+v+" — "+q.tr[n]+(n===q.c?" ✓":"")+"</div>").join("");
+ document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b><br>"+details+"</div>";
+ document.getElementById("next").style.display="inline-block";
+}
+function record(ok,q){
+ answered=true;clearInterval(timer);
+ if(ok)right++;else{wrong++;missed.push(q);mistakes.unshift({level,mode,question:q.q,answer:q.a})}
+ totals.total++;if(ok)totals.right++;else totals.wrong++;
+ localStorage.setItem("eqTotals",JSON.stringify(totals));
+ localStorage.setItem("eqMistakes",JSON.stringify(mistakes));
+ document.getElementById("score").textContent="Poprawne: "+right+" • Błędne: "+wrong;
+ updateStats();
+}
+function finish(){
+ clearInterval(timer);
+ history.unshift({date:new Date().toLocaleString("pl-PL"),level,mode,right,total:questions.length});
+ localStorage.setItem("eqHistory",JSON.stringify(history));
+ updateStats();
+ document.getElementById("bar").style.width="100%";
+ document.getElementById("question").textContent="Koniec sesji! 🎉";
+ document.getElementById("translation").textContent="Twoje podsumowanie";
+ document.getElementById("answers").innerHTML="";
+ document.getElementById("timer").textContent="";
+ document.getElementById("feedback").innerHTML="<div class='feedback'>Poprawne: "+right+"<br>Błędne: "+wrong+"<br>Skuteczność: "+Math.round(right/questions.length*100)+"%<br><br>"+(missed.length?"Błędy zostały zapisane do powtórki.":"Świetna praca – bez błędów!")+"</div>";
+ document.getElementById("next").style.display="none";
+}
+function showMistakes(){
+ const box=document.getElementById("mistakes");
+ box.innerHTML=mistakes.length?mistakes.slice(0,30).map(m=>"<div>"+m.level+" • "+m.question+" → "+m.answer+"</div>").join(""):"Nie masz jeszcze zapisanych błędów.";
+}
+updateStats();
+</script>
+</body>
+</html>
