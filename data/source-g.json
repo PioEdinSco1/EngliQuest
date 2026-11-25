@@ -5818,5 +5818,49 @@
     "partOfSpeech": [
       "verb"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "gainsay",
+    "meaning": [
+      "zaprzeczać",
+      "kwestionować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "gallimaufry",
+    "meaning": [
+      "groch z kapustą",
+      "bezładna mieszanina"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "grandiloquent",
+    "meaning": [
+      "górnolotny",
+      "napuszony"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "hegemony",
+    "meaning": [
+      "hegemonia",
+      "dominacja"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
