@@ -7879,5 +7879,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "effulgent",
+    "meaning": [
+      "promienny",
+      "jaśniejący"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "encomium",
+    "meaning": [
+      "pochwała",
+      "panegiryk"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "ensconce",
+    "meaning": [
+      "usadowić",
+      "ulokować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "epistolary",
+    "meaning": [
+      "epistolarny",
+      "listowny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
