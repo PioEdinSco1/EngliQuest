@@ -168,11 +168,14 @@
     "level": "B1",
     "word": "umpteen",
     "meaning": [
-      "tysiąc",
-      "niezliczona ilość"
+      "mnóstwo",
+      "bardzo wiele",
+      "ileś tam"
     ],
     "partOfSpeech": [
-      "adjective"
+      "adjective",
+      "determiner",
+      "pronoun"
     ]
   },
   {
@@ -483,8 +486,8 @@
     "level": "B2",
     "word": "uncivilized",
     "meaning": [
-      "barbarzyński",
-      "nieludzki"
+      "niecywilizowany",
+      "barbarzyński"
     ],
     "partOfSpeech": [
       "adjective"
@@ -941,8 +944,9 @@
     "level": "B2",
     "word": "underprivileged",
     "meaning": [
-      "upośledzony",
-      "nie mający przywilejów"
+      "znajdujący się w trudnej sytuacji społecznej",
+      "pozbawiony przywilejów",
+      "upośledzony społecznie"
     ],
     "partOfSpeech": [
       "adjective"
@@ -1812,8 +1816,8 @@
     "level": "B2",
     "word": "unjustified",
     "meaning": [
-      "niezrozumiały",
-      "nieuzasadniony"
+      "nieuzasadniony",
+      "bezpodstawny"
     ],
     "partOfSpeech": [
       "adjective"
@@ -1995,8 +1999,9 @@
     "level": "C1",
     "word": "unmitigated",
     "meaning": [
-      "niepoprawny",
-      "całkowity"
+      "całkowity",
+      "zupełny",
+      "niezłagodzony"
     ],
     "partOfSpeech": [
       "adjective"
@@ -2267,7 +2272,9 @@
     "level": "B2",
     "word": "unreliable",
     "meaning": [
-      "nieodpowiedzialny"
+      "zawodny",
+      "niesolidny",
+      "niewiarygodny"
     ],
     "partOfSpeech": [
       "adjective"
@@ -2852,8 +2859,9 @@
     "level": "C1",
     "word": "unwitting",
     "meaning": [
-      "bezwolny",
-      "nieświadomy"
+      "nieświadomy",
+      "mimowolny",
+      "niezamierzony"
     ],
     "partOfSpeech": [
       "adjective"
