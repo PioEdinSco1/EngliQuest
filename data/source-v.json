@@ -2746,5 +2746,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "vacuous",
+    "meaning": [
+      "bezmyślny",
+      "pozbawiony treści"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "venal",
+    "meaning": [
+      "przekupny",
+      "sprzedajny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "veracity",
+    "meaning": [
+      "prawdomówność",
+      "zgodność z prawdą"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "vicissitude",
+    "meaning": [
+      "zmienność losu",
+      "koleje życia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
