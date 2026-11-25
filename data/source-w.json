@@ -2845,7 +2845,9 @@
     "meaning": [
       "umysłowy",
       "biurowy",
-      "pracujący w administracji"
+      "pracujący w administracji",
+      "pracownik umysłowy",
+      "pracownik biurowy"
     ],
     "partOfSpeech": [
       "adjective"
@@ -3340,9 +3342,17 @@
     "word": "wild",
     "meaning": [
       "dziki",
+      "rozszalały",
+      "dziki (o zwierzętach i roślinach żyjących w naturze)",
       "nieokiełznany",
       "szalony",
       "gwałtowny",
+      "dziwaczny",
+      "na oślep",
+      "na chybił trafił",
+      "dziki stan",
+      "pustkowia",
+      "odludzie",
       "nieprawdopodobny (np. przypuszczenie)"
     ],
     "partOfSpeech": [
