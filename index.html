@@ -262,17 +262,20 @@ function spellingSimilarity(a,b){
  }
  return 1-row[b.length]/Math.max(a.length,b.length,1);
 }
+function normalizeMeaningForDistractor(value){
+ return String(value||"").toLocaleLowerCase("pl").replace(/\([^)]*\)/g," ").replace(/[.,;:!?'"„”()\[\]{}]/g," ").replace(/\s+/g," ").trim();
+}
 function buildWordQuestion(entry,pool){
  const allMeanings=[...new Set(entry.meanings.map(x=>String(x).trim()).filter(Boolean))];
  const targetMeaning=allMeanings.join("; ")||entry.word;
- const candidates=pool.filter(x=>x.word.toLowerCase()!==entry.word.toLowerCase()&&!x.meanings.some(m=>allMeanings.some(target=>m.toLocaleLowerCase("pl")===target.toLocaleLowerCase("pl"))));
+ const targetKeys=new Set(allMeanings.map(normalizeMeaningForDistractor).filter(Boolean));
+ const candidates=pool.filter(x=>x.word.toLocaleLowerCase("en")!==entry.word.toLocaleLowerCase("en")&&!x.meanings.some(m=>targetKeys.has(normalizeMeaningForDistractor(m))));
  const samePos=candidates.filter(x=>entry.pos.length&&x.pos.some(p=>entry.pos.includes(p)));
  const target={A1:.28,A2:.36,B1:.44,B2:.52,C1:.60,C2:.68}[level]||.28;
  const ranked=list=>list.map(x=>({item:x,similarity:spellingSimilarity(entry.word,x.word)})).sort((a,b)=>b.similarity-a.similarity);
- const source=samePos.length>=3?samePos:candidates;
  let distractors=[];
  for(const threshold of [target,target-.12,target-.24,0]){
-  distractors=shuffle(ranked(source).filter(x=>x.similarity>=threshold).map(x=>x.item)).slice(0,3);
+  distractors=shuffle(ranked(samePos).filter(x=>x.similarity>=threshold).map(x=>x.item)).slice(0,3);
   if(distractors.length===3)break;
  }
  if(distractors.length<3)return null;
