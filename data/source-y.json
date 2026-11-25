@@ -522,5 +522,38 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "yokel",
+    "meaning": [
+      "wieśniak",
+      "prostak"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "yore",
+    "meaning": [
+      "dawne czasy",
+      "zamierzchła przeszłość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "yclept",
+    "meaning": [
+      "zwany",
+      "nazywany"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
