@@ -5081,7 +5081,7 @@
       "uff"
     ],
     "partOfSpeech": [
-      "exclamation"
+      "interjection"
     ]
   },
   {
@@ -7849,7 +7849,10 @@
       "grać",
       "odwaga"
     ],
-    "partOfSpeech": []
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
   },
   {
     "level": "A2",
@@ -8938,7 +8941,7 @@
       "fe"
     ],
     "partOfSpeech": [
-      "exclamation"
+      "interjection"
     ]
   },
   {
