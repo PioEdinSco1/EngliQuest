@@ -2844,8 +2844,8 @@
     "word": "white-collar",
     "meaning": [
       "umysłowy",
-      "administracyjny pracownik",
-      "administracyjny"
+      "biurowy",
+      "pracujący w administracji"
     ],
     "partOfSpeech": [
       "adjective"
@@ -3340,17 +3340,15 @@
     "word": "wild",
     "meaning": [
       "dziki",
-      "rozszalały",
-      "dziwaczny",
-      "na oślep",
-      "na chybił trafił",
-      "dziki stan",
-      "pustkowia",
-      "odludzie"
+      "nieokiełznany",
+      "szalony",
+      "gwałtowny",
+      "nieprawdopodobny (np. przypuszczenie)"
     ],
     "partOfSpeech": [
       "adjective",
-      "noun"
+      "noun",
+      "adverb"
     ]
   },
   {
@@ -3369,7 +3367,8 @@
     "level": "B2",
     "word": "wild-goose chase",
     "meaning": [
-      "poszukiwanie wczorajszego dnia"
+      "bezowocne poszukiwania",
+      "daremny trud"
     ],
     "partOfSpeech": [
       "noun"
@@ -3379,10 +3378,8 @@
     "level": "A2",
     "word": "wildlife",
     "meaning": [
-      "przyroda",
-      "zwierzęta",
-      "przyroda żyjące w stanie naturalnym",
-      "zwierzęta żyjące w stanie naturalnym"
+      "dzika przyroda",
+      "dzikie zwierzęta i rośliny"
     ],
     "partOfSpeech": [
       "noun"
@@ -4758,7 +4755,9 @@
     "level": "B1",
     "word": "workout",
     "meaning": [
-      "zaprawa"
+      "trening",
+      "ćwiczenia fizyczne",
+      "rozwiązanie (np. problemu)"
     ],
     "partOfSpeech": [
       "noun"
@@ -5039,11 +5038,12 @@
     "level": "A1",
     "word": "wow",
     "meaning": [
-      "oj",
-      "no no"
+      "wow!",
+      "łał!",
+      "niesamowite!"
     ],
     "partOfSpeech": [
-      "exclamation"
+      "interjection"
     ]
   },
   {
