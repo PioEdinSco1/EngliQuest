@@ -3669,5 +3669,38 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "unctuous",
+    "meaning": [
+      "namaszczony",
+      "przesadnie przymilny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "unfathomable",
+    "meaning": [
+      "niezgłębiony",
+      "niepojęty"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "upbraid",
+    "meaning": [
+      "ganić",
+      "strofować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
   }
 ]
