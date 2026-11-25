@@ -5486,5 +5486,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "labyrinthine",
+    "meaning": [
+      "labiryntowy",
+      "zawiły"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "lachrymose",
+    "meaning": [
+      "płaczliwy",
+      "skłonny do łez"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "largesse",
+    "meaning": [
+      "hojność",
+      "szczodrość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "liminal",
+    "meaning": [
+      "progowy",
+      "znajdujący się na granicy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
