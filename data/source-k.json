@@ -1060,5 +1060,49 @@
       "noun",
       "adjective"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "kaleidoscopic",
+    "meaning": [
+      "kalejdoskopowy",
+      "niezwykle różnorodny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "knavery",
+    "meaning": [
+      "szelmostwo",
+      "nieuczciwość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "kowtow",
+    "meaning": [
+      "płaszczyć się",
+      "uniżenie się podporządkować"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "kith",
+    "meaning": [
+      "przyjaciele",
+      "bliscy znajomi"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
