@@ -4971,10 +4971,11 @@
     "level": "B1",
     "word": "ltd.",
     "meaning": [
-      "z o.o.",
-      "z ograniczoną odpowiedzialnością"
+      "spółka z ograniczoną odpowiedzialnością (skrót od limited)",
+      "z ograniczoną odpowiedzialnością (skrót od limited)"
     ],
     "partOfSpeech": [
+      "noun",
       "adjective"
     ]
   },
