@@ -196,8 +196,7 @@ function approximateEnglish(word){
  return w.replace(/tion$/g,"szyn").replace(/ture$/g,"czer").replace(/ough/g,"af").replace(/igh/g,"aj").replace(/ee|ea/g,"i").replace(/oo/g,"u").replace(/ph/g,"f").replace(/sh/g,"sz").replace(/ch/g,"cz").replace(/th/g,"th").replace(/ng/g,"ng").replace(/qu/g,"kł").replace(/ck/g,"k").replace(/wh/g,"ł").replace(/wr/g,"r").replace(/kn/g,"n").replace(/c(?=[eiy])/g,"s").replace(/g(?=[eiy])/g,"dż").replace(/x/g,"ks").replace(/y$/g,"i").replace(/e$/g,"")||w;
 }
 function withPronunciation(value,enabled=true){
- if(!enabled||typeof value!=="string")return value;
- return value.replace(/[A-Za-z]+(?:[’'][A-Za-z]+)*/g,word=>word+" ("+(topicPronunciations[word.toLowerCase()]||approximateEnglish(word))+")");
+ return value;
 }
 function pronunciationLine(value){
  if(typeof value!=="string")return "";
