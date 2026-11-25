@@ -3525,5 +3525,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "neophyte",
+    "meaning": [
+      "nowicjusz",
+      "neofita"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "noisome",
+    "meaning": [
+      "odrażający",
+      "szkodliwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "nostrum",
+    "meaning": [
+      "cudowny środek",
+      "rzekome lekarstwo"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "numinous",
+    "meaning": [
+      "pełen tajemniczej wzniosłości",
+      "mistyczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
