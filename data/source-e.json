@@ -2769,11 +2769,11 @@
     "level": "B1",
     "word": "enc.",
     "meaning": [
-      "zał.",
-      "załączony",
-      "załącznik"
+      "załączony (skrót od enclosed)",
+      "załącznik (skrót używany w korespondencji)"
     ],
     "partOfSpeech": [
+      "adjective",
       "noun"
     ]
   },
@@ -2824,11 +2824,11 @@
     "level": "B1",
     "word": "encl.",
     "meaning": [
-      "zał.",
-      "załączony",
-      "załącznik"
+      "załączony (skrót od enclosed)",
+      "załącznik (skrót używany w korespondencji)"
     ],
     "partOfSpeech": [
+      "adjective",
       "noun"
     ]
   },
@@ -4480,7 +4480,7 @@
     "level": "A1",
     "word": "ER",
     "meaning": [
-      "Królowa Elżbieta"
+      "Elizabeth Regina – Elżbieta, królowa (łaciński tytuł używany w monogramie królewskim)"
     ],
     "partOfSpeech": [
       "noun"
