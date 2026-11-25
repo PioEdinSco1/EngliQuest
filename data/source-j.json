@@ -1471,5 +1471,49 @@
     "partOfSpeech": [
       "verb"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "jejune",
+    "meaning": [
+      "jałowy",
+      "niedojrzały"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "jingoism",
+    "meaning": [
+      "szowinizm",
+      "skrajny nacjonalizm"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "jocose",
+    "meaning": [
+      "żartobliwy",
+      "dowcipny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "jocularity",
+    "meaning": [
+      "żartobliwość",
+      "dowcipkowanie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
