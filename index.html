@@ -275,7 +275,7 @@ function buildWordQuestion(entry,pool){
  const ranked=list=>list.map(x=>({item:x,similarity:spellingSimilarity(entry.word,x.word)})).sort((a,b)=>b.similarity-a.similarity);
  let distractors=[];
  for(const threshold of [target,target-.12,target-.24,0]){
-  distractors=shuffle(ranked(samePos).filter(x=>x.similarity>=threshold).map(x=>x.item)).slice(0,3);
+  distractors=ranked(samePos).filter(x=>x.similarity>=threshold).slice(0,3).map(x=>x.item);
   if(distractors.length===3)break;
  }
  if(distractors.length<3)return null;
