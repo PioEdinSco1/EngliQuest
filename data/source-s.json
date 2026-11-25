@@ -20605,5 +20605,49 @@
     "partOfSpeech": [
       "verb"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "sagacious",
+    "meaning": [
+      "przenikliwy",
+      "mądry"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "serendipity",
+    "meaning": [
+      "szczęśliwy zbieg okoliczności",
+      "przypadkowe odkrycie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "sinecure",
+    "meaning": [
+      "synekura",
+      "dobrze płatna posada bez obowiązków"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "solipsism",
+    "meaning": [
+      "solipsyzm",
+      "pogląd uznający własny umysł za jedyną pewną rzeczywistość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
