@@ -250,10 +250,13 @@
     "word": "yes",
     "meaning": [
       "tak",
-      "nie"
+      "owszem",
+      "zgoda"
     ],
     "partOfSpeech": [
-      "exclamation"
+      "adverb",
+      "interjection",
+      "noun"
     ]
   },
   {
