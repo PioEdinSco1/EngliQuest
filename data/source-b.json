@@ -10527,5 +10527,71 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "baleful",
+    "meaning": [
+      "złowrogi",
+      "złowieszczy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "bane",
+    "meaning": [
+      "zmora",
+      "przyczyna zguby"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "bellicose",
+    "meaning": [
+      "wojowniczy",
+      "krewki"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "bravura",
+    "meaning": [
+      "brawura",
+      "wirtuozeria"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "brinkmanship",
+    "meaning": [
+      "polityka balansowania na krawędzi",
+      "ryzykowna gra"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "burgeon",
+    "meaning": [
+      "gwałtownie się rozwijać",
+      "rozkwitać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
   }
 ]
