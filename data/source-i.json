@@ -8780,5 +8780,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "iconoclast",
+    "meaning": [
+      "burzyciel ikon",
+      "przeciwnik utartych poglądów"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "impecunious",
+    "meaning": [
+      "niezamożny",
+      "bez grosza"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "inchoate",
+    "meaning": [
+      "niewykształcony",
+      "dopiero się kształtujący"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "indefatigable",
+    "meaning": [
+      "niestrudzony",
+      "niezmordowany"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
