@@ -5390,5 +5390,93 @@
       "adverb",
       "preposition"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "abjure",
+    "meaning": [
+      "wyrzekać się",
+      "odżegnywać się"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "abrogate",
+    "meaning": [
+      "uchylać",
+      "unieważniać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "abstruse",
+    "meaning": [
+      "zawiły",
+      "trudny do zrozumienia"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "acquiesce",
+    "meaning": [
+      "przystawać",
+      "zgadzać się bez sprzeciwu"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "acquiescence",
+    "meaning": [
+      "przyzwolenie",
+      "bierna zgoda"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "acumen",
+    "meaning": [
+      "przenikliwość",
+      "bystrość umysłu"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "adulation",
+    "meaning": [
+      "uwielbienie",
+      "przesadne pochlebstwa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "alacrity",
+    "meaning": [
+      "skwapliwość",
+      "ochoczość"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
