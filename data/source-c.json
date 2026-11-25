@@ -3281,9 +3281,8 @@
     "level": "B1",
     "word": "cert.",
     "meaning": [
-      "świadectwo",
-      "poświadczony",
-      "zaświadczony"
+      "certyfikat (skrót od certificate)",
+      "poświadczony, certyfikowany (skrót od certified)"
     ],
     "partOfSpeech": [
       "noun",
@@ -12520,12 +12519,12 @@
     "level": "B1",
     "word": "cont.",
     "meaning": [
-      "zawartość",
-      "c.d.",
-      "ciąg dalszy"
+      "ciąg dalszy",
+      "kontynuacja (skrót od continued)"
     ],
     "partOfSpeech": [
-      "noun"
+      "noun",
+      "adjective"
     ]
   },
   {
