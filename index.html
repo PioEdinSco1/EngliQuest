@@ -308,6 +308,10 @@ function startGame(){
  document.getElementById("game").style.display="block";
  document.getElementById("game").scrollIntoView({behavior:"smooth"});
  document.getElementById("gameTitle").textContent=mode.startsWith("topic-")?"TEMATY • "+({alphabet:"Alfabet",numbers:"Liczby",symbols:"Znaki i matematyka",shopping:"Zakupy i jedzenie",home:"Dom"}[mode.slice(6)]):level+" • "+({words:"Nauka słówek",spelling:"Pisownia słów",sentences:"Tłumaczenie zdań",tenses:"Czasy angielskie"}[mode]);
+ if(mode==="words"){
+  const requested=Math.min(Number(amount.value)||50,vocabularyByLevel[level].length);
+  if(questions.length<requested)document.getElementById("gameTitle").textContent+=" • dostępne "+questions.length+"/"+requested+" pytań";
+ }
  nextQuestion();
 }
 function nextQuestion(){
