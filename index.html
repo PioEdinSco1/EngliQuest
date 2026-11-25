@@ -350,7 +350,7 @@ function checkTyped(timeout=false){
  const enteredHtml=ok
   ?"<span style='color:#25d69a;font-weight:800'>"+entered+"</span>"
   :"<span style='color:#ff7185;text-decoration:underline;font-weight:800'>"+entered+"</span>";
- const sentenceReveal=mode==="sentences"?(q.direction==="pl-en"?"<div style='margin-top:12px;padding-top:10px;border-top:1px solid #29425e'><b>Po angielsku:</b><br><span style='font-size:19px;color:#25d69a;font-weight:700'>"+escapeHtml(q.a)+"</span><br><span style='color:#9fc4e8'>Wymowa: "+escapeHtml(pronunciationLine(q.a))+"</span></div>":"<div style='margin-top:12px;padding-top:10px;border-top:1px solid #29425e'><b>Po polsku:</b><br><span style='font-size:19px;color:#25d69a;font-weight:700'>"+escapeHtml(q.a)+"</span><br><span style='color:#9fc4e8'>Oryginał: "+escapeHtml(q.q)+"<br>Wymowa: "+escapeHtml(pronunciationLine(q.q))+"</span></div>"):"";
+ const sentenceReveal=mode==="sentences"?(function(){const english=q.direction==="pl-en"?q.a:q.q;const polish=q.direction==="pl-en"?q.q:q.a;return "<div style='margin-top:12px;padding-top:10px;border-top:1px solid #29425e'><b>Poprawne zdanie:</b><br><span style='font-size:19px;color:#25d69a;font-weight:700'>"+escapeHtml(english)+"</span><br><span style='color:#9fc4e8'>("+escapeHtml(polish)+")</span></div>";})():"";
  document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"ŹLE")+"</b><br>Twoja odpowiedź: "+enteredHtml+(ok?"":"<br>Poprawna odpowiedź: <span style='color:#25d69a;font-weight:800'>"+escapeHtml(mode==="sentences"?q.a:withPronunciation(q.a,mode==="spelling"))+"</span>")+sentenceReveal+"</div>";
  document.getElementById("next").style.display="inline-block";
 }
@@ -361,7 +361,7 @@ function check(i){
  record(ok,q);
  if(mode==="tenses"){
   const completed=q.q.replace("___",q.a);
-  const sentence="<div style='margin-top:12px'><b>Całe zdanie:</b><br>"+escapeHtml(withPronunciation(completed))+"<br><span style='color:#9fc4e8'>"+escapeHtml(q.sentenceTranslation||"Tłumaczenie niedostępne")+"</span></div>";
+  const sentence="<div style='margin-top:12px'><b>Całe zdanie:</b><br>"+escapeHtml(completed)+"<br><span style='color:#9fc4e8'>("+escapeHtml(q.sentenceTranslation||"Tłumaczenie niedostępne")+")</span></div>";
   const details=q.o.map((v,n)=>"<div style='padding:7px 0;border-bottom:1px solid #29425e'><b style='color:"+(n===q.c?"#25d69a":"#e8f0fb")+"'>"+escapeHtml(withPronunciation(v))+(n===q.c?" ✓":"")+"</b><br><span style='color:#9fc4e8'>"+escapeHtml(q.optionTranslations?.[n]||"")+"</span></div>").join("");
   document.getElementById("feedback").innerHTML="<div class='feedback'><b style='color:"+(ok?"#25d69a":"#ff7185")+"'>"+(ok?"Dobrze!":"Niestety, błędna odpowiedź.")+"</b>"+sentence+"<div style='margin-top:8px;color:#9fc4e8'>Uzupełnij zdanie w czasie: "+escapeHtml(q.tense)+"</div><div style='margin-top:14px'><b>Znaczenie wszystkich odpowiedzi:</b>"+details+"</div></div>";
  }else{
