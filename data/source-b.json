@@ -5453,8 +5453,7 @@
     "level": "B1",
     "word": "BO",
     "meaning": [
-      "zapach ciała smród",
-      "zapach ciała"
+      "nieprzyjemny zapach ciała (potocznie)"
     ],
     "partOfSpeech": [
       "noun"
@@ -6984,12 +6983,13 @@
     "level": "B1",
     "word": "Br.",
     "meaning": [
-      "Brytania",
-      "brytyjski",
-      "brat"
+      "Wielka Brytania (skrót)",
+      "brytyjski (skrót)",
+      "brat (skrót, np. w tytułach religijnych)"
     ],
     "partOfSpeech": [
-      "noun"
+      "noun",
+      "adjective"
     ]
   },
   {
