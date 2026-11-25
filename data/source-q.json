@@ -346,8 +346,7 @@
     "level": "B1",
     "word": "quartz",
     "meaning": [
-      "kwarc",
-      "kwarcowy"
+      "kwarc"
     ],
     "partOfSpeech": [
       "noun"
@@ -755,7 +754,8 @@
     "word": "quizzical",
     "meaning": [
       "pytający",
-      "wyrażający zdziwienie lub lekkie rozbawienie"
+      "wyrażający zdziwienie lub lekkie rozbawienie",
+      "zdezorientowany lub niepewny"
     ],
     "partOfSpeech": [
       "adjective"
