@@ -11054,5 +11054,49 @@
     "partOfSpeech": [
       "adjective"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "diaphanous",
+    "meaning": [
+      "przejrzysty",
+      "zwiewny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "disingenuous",
+    "meaning": [
+      "nieszczery",
+      "obłudny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "dissemble",
+    "meaning": [
+      "ukrywać prawdziwe intencje",
+      "udawać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "dolorous",
+    "meaning": [
+      "bolesny",
+      "żałosny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
