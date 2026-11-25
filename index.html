@@ -288,7 +288,7 @@ function startGame(){
   if(!pool.length){alert("Na tym poziomie nie ma jeszcze słówek.");return;}
   if(mode==="words"&&pool.length<4){alert("Na tym poziomie nie ma jeszcze wystarczającej liczby słówek.");return;}
   const amountRequested=Math.min(Number(amount.value)||50,pool.length);
-  questions=shuffle(pool).slice(0,amountRequested).map(entry=>mode==="words"?buildWordQuestion(entry,pool):({q:"Napisz słowo „"+entry.meanings[0]+"” po angielsku.",a:entry.word}));
+  questions=(mode==="words"?shuffle(pool).map(entry=>buildWordQuestion(entry,pool)).filter(Boolean).slice(0,amountRequested):shuffle(pool).slice(0,amountRequested).map(entry=>({q:"Napisz słowo „"+entry.meanings[0]+"” po angielsku.",a:entry.word})));
   if(!questions.length){alert("Nie udało się przygotować pytań dla tego poziomu.");return;}
  }else{
   if(mode==="sentences"){
