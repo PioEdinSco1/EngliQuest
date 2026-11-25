@@ -9386,5 +9386,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "maladroit",
+    "meaning": [
+      "niezręczny",
+      "nieporadny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "malleable",
+    "meaning": [
+      "podatny na kształtowanie",
+      "plastyczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "mendacious",
+    "meaning": [
+      "kłamliwy",
+      "nieprawdomówny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "mercurial",
+    "meaning": [
+      "zmienny",
+      "kapryśny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
