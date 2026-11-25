@@ -267,5 +267,38 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "zeitgeist",
+    "meaning": [
+      "duch epoki",
+      "klimat intelektualny epoki"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "zephyr",
+    "meaning": [
+      "zefir",
+      "łagodny wietrzyk"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "zestful",
+    "meaning": [
+      "pełen entuzjazmu",
+      "energiczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
