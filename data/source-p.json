@@ -15653,5 +15653,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "palliate",
+    "meaning": [
+      "łagodzić",
+      "umniejszać powagę"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "pellucid",
+    "meaning": [
+      "przejrzysty",
+      "krystalicznie jasny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "penchant",
+    "meaning": [
+      "zamiłowanie",
+      "skłonność"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "perfidious",
+    "meaning": [
+      "wiarołomny",
+      "zdradziecki"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
