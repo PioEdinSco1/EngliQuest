@@ -34,11 +34,11 @@
     "level": "A2",
     "word": "fabric",
     "meaning": [
+      "tkanina",
       "materiał",
       "płótno",
-      "tkanka",
-      "struktura budynku",
-      "substancja"
+      "tkanka lub struktura (np. społeczna)",
+      "substancja budowlana (elementy konstrukcyjne budynku)"
     ],
     "partOfSpeech": [
       "noun"
@@ -1801,12 +1801,15 @@
     "meaning": [
       "facet",
       "gość",
-      "członek",
-      "współtowarzysz",
-      "bliźni"
+      "kolega",
+      "towarzysz",
+      "członek organizacji lub stowarzyszenia",
+      "pracownik naukowy (na uczelni)",
+      "współ- (w złożeniach, np. fellow student)"
     ],
     "partOfSpeech": [
-      "noun"
+      "noun",
+      "adjective"
     ]
   },
   {
