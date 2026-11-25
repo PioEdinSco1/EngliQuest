@@ -8833,5 +8833,49 @@
     "partOfSpeech": [
       "adjective"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "farrago",
+    "meaning": [
+      "mieszanina",
+      "bezładna zbieranina"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "febrile",
+    "meaning": [
+      "gorączkowy",
+      "pełen napięcia"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "fulminate",
+    "meaning": [
+      "grzmieć",
+      "ostro potępiać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "fustian",
+    "meaning": [
+      "napuszony styl wypowiedzi",
+      "kwiecista, przesadna mowa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
