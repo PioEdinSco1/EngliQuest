@@ -5536,5 +5536,27 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "wheedle",
+    "meaning": [
+      "zjednywać pochlebstwami",
+      "namawiać podstępem"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "winsome",
+    "meaning": [
+      "ujmujący",
+      "czarujący"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
