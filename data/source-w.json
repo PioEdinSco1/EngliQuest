@@ -4665,8 +4665,8 @@
     "level": "A2",
     "word": "workbench",
     "meaning": [
-      "warsztat",
-      "stół do pracy"
+      "stół warsztatowy",
+      "stół roboczy"
     ],
     "partOfSpeech": [
       "noun"
@@ -5337,7 +5337,7 @@
     "level": "A2",
     "word": "wrist",
     "meaning": [
-      "przegub"
+      "nadgarstek"
     ],
     "partOfSpeech": [
       "noun"
@@ -5509,9 +5509,10 @@
     "level": "B2",
     "word": "wry",
     "meaning": [
-      "kwaśny",
-      "skrzywiony",
-      "skwaszony"
+      "ironiczny",
+      "sarkastyczny",
+      "cierpki",
+      "krzywy (np. uśmiech)"
     ],
     "partOfSpeech": [
       "adjective"
