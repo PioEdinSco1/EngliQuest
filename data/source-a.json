@@ -5043,11 +5043,11 @@
     "level": "B2",
     "word": "AV",
     "meaning": [
-      "audio-wizualny",
-      "Wersja Autoryzowana Biblii",
-      "Wersja Autoryzowana"
+      "audiowizualny",
+      "Authorized Version (autoryzowany przekład Biblii, King James Version)"
     ],
     "partOfSpeech": [
+      "adjective",
       "noun"
     ]
   },
@@ -5055,8 +5055,8 @@
     "level": "A2",
     "word": "av.",
     "meaning": [
-      "ul.",
-      "ulica"
+      "średnia (skrót od average)",
+      "al. (skrót od avenue)"
     ],
     "partOfSpeech": [
       "noun"
@@ -5131,8 +5131,8 @@
     "level": "A1",
     "word": "ave.",
     "meaning": [
-      "ul.",
-      "ulica"
+      "al.",
+      "aleja (skrót od avenue)"
     ],
     "partOfSpeech": [
       "noun"
