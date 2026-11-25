@@ -4342,5 +4342,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "obdurate",
+    "meaning": [
+      "zatwardziały",
+      "nieustępliwy"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "obfuscate",
+    "meaning": [
+      "zaciemniać",
+      "utrudniać zrozumienie"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "opprobrium",
+    "meaning": [
+      "hańba",
+      "publiczne potępienie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "ostracize",
+    "meaning": [
+      "ostracyzować",
+      "wykluczać ze społeczności"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
   }
 ]
