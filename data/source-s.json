@@ -3121,13 +3121,14 @@
     "level": "A1",
     "word": "sec.",
     "meaning": [
-      "sekunda",
-      "średni",
-      "drugorzędny",
-      "sekretarz"
+      "sekunda (skrót)",
+      "drugi (skrót od second)",
+      "sekretarz (skrót od secretary)",
+      "sekcja (skrót od section)"
     ],
     "partOfSpeech": [
-      "noun"
+      "noun",
+      "adjective"
     ]
   },
   {
