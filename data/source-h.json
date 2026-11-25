@@ -6547,5 +6547,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "hermetic",
+    "meaning": [
+      "hermetyczny",
+      "trudny do zrozumienia"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "heterodox",
+    "meaning": [
+      "nieortodoksyjny",
+      "niekonwencjonalny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "hubris",
+    "meaning": [
+      "pycha",
+      "zuchwała duma"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "hyperbole",
+    "meaning": [
+      "hiperbola",
+      "przesadnia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
