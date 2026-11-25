@@ -1,1 +1,269 @@
-[{"level":"B2","word":"Zaire","meaning":["Zair"],"partOfSpeech":"noun"},{"level":"C1","word":"Zairean","meaning":["zairski"],"partOfSpeech":"adjective"},{"level":"A2","word":"Zambia","meaning":["Zambia"],"partOfSpeech":"noun"},{"level":"B1","word":"Zambian","meaning":["zambijski"],"partOfSpeech":["adjective","noun"]},{"level":"B2","word":"zany","meaning":["dziwaczny"],"partOfSpeech":"adjective"},{"level":"B2","word":"zeal","meaning":["zapał"],"partOfSpeech":"noun"},{"level":"B2","word":"zealous","meaning":["zapalony","fanatyczny"],"partOfSpeech":"adjective"},{"level":"A1","word":"zebra","meaning":["zebra","przejście dla pieszych"],"partOfSpeech":"noun"},{"level":"B2","word":"zenith","meaning":["zenit"],"partOfSpeech":"noun"},{"level":"A1","word":"zero","meaning":["zero","zerowy"],"partOfSpeech":["noun","adjective"]},{"level":"B2","word":"zest","meaning":["radość życia","przyjemność"],"partOfSpeech":"noun"},{"level":"A2","word":"zigzag","meaning":["zygzak","poruszać się zygzakiem"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"Zimbabwe","meaning":["Zimbabwe"],"partOfSpeech":"noun"},{"level":"B1","word":"zinc","meaning":["cynk"],"partOfSpeech":"noun"},{"level":"C1","word":"Zion","meaning":["Syjon"],"partOfSpeech":"noun"},{"level":"C1","word":"Zionism","meaning":["syjonizm"],"partOfSpeech":"noun"},{"level":"C1","word":"Zionist","meaning":["syjonista"],"partOfSpeech":"noun"},{"level":"A2","word":"zip","meaning":["zamek błyskawiczny","zamykać na zamek błyskawiczny","zamykać","kod pocztowy"],"partOfSpeech":["noun","verb"]},{"level":"A2","word":"zipper","meaning":["zamek błyskawiczny"],"partOfSpeech":"noun"},{"level":"B1","word":"zombie","meaning":["żywy trup"],"partOfSpeech":"noun"},{"level":"B1","word":"zone","meaning":["strefa"],"partOfSpeech":"noun"},{"level":"A1","word":"zoo","meaning":["zoo","ogród zoologiczny"],"partOfSpeech":"noun"},{"level":"B2","word":"zoology","meaning":["zoologia"],"partOfSpeech":"noun"},{"level":"B1","word":"zoom","meaning":["mknąć","szybować","najeżdżać","obiektyw ze zmienną ogniskową"],"partOfSpeech":["noun","verb"]},{"level":"B1","word":"zucchini","meaning":["cukinia"],"partOfSpeech":"noun"}]
+[
+  {
+    "level": "B2",
+    "word": "Zaire",
+    "meaning": [
+      "Zair"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "Zairean",
+    "meaning": [
+      "zairski"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Zambia",
+    "meaning": [
+      "Zambia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "Zambian",
+    "meaning": [
+      "zambijski"
+    ],
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "zany",
+    "meaning": [
+      "dziwaczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "zeal",
+    "meaning": [
+      "zapał"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "zealous",
+    "meaning": [
+      "zapalony",
+      "fanatyczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "zebra",
+    "meaning": [
+      "zebra",
+      "przejście dla pieszych"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "zenith",
+    "meaning": [
+      "zenit"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "zero",
+    "meaning": [
+      "zero",
+      "zerowy"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "zest",
+    "meaning": [
+      "radość życia",
+      "przyjemność"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "zigzag",
+    "meaning": [
+      "zygzak",
+      "poruszać się zygzakiem"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "Zimbabwe",
+    "meaning": [
+      "Zimbabwe"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "zinc",
+    "meaning": [
+      "cynk"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "Zion",
+    "meaning": [
+      "Syjon"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "Zionism",
+    "meaning": [
+      "syjonizm"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C1",
+    "word": "Zionist",
+    "meaning": [
+      "syjonista"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "zip",
+    "meaning": [
+      "zamek błyskawiczny",
+      "zamykać na zamek błyskawiczny",
+      "zamykać",
+      "kod pocztowy"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "A2",
+    "word": "zipper",
+    "meaning": [
+      "zamek błyskawiczny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "zombie",
+    "meaning": [
+      "żywy trup"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "zone",
+    "meaning": [
+      "strefa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "A1",
+    "word": "zoo",
+    "meaning": [
+      "zoo",
+      "ogród zoologiczny"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B2",
+    "word": "zoology",
+    "meaning": [
+      "zoologia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "zoom",
+    "meaning": [
+      "mknąć",
+      "szybować",
+      "najeżdżać",
+      "obiektyw ze zmienną ogniskową"
+    ],
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "level": "B1",
+    "word": "zucchini",
+    "meaning": [
+      "cukinia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  }
+]
