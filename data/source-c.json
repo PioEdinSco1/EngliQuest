@@ -13910,5 +13910,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "coterie",
+    "meaning": [
+      "koteria",
+      "zamknięte grono"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "credulous",
+    "meaning": [
+      "łatwowierny",
+      "łatwowierzący"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "cupidity",
+    "meaning": [
+      "chciwość",
+      "żądza bogactwa"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "curmudgeon",
+    "meaning": [
+      "zrzęda",
+      "mruk"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
   }
 ]
