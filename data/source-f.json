@@ -1803,10 +1803,12 @@
       "kolega",
       "towarzysz",
       "członek organizacji lub stowarzyszenia",
-      "pracownik naukowy (na uczelni)"
+      "pracownik naukowy lub wykładowca (na uczelni)",
+      "należący do tej samej grupy lub znajdujący się w podobnej sytuacji (np. fellow student – kolega ze studiów)"
     ],
     "partOfSpeech": [
-      "noun"
+      "noun",
+      "adjective"
     ]
   },
   {
