@@ -9922,5 +9922,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "rancorous",
+    "meaning": [
+      "pełen urazy",
+      "zawistny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "recondite",
+    "meaning": [
+      "trudny do zrozumienia",
+      "specjalistyczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "remonstrate",
+    "meaning": [
+      "protestować",
+      "wyrażać sprzeciw"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "rescind",
+    "meaning": [
+      "unieważniać",
+      "uchylać"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
   }
 ]
