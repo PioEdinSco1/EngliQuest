@@ -37,8 +37,8 @@
       "tkanina",
       "materiał",
       "płótno",
-      "tkanka lub struktura (np. społeczna)",
-      "substancja budowlana (elementy konstrukcyjne budynku)"
+      "tkanka",
+      "struktura lub konstrukcja (np. budynku albo społeczeństwa)"
     ],
     "partOfSpeech": [
       "noun"
@@ -1804,12 +1804,10 @@
       "kolega",
       "towarzysz",
       "członek organizacji lub stowarzyszenia",
-      "pracownik naukowy (na uczelni)",
-      "współ- (w złożeniach, np. fellow student)"
+      "pracownik naukowy (na uczelni)"
     ],
     "partOfSpeech": [
-      "noun",
-      "adjective"
+      "noun"
     ]
   },
   {
