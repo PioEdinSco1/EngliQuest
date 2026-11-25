@@ -809,5 +809,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "quiescent",
+    "meaning": [
+      "uśpiony",
+      "nieaktywny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "quintessential",
+    "meaning": [
+      "kwintesencjonalny",
+      "typowy w najwyższym stopniu"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "quixotic",
+    "meaning": [
+      "idealistyczny do granic rozsądku",
+      "niepraktyczny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "quondam",
+    "meaning": [
+      "dawny",
+      "były"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
