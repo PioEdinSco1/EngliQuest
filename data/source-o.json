@@ -1992,9 +1992,13 @@
     "level": "A2",
     "word": "opp.",
     "meaning": [
-      "naprzeciw"
+      "naprzeciw",
+      "po przeciwnej stronie",
+      "przeciwny (skrót w notatkach i opisach)"
     ],
     "partOfSpeech": [
+      "preposition",
+      "adverb",
       "adjective"
     ]
   },
