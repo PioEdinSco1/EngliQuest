@@ -8767,5 +8767,49 @@
     "partOfSpeech": [
       "noun"
     ]
+  },
+  {
+    "level": "C2",
+    "word": "stentorian",
+    "meaning": [
+      "donośny",
+      "grzmiący"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "torpor",
+    "meaning": [
+      "odrętwienie",
+      "apatia"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "tractable",
+    "meaning": [
+      "podatny na kierowanie",
+      "łatwy do opanowania"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "level": "C2",
+    "word": "trenchant",
+    "meaning": [
+      "cięty",
+      "wnikliwy i dosadny"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
   }
 ]
