@@ -3,8 +3,7 @@
     "level": "A2",
     "word": "F.",
     "meaning": [
-      "członek",
-      "Fahrenheita"
+      "stopień Fahrenheita (symbol temperatury)"
     ],
     "partOfSpeech": [
       "noun"
@@ -5145,10 +5144,12 @@
     "level": "B2",
     "word": "f.o.b.",
     "meaning": [
-      "włączone w cenę biletu za przejazd"
+      "franco statek",
+      "dostarczony na pokład statku (warunki dostawy FOB)"
     ],
     "partOfSpeech": [
-      "adjective"
+      "adjective",
+      "adverb"
     ]
   },
   {
@@ -6944,10 +6945,10 @@
     "level": "B1",
     "word": "Fr.",
     "meaning": [
-      "ojciec",
-      "Francja",
-      "francuski",
-      "piątek"
+      "ojciec (tytuł duchownego)",
+      "Francja (skrót)",
+      "francuski (skrót)",
+      "piątek (skrót od Friday)"
     ],
     "partOfSpeech": [
       "noun",
