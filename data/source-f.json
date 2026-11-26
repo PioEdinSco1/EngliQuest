@@ -7373,11 +7373,11 @@
     "level": "B1",
     "word": "freely",
     "meaning": [
-      "często",
-      "obficie",
       "swobodnie",
-      "bez przeszkód",
-      "szczodrze"
+      "bez ograniczeń",
+      "dobrowolnie",
+      "chętnie",
+      "bez skrępowania"
     ],
     "partOfSpeech": [
       "adverb"
@@ -7387,7 +7387,8 @@
     "level": "B1",
     "word": "free-range",
     "meaning": [
-      "wiejski"
+      "z wolnego wybiegu",
+      "chowany na wolnym wybiegu"
     ],
     "partOfSpeech": [
       "adjective"
@@ -7599,8 +7600,8 @@
     "level": "B1",
     "word": "fresher",
     "meaning": [
-      "nowy student",
-      "nowy"
+      "student pierwszego roku",
+      "nowy student (w brytyjskim angielskim)"
     ],
     "partOfSpeech": [
       "noun"
@@ -8344,9 +8345,10 @@
     "level": "B2",
     "word": "fully-fledged",
     "meaning": [
-      "opierzony",
-      "dojrzały",
-      "pełnouprawniony"
+      "w pełni rozwinięty",
+      "w pełni ukształtowany",
+      "pełnoprawny",
+      "w pełni wykwalifikowany"
     ],
     "partOfSpeech": [
       "adjective"
