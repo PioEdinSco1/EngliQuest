@@ -13289,10 +13289,11 @@
     "level": "B1",
     "word": "pron.",
     "meaning": [
-      "wymawiany",
-      "wymowa"
+      "wymowa (skrót od pronunciation)",
+      "wymawiany (skrót od pronounced)"
     ],
     "partOfSpeech": [
+      "noun",
       "adjective"
     ]
   },
