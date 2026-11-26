@@ -80,11 +80,15 @@
     "level": "B1",
     "word": "quadruple",
     "meaning": [
-      "zwiększać się czterokrotnie",
+      "czterokrotny",
+      "poczwórny",
+      "czterokrotnie",
       "zwiększać czterokrotnie",
-      "czterokrotnie"
+      "stać się czterokrotnie większym"
     ],
     "partOfSpeech": [
+      "adjective",
+      "adverb",
       "verb"
     ]
   },
