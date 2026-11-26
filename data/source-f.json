@@ -7018,7 +7018,10 @@
     "word": "fragment",
     "meaning": [
       "fragment",
-      "rozpadać się na kawałki"
+      "część",
+      "urywek",
+      "rozpaść się na fragmenty",
+      "rozbijać się na części"
     ],
     "partOfSpeech": [
       "noun",
@@ -7560,10 +7563,9 @@
     "word": "frequent",
     "meaning": [
       "częsty",
-      "uczęszczać do",
-      "uczęszczać",
-      "bywać w",
-      "bywać"
+      "regularnie odwiedzać",
+      "często bywać w",
+      "uczęszczać do"
     ],
     "partOfSpeech": [
       "adjective",
@@ -7665,7 +7667,10 @@
     "level": "B2",
     "word": "fret",
     "meaning": [
-      "gryźć się"
+      "martwić się",
+      "gryźć się",
+      "niepokoić się",
+      "dręczyć się"
     ],
     "partOfSpeech": [
       "verb"
@@ -7798,8 +7803,10 @@
     "level": "A2",
     "word": "frighten",
     "meaning": [
+      "przestraszyć",
       "straszyć",
-      "odstraszać"
+      "wystraszyć",
+      "napędzić komuś stracha"
     ],
     "partOfSpeech": [
       "verb"
@@ -7898,8 +7905,10 @@
     "level": "B1",
     "word": "frisky",
     "meaning": [
-      "żywy",
-      "rozbawiony"
+      "figlarny",
+      "skory do zabawy",
+      "żywiołowy",
+      "rozbrykany"
     ],
     "partOfSpeech": [
       "adjective"
@@ -8478,9 +8487,11 @@
     "level": "B1",
     "word": "fundamental",
     "meaning": [
-      "fundamentalny",
       "podstawowy",
-      "podstawy"
+      "zasadniczy",
+      "fundamentalny",
+      "podstawowa zasada",
+      "podstawa"
     ],
     "partOfSpeech": [
       "adjective",
