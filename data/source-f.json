@@ -7036,7 +7036,9 @@
     "level": "B2",
     "word": "fragmentation",
     "meaning": [
-      "odłamkowy"
+      "fragmentacja",
+      "rozpad na części",
+      "rozczłonkowanie"
     ],
     "partOfSpeech": [
       "noun"
@@ -7066,8 +7068,10 @@
     "level": "B1",
     "word": "frail",
     "meaning": [
+      "wątły",
       "kruchy",
-      "wątł"
+      "delikatny",
+      "osłabiony"
     ],
     "partOfSpeech": [
       "adjective"
@@ -8329,8 +8333,8 @@
     "meaning": [
       "w pełni",
       "całkowicie",
-      "co najmniej",
-      "przynajmniej"
+      "zupełnie",
+      "w maksymalnym stopniu"
     ],
     "partOfSpeech": [
       "adverb"
