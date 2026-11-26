@@ -6823,12 +6823,12 @@
     "level": "B1",
     "word": "founder",
     "meaning": [
-      "fundator",
       "założyciel",
-      "zawodzić",
-      "nie powodzić się",
-      "tonąć",
-      "iść pod wodę"
+      "fundator",
+      "zatonąć",
+      "osiąść na mieliźnie",
+      "załamać się",
+      "nie powieść się"
     ],
     "partOfSpeech": [
       "noun",
@@ -6861,7 +6861,9 @@
     "word": "fountain",
     "meaning": [
       "fontanna",
-      "pióro wieczne"
+      "źródło wody",
+      "zdrój",
+      "źródło (czegoś)"
     ],
     "partOfSpeech": [
       "noun"
@@ -6924,8 +6926,9 @@
     "level": "B1",
     "word": "fowl",
     "meaning": [
-      "ptak łowny",
-      "ptak"
+      "drób",
+      "ptactwo",
+      "ptak hodowlany"
     ],
     "partOfSpeech": [
       "noun"
@@ -7517,8 +7520,9 @@
     "level": "B2",
     "word": "frenetic",
     "meaning": [
-      "frenetyczny",
-      "entuzjastyczny"
+      "gorączkowy",
+      "szaleńczy",
+      "pełen chaotycznej aktywności"
     ],
     "partOfSpeech": [
       "adjective"
@@ -7687,8 +7691,10 @@
     "word": "friction",
     "meaning": [
       "tarcie",
-      "tarcia",
-      "nieporozumienia"
+      "opór",
+      "napięcia",
+      "nieporozumienia",
+      "konflikty"
     ],
     "partOfSpeech": [
       "noun"
@@ -8358,8 +8364,10 @@
     "level": "C1",
     "word": "fulsome",
     "meaning": [
-      "wylewny",
-      "przesadny"
+      "przesadny",
+      "przesadnie pochlebny",
+      "nieszczery w pochlebstwach",
+      "przesadnie wylewny"
     ],
     "partOfSpeech": [
       "adjective"
@@ -8380,9 +8388,11 @@
     "level": "B1",
     "word": "fume",
     "meaning": [
-      "wyziewy",
-      "opary",
-      "szaleć"
+      "opar",
+      "wyziew",
+      "dymić",
+      "wydzielać opary",
+      "kipieć ze złości"
     ],
     "partOfSpeech": [
       "noun",
@@ -8705,7 +8715,9 @@
     "word": "furtive",
     "meaning": [
       "skryty",
-      "ukradkiem"
+      "potajemny",
+      "ukradkowy",
+      "wykonywany w tajemnicy"
     ],
     "partOfSpeech": [
       "adjective"
@@ -8796,7 +8808,10 @@
     "level": "B2",
     "word": "futile",
     "meaning": [
-      "jałowy"
+      "daremny",
+      "bezskuteczny",
+      "bezcelowy",
+      "nieprzynoszący rezultatów"
     ],
     "partOfSpeech": [
       "adjective"
