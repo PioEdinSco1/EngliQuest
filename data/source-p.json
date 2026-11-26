@@ -2746,11 +2746,12 @@
     "level": "B1",
     "word": "p.d.",
     "meaning": [
-      "dziennie",
-      "dieta dzienna"
+      "dziennie (skrót od per diem)",
+      "dieta lub stawka dzienna (per diem allowance)"
     ],
     "partOfSpeech": [
-      "adverb"
+      "adverb",
+      "noun"
     ]
   },
   {
