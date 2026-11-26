@@ -7299,14 +7299,16 @@
     "word": "free",
     "meaning": [
       "wolny",
+      "swobodny",
+      "niezajęty",
+      "bezpłatny",
       "darmowy",
+      "uwolnić",
+      "zwolnić",
       "uwalniać",
       "zwalniać",
-      "wolno",
-      "swobodnie",
-      "wolna inicjatywa",
-      "rzut wolny",
-      "wolna wola"
+      "bezpłatnie",
+      "swobodnie"
     ],
     "partOfSpeech": [
       "adjective",
@@ -7362,14 +7364,17 @@
     "level": "B1",
     "word": "freelance",
     "meaning": [
-      "niezależny",
-      "niezależnie",
-      "niezależny współpracownik"
+      "pracujący jako freelancer",
+      "wolny strzelec",
+      "niezależny zawodowo",
+      "pracować jako freelancer",
+      "wykonywać zlecenia dla różnych firm"
     ],
     "partOfSpeech": [
       "noun",
       "adjective",
-      "adverb"
+      "adverb",
+      "verb"
     ]
   },
   {
@@ -7542,8 +7547,9 @@
     "level": "B1",
     "word": "frequency",
     "meaning": [
+      "częstotliwość",
       "częstość",
-      "frekwencja"
+      "częstotliwość występowania"
     ],
     "partOfSpeech": [
       "noun"
@@ -7578,11 +7584,12 @@
     "level": "A1",
     "word": "fresh",
     "meaning": [
-      "nowy",
       "świeży",
-      "słodki",
-      "odświeżający",
-      "rześki"
+      "nowy",
+      "niedawny",
+      "rześki",
+      "świeżo przygotowany",
+      "słodkowodny (o wodzie)"
     ],
     "partOfSpeech": [
       "adjective"
