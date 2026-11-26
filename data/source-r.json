@@ -6900,10 +6900,12 @@
     "level": "B1",
     "word": "Rev.",
     "meaning": [
-      "wielebny",
-      "obrót"
+      "wielebny (skrót od Reverend)",
+      "Objawienie św. Jana (skrót od Revelation)",
+      "rewizja lub poprawiona wersja (skrót od revision/revised)"
     ],
     "partOfSpeech": [
+      "noun",
       "adjective"
     ]
   },
